@@ -1,0 +1,1198 @@
+season,round,date,raceName,driverId,constructorId,podium,grid,drv_avg_finish_5,drv_avg_points_5,drv_dnf_rate_5,con_avg_points_5,drv_circuit_avg_finish
+2023,1,2023-03-05,Bahrain Grand Prix,alb,williams,0,15,14.6,0.0,0.0,0.0,13.0
+2023,1,2023-03-05,Bahrain Grand Prix,alo,aston_martin,1,5,11.6,4.4,0.0,1.2,14.0
+2023,1,2023-03-05,Bahrain Grand Prix,bot,alfa_romeo,0,12,13.6,0.6,0.0,0.4,4.5
+2023,1,2023-03-05,Bahrain Grand Prix,dev,alphatauri,0,19,9.0,2.0,0.0,0.0,12.0
+2023,1,2023-03-05,Bahrain Grand Prix,gas,alpine,0,20,14.2,0.0,0.0,4.8,18.5
+2023,1,2023-03-05,Bahrain Grand Prix,ham,mercedes,0,7,5.8,12.8,0.0,13.4,2.0
+2023,1,2023-03-05,Bahrain Grand Prix,hul,haas_f1_team,0,10,14.5,0.0,0.0,0.0,17.0
+2023,1,2023-03-05,Bahrain Grand Prix,lec,ferrari,0,3,3.6,13.6,0.0,13.4,3.5
+2023,1,2023-03-05,Bahrain Grand Prix,mag,haas_f1_team,0,17,15.2,0.4,0.0,0.0,5.0
+2023,1,2023-03-05,Bahrain Grand Prix,nor,mclaren,0,11,9.8,4.0,0.0,3.4,9.5
+2023,1,2023-03-05,Bahrain Grand Prix,oco,alpine,0,9,7.6,5.2,0.0,4.4,10.0
+2023,1,2023-03-05,Bahrain Grand Prix,per,red_bull_racing,1,2,3.8,13.2,0.0,15.8,11.5
+2023,1,2023-03-05,Bahrain Grand Prix,pia,mclaren,0,18,15.2,1.4,0.0,2.2,12.0
+2023,1,2023-03-05,Bahrain Grand Prix,rus,mercedes,0,6,4.6,12.8,0.0,12.8,9.0
+2023,1,2023-03-05,Bahrain Grand Prix,sai,ferrari,0,4,10.2,7.4,0.0,11.4,5.0
+2023,1,2023-03-05,Bahrain Grand Prix,sar,williams,0,16,15.2,1.4,0.0,0.2,12.0
+2023,1,2023-03-05,Bahrain Grand Prix,str,aston_martin,0,8,12.6,1.0,0.0,4.2,11.0
+2023,1,2023-03-05,Bahrain Grand Prix,tsu,alphatauri,0,14,14.2,0.2,0.0,0.0,8.5
+2023,1,2023-03-05,Bahrain Grand Prix,ver,red_bull_racing,1,1,2.0,21.6,0.0,14.4,10.5
+2023,1,2023-03-05,Bahrain Grand Prix,zho,alfa_romeo,0,13,13.0,0.0,0.0,1.2,10.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,alb,williams,0,17,12.6,0.2,0.0,0.2,14.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,alo,aston_martin,1,2,10.8,6.2,0.0,5.6,14.5
+2023,2,2023-03-19,Saudi Arabian Grand Prix,bot,alfa_romeo,0,14,12.2,1.4,0.0,0.8,9.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,dev,alphatauri,0,18,11.5,1.0,0.0,0.0,12.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,gas,alpine,0,9,12.4,0.4,0.0,2.4,7.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,ham,mercedes,0,7,5.8,12.8,0.0,10.4,5.5
+2023,2,2023-03-19,Saudi Arabian Grand Prix,hul,haas_f1_team,0,10,14.666666666666666,0.0,0.0,0.0,12.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,lec,ferrari,0,12,6.8,10.6,0.0,11.4,4.5
+2023,2,2023-03-19,Saudi Arabian Grand Prix,mag,haas_f1_team,0,13,15.0,0.4,0.0,0.0,9.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,nor,mclaren,0,19,11.2,3.8,0.0,2.2,8.5
+2023,2,2023-03-19,Saudi Arabian Grand Prix,oco,alpine,0,6,10.4,2.8,0.0,2.0,5.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,per,red_bull_racing,1,1,3.8,13.2,0.0,18.2,10.5
+2023,2,2023-03-19,Saudi Arabian Grand Prix,pia,mclaren,0,8,20.0,0.0,0.0,2.2,12.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,rus,mercedes,0,3,4.4,13.2,0.0,7.2,12.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,sai,ferrari,0,4,7.2,9.8,0.0,9.6,5.5
+2023,2,2023-03-19,Saudi Arabian Grand Prix,sar,williams,0,20,12.0,0.0,0.0,0.2,12.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,str,aston_martin,0,5,11.4,2.6,0.0,8.6,12.0
+2023,2,2023-03-19,Saudi Arabian Grand Prix,tsu,alphatauri,0,16,13.8,0.2,0.0,0.0,16.5
+2023,2,2023-03-19,Saudi Arabian Grand Prix,ver,red_bull_racing,1,15,2.0,21.6,0.0,21.6,1.5
+2023,2,2023-03-19,Saudi Arabian Grand Prix,zho,alfa_romeo,0,11,13.0,0.0,0.0,0.8,11.0
+2023,3,2023-04-02,Australian Grand Prix,alb,williams,0,8,13.8,0.2,0.0,0.2,10.0
+2023,3,2023-04-02,Australian Grand Prix,alo,aston_martin,1,4,10.0,8.0,0.0,7.8,17.0
+2023,3,2023-04-02,Australian Grand Prix,bot,alfa_romeo,0,19,12.0,1.4,0.0,0.8,8.0
+2023,3,2023-04-02,Australian Grand Prix,dev,alphatauri,0,15,12.333333333333334,0.6666666666666666,0.0,0.0,12.0
+2023,3,2023-04-02,Australian Grand Prix,gas,alpine,0,9,11.4,0.8,0.0,2.8,9.0
+2023,3,2023-04-02,Australian Grand Prix,ham,mercedes,1,3,6.4,11.2,0.0,9.6,4.0
+2023,3,2023-04-02,Australian Grand Prix,hul,haas_f1_team,0,10,14.0,0.0,0.0,0.2,12.0
+2023,3,2023-04-02,Australian Grand Prix,lec,ferrari,0,7,7.6,8.8,0.0,7.6,1.0
+2023,3,2023-04-02,Australian Grand Prix,mag,haas_f1_team,0,14,15.2,0.2,0.0,1.4,14.0
+2023,3,2023-04-02,Australian Grand Prix,nor,mclaren,0,13,13.4,2.2,0.0,0.4,5.0
+2023,3,2023-04-02,Australian Grand Prix,oco,alpine,0,11,9.8,3.6,0.0,1.6,7.0
+2023,3,2023-04-02,Australian Grand Prix,per,red_bull_racing,0,20,3.2,15.8,0.0,22.4,2.0
+2023,3,2023-04-02,Australian Grand Prix,pia,mclaren,0,16,17.5,0.0,0.0,1.6,12.0
+2023,3,2023-04-02,Australian Grand Prix,rus,mercedes,0,2,4.2,13.4,0.0,11.2,3.0
+2023,3,2023-04-02,Australian Grand Prix,sai,ferrari,0,5,4.4,11.4,0.0,5.2,20.0
+2023,3,2023-04-02,Australian Grand Prix,sar,williams,0,18,14.0,0.0,0.0,0.2,12.0
+2023,3,2023-04-02,Australian Grand Prix,str,aston_martin,0,6,11.8,2.6,0.0,10.6,12.0
+2023,3,2023-04-02,Australian Grand Prix,tsu,alphatauri,0,12,14.0,0.0,0.0,0.0,15.0
+2023,3,2023-04-02,Australian Grand Prix,ver,red_bull_racing,1,1,2.2,20.4,0.0,19.6,18.0
+2023,3,2023-04-02,Australian Grand Prix,zho,alfa_romeo,0,17,13.2,0.0,0.0,0.8,11.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,alb,williams,0,12,15.2,0.2,0.0,0.0,12.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,alo,aston_martin,0,6,6.8,11.0,0.0,10.0,6.5
+2023,4,2023-04-30,Azerbaijan Grand Prix,bot,alfa_romeo,0,13,12.2,1.2,0.0,0.4,11.5
+2023,4,2023-04-30,Azerbaijan Grand Prix,dev,alphatauri,0,18,13.0,0.5,0.0,0.2,12.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,gas,alpine,0,17,11.8,0.8,0.0,1.2,4.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,ham,mercedes,0,5,6.4,11.2,0.0,9.2,9.5
+2023,4,2023-04-30,Azerbaijan Grand Prix,hul,haas_f1_team,0,20,12.6,1.2,0.0,1.4,12.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,lec,ferrari,1,1,10.4,7.2,0.0,5.2,11.5
+2023,4,2023-04-30,Azerbaijan Grand Prix,mag,haas_f1_team,0,16,15.2,0.2,0.0,1.4,17.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,nor,mclaren,0,7,12.8,3.4,0.0,2.4,7.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,oco,alpine,0,19,11.0,2.8,0.0,1.2,15.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,per,red_bull_racing,1,3,3.6,15.0,0.0,21.0,1.5
+2023,4,2023-04-30,Azerbaijan Grand Prix,pia,mclaren,0,10,14.333333333333334,1.3333333333333333,0.0,2.8,12.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,rus,mercedes,0,11,7.0,10.8,0.0,9.6,10.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,sai,ferrari,0,4,5.8,9.4,0.0,5.8,14.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,sar,williams,0,14,14.666666666666666,0.0,0.0,0.0,12.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,str,aston_martin,0,9,9.6,5.0,0.0,10.8,17.5
+2023,4,2023-04-30,Azerbaijan Grand Prix,tsu,alphatauri,0,8,12.0,0.2,0.0,0.2,10.0
+2023,4,2023-04-30,Azerbaijan Grand Prix,ver,red_bull_racing,1,2,2.2,20.4,0.0,21.0,9.5
+2023,4,2023-04-30,Azerbaijan Grand Prix,zho,alfa_romeo,0,15,12.4,0.4,0.0,0.4,18.0
+2023,5,2023-05-07,Miami Grand Prix,alb,williams,0,11,14.6,0.2,0.0,0.0,9.0
+2023,5,2023-05-07,Miami Grand Prix,alo,aston_martin,1,2,6.6,11.4,0.0,9.0,11.0
+2023,5,2023-05-07,Miami Grand Prix,bot,alfa_romeo,0,10,14.0,0.8,0.0,0.4,7.0
+2023,5,2023-05-07,Miami Grand Prix,dev,alphatauri,0,15,14.4,0.4,0.0,0.4,12.0
+2023,5,2023-05-07,Miami Grand Prix,gas,alpine,0,5,11.8,0.8,0.0,0.8,18.0
+2023,5,2023-05-07,Miami Grand Prix,ham,mercedes,0,13,7.2,9.2,0.0,8.6,6.0
+2023,5,2023-05-07,Miami Grand Prix,hul,haas_f1_team,0,12,12.6,1.2,0.0,1.4,12.0
+2023,5,2023-05-07,Miami Grand Prix,lec,ferrari,0,7,10.2,7.8,0.0,6.6,2.0
+2023,5,2023-05-07,Miami Grand Prix,mag,haas_f1_team,0,4,14.0,0.2,0.0,1.2,16.0
+2023,5,2023-05-07,Miami Grand Prix,nor,mclaren,0,16,11.0,3.8,0.0,2.8,19.0
+2023,5,2023-05-07,Miami Grand Prix,oco,alpine,0,8,12.4,2.0,0.0,0.8,8.0
+2023,5,2023-05-07,Miami Grand Prix,per,red_bull_racing,1,1,2.4,18.8,0.0,19.6,4.0
+2023,5,2023-05-07,Miami Grand Prix,pia,mclaren,0,19,13.5,1.0,0.0,2.8,12.0
+2023,5,2023-05-07,Miami Grand Prix,rus,mercedes,0,6,8.4,6.6,0.0,7.8,5.0
+2023,5,2023-05-07,Miami Grand Prix,sai,ferrari,0,3,6.2,8.4,0.0,6.2,3.0
+2023,5,2023-05-07,Miami Grand Prix,sar,williams,0,20,15.0,0.0,0.0,0.0,12.0
+2023,5,2023-05-07,Miami Grand Prix,str,aston_martin,0,18,9.0,6.0,0.0,12.0,10.0
+2023,5,2023-05-07,Miami Grand Prix,tsu,alphatauri,0,17,10.6,0.4,0.0,0.4,12.0
+2023,5,2023-05-07,Miami Grand Prix,ver,red_bull_racing,1,9,1.4,22.4,0.0,19.4,1.0
+2023,5,2023-05-07,Miami Grand Prix,zho,alfa_romeo,0,14,13.8,0.4,0.0,0.4,20.0
+2023,6,2023-05-28,Monaco Grand Prix,alb,williams,0,13,14.8,0.2,0.0,0.0,18.0
+2023,6,2023-05-28,Monaco Grand Prix,alo,aston_martin,1,2,3.2,14.4,0.0,9.0,10.0
+2023,6,2023-05-28,Monaco Grand Prix,bot,alfa_romeo,0,15,13.6,0.8,0.0,0.4,14.0
+2023,6,2023-05-28,Monaco Grand Prix,dev,alphatauri,0,12,16.2,0.0,0.0,0.4,12.0
+2023,6,2023-05-28,Monaco Grand Prix,gas,alpine,0,7,10.6,1.6,0.0,1.2,8.5
+2023,6,2023-05-28,Monaco Grand Prix,ham,mercedes,0,5,4.8,10.8,0.0,6.6,7.5
+2023,6,2023-05-28,Monaco Grand Prix,hul,haas_f1_team,0,18,13.2,1.2,0.0,0.2,12.0
+2023,6,2023-05-28,Monaco Grand Prix,lec,ferrari,0,6,11.2,5.4,0.0,8.2,12.0
+2023,6,2023-05-28,Monaco Grand Prix,mag,haas_f1_team,0,17,12.6,0.4,0.0,0.2,20.0
+2023,6,2023-05-28,Monaco Grand Prix,nor,mclaren,0,10,13.2,2.0,0.0,1.2,4.5
+2023,6,2023-05-28,Monaco Grand Prix,oco,alpine,1,3,12.8,1.2,0.0,2.4,10.5
+2023,6,2023-05-28,Monaco Grand Prix,per,red_bull_racing,0,20,2.2,19.4,0.0,22.4,2.5
+2023,6,2023-05-28,Monaco Grand Prix,pia,mclaren,0,11,14.6,0.8,0.0,0.8,12.0
+2023,6,2023-05-28,Monaco Grand Prix,rus,mercedes,0,8,8.2,7.0,0.0,9.2,9.5
+2023,6,2023-05-28,Monaco Grand Prix,sai,ferrari,0,4,6.4,8.0,0.0,9.8,2.0
+2023,6,2023-05-28,Monaco Grand Prix,sar,williams,0,16,16.0,0.0,0.0,0.0,12.0
+2023,6,2023-05-28,Monaco Grand Prix,str,aston_martin,0,14,9.8,5.2,0.0,10.2,11.0
+2023,6,2023-05-28,Monaco Grand Prix,tsu,alphatauri,0,9,10.6,0.4,0.0,0.2,16.5
+2023,6,2023-05-28,Monaco Grand Prix,ver,red_bull_racing,1,1,1.4,22.6,0.0,17.4,2.0
+2023,6,2023-05-28,Monaco Grand Prix,zho,alfa_romeo,0,19,14.6,0.4,0.0,0.0,16.0
+2023,7,2023-06-04,Spanish Grand Prix,alb,williams,0,18,15.6,0.0,0.0,0.0,18.0
+2023,7,2023-06-04,Spanish Grand Prix,alo,aston_martin,0,8,3.0,15.0,0.0,7.8,13.0
+2023,7,2023-06-04,Spanish Grand Prix,bot,alfa_romeo,0,16,14.2,0.0,0.0,0.0,4.5
+2023,7,2023-06-04,Spanish Grand Prix,dev,alphatauri,0,14,15.8,0.0,0.0,0.2,12.0
+2023,7,2023-06-04,Spanish Grand Prix,gas,alpine,0,10,10.2,2.4,0.0,5.4,11.5
+2023,7,2023-06-04,Spanish Grand Prix,ham,mercedes,1,4,4.6,11.4,0.0,9.6,3.0
+2023,7,2023-06-04,Spanish Grand Prix,hul,haas_f1_team,0,7,13.6,1.2,0.0,0.2,12.0
+2023,7,2023-06-04,Spanish Grand Prix,lec,ferrari,0,19,8.6,7.0,0.0,7.6,12.0
+2023,7,2023-06-04,Spanish Grand Prix,mag,haas_f1_team,0,17,13.8,0.4,0.0,0.2,17.0
+2023,7,2023-06-04,Spanish Grand Prix,nor,mclaren,0,3,11.6,2.4,0.0,0.6,8.0
+2023,7,2023-06-04,Spanish Grand Prix,oco,alpine,0,6,9.8,4.2,0.0,5.6,8.0
+2023,7,2023-06-04,Spanish Grand Prix,per,red_bull_racing,0,11,5.0,15.8,0.0,17.4,3.5
+2023,7,2023-06-04,Spanish Grand Prix,pia,mclaren,0,9,12.6,1.0,0.0,0.6,12.0
+2023,7,2023-06-04,Spanish Grand Prix,rus,mercedes,1,12,7.8,7.8,0.0,12.2,8.5
+2023,7,2023-06-04,Spanish Grand Prix,sai,ferrari,0,2,7.2,6.4,0.0,5.6,5.5
+2023,7,2023-06-04,Spanish Grand Prix,sar,williams,0,20,17.2,0.0,0.0,0.0,12.0
+2023,7,2023-06-04,Spanish Grand Prix,str,aston_martin,0,5,12.6,3.6,0.0,7.8,13.0
+2023,7,2023-06-04,Spanish Grand Prix,tsu,alphatauri,0,15,11.4,0.4,0.0,0.0,15.0
+2023,7,2023-06-04,Spanish Grand Prix,ver,red_bull_racing,1,1,1.4,22.6,0.0,16.2,1.5
+2023,7,2023-06-04,Spanish Grand Prix,zho,alfa_romeo,0,13,14.0,0.4,0.0,0.0,19.0
+2023,8,2023-06-18,Canadian Grand Prix,alb,williams,0,9,15.0,0.0,0.0,0.0,13.0
+2023,8,2023-06-18,Canadian Grand Prix,alo,aston_martin,1,2,3.8,13.2,0.0,6.4,9.0
+2023,8,2023-06-18,Canadian Grand Prix,bot,alfa_romeo,0,14,14.4,0.0,0.0,0.4,7.0
+2023,8,2023-06-18,Canadian Grand Prix,dev,alphatauri,0,17,15.8,0.0,0.0,0.0,12.0
+2023,8,2023-06-18,Canadian Grand Prix,gas,alpine,0,15,10.4,2.2,0.0,5.6,14.0
+2023,8,2023-06-18,Canadian Grand Prix,ham,mercedes,1,3,4.0,13.0,0.0,13.6,3.0
+2023,8,2023-06-18,Canadian Grand Prix,hul,haas_f1_team,0,5,14.2,1.2,0.0,0.2,12.0
+2023,8,2023-06-18,Canadian Grand Prix,lec,ferrari,0,10,9.4,5.8,0.0,6.4,5.0
+2023,8,2023-06-18,Canadian Grand Prix,mag,haas_f1_team,0,13,15.4,0.2,0.0,0.0,17.0
+2023,8,2023-06-18,Canadian Grand Prix,nor,mclaren,0,7,11.6,2.4,0.0,0.6,15.0
+2023,8,2023-06-18,Canadian Grand Prix,oco,alpine,0,6,9.8,4.2,0.0,5.2,6.0
+2023,8,2023-06-18,Canadian Grand Prix,per,red_bull_racing,0,12,5.6,13.2,0.0,17.8,20.0
+2023,8,2023-06-18,Canadian Grand Prix,pia,mclaren,0,8,12.2,1.0,0.0,0.6,12.0
+2023,8,2023-06-18,Canadian Grand Prix,rus,mercedes,0,4,7.6,8.4,0.0,14.2,4.0
+2023,8,2023-06-18,Canadian Grand Prix,sai,ferrari,0,11,7.0,6.8,0.0,6.8,2.0
+2023,8,2023-06-18,Canadian Grand Prix,sar,williams,0,18,18.0,0.0,0.0,1.2,12.0
+2023,8,2023-06-18,Canadian Grand Prix,str,aston_martin,0,16,9.8,5.2,0.0,10.0,10.0
+2023,8,2023-06-18,Canadian Grand Prix,tsu,alphatauri,0,19,11.6,0.4,0.0,0.0,18.0
+2023,8,2023-06-18,Canadian Grand Prix,ver,red_bull_racing,1,1,1.2,24.0,0.0,14.4,1.0
+2023,8,2023-06-18,Canadian Grand Prix,zho,alfa_romeo,0,20,13.2,0.8,0.0,0.6,8.0
+2023,9,2023-07-02,Austrian Grand Prix,alb,williams,0,10,12.6,1.2,0.0,1.2,12.0
+2023,9,2023-07-02,Austrian Grand Prix,alo,aston_martin,0,7,3.6,13.8,0.0,6.8,10.0
+2023,9,2023-07-02,Austrian Grand Prix,bot,alfa_romeo,0,14,14.2,0.2,0.0,0.6,6.5
+2023,9,2023-07-02,Austrian Grand Prix,dev,alphatauri,0,20,16.4,0.0,0.0,0.0,12.0
+2023,9,2023-07-02,Austrian Grand Prix,gas,alpine,0,9,10.2,2.2,0.0,4.8,12.0
+2023,9,2023-07-02,Austrian Grand Prix,ham,mercedes,0,5,4.2,12.4,0.0,11.6,3.5
+2023,9,2023-07-02,Austrian Grand Prix,hul,haas_f1_team,0,8,15.8,0.0,0.0,0.0,12.0
+2023,9,2023-07-02,Austrian Grand Prix,lec,ferrari,1,2,6.2,8.2,0.0,7.2,4.5
+2023,9,2023-07-02,Austrian Grand Prix,mag,haas_f1_team,0,19,15.4,0.2,0.0,0.0,8.0
+2023,9,2023-07-02,Austrian Grand Prix,nor,mclaren,0,4,13.0,0.8,0.0,0.2,5.0
+2023,9,2023-07-02,Austrian Grand Prix,oco,alpine,0,12,8.6,5.0,0.0,2.0,12.5
+2023,9,2023-07-02,Austrian Grand Prix,per,red_bull_racing,1,15,5.8,12.8,0.0,19.4,13.0
+2023,9,2023-07-02,Austrian Grand Prix,pia,mclaren,0,13,12.8,0.2,0.0,2.4,12.0
+2023,9,2023-07-02,Austrian Grand Prix,rus,mercedes,0,11,7.8,8.4,0.0,10.4,7.5
+2023,9,2023-07-02,Austrian Grand Prix,sai,ferrari,0,3,5.6,8.8,0.0,10.0,11.5
+2023,9,2023-07-02,Austrian Grand Prix,sar,williams,0,18,18.8,0.0,0.0,1.2,12.0
+2023,9,2023-07-02,Austrian Grand Prix,str,aston_martin,0,6,10.8,3.2,0.0,8.8,13.0
+2023,9,2023-07-02,Austrian Grand Prix,tsu,alphatauri,0,16,12.4,0.2,0.0,0.0,14.0
+2023,9,2023-07-02,Austrian Grand Prix,ver,red_bull_racing,1,1,1.2,24.0,0.0,17.4,1.5
+2023,9,2023-07-02,Austrian Grand Prix,zho,alfa_romeo,0,17,14.6,0.4,0.0,0.6,14.0
+2023,10,2023-07-09,British Grand Prix,alb,williams,0,8,12.4,1.2,0.0,1.2,20.0
+2023,10,2023-07-09,British Grand Prix,alo,aston_martin,0,9,3.8,13.4,0.0,8.0,6.0
+2023,10,2023-07-09,British Grand Prix,bot,alfa_romeo,0,20,13.6,0.2,0.0,0.6,10.0
+2023,10,2023-07-09,British Grand Prix,dev,alphatauri,0,18,15.8,0.0,0.0,0.0,12.0
+2023,10,2023-07-09,British Grand Prix,gas,alpine,0,10,9.4,2.4,0.0,1.8,13.5
+2023,10,2023-07-09,British Grand Prix,ham,mercedes,1,7,4.6,11.6,0.0,8.0,2.0
+2023,10,2023-07-09,British Grand Prix,hul,haas_f1_team,0,11,16.4,0.0,0.0,0.0,12.0
+2023,10,2023-07-09,British Grand Prix,lec,ferrari,0,4,6.0,8.8,0.0,11.6,3.0
+2023,10,2023-07-09,British Grand Prix,mag,haas_f1_team,0,19,16.4,0.2,0.0,0.0,10.0
+2023,10,2023-07-09,British Grand Prix,nor,mclaren,1,2,12.0,2.8,0.0,2.4,5.0
+2023,10,2023-07-09,British Grand Prix,oco,alpine,0,13,8.4,5.0,0.0,1.0,12.0
+2023,10,2023-07-09,British Grand Prix,per,red_bull_racing,0,15,6.2,10.8,0.0,20.2,9.0
+2023,10,2023-07-09,British Grand Prix,pia,mclaren,0,3,13.8,0.2,0.0,6.0,12.0
+2023,10,2023-07-09,British Grand Prix,rus,mercedes,0,6,7.6,8.6,0.0,8.0,15.0
+2023,10,2023-07-09,British Grand Prix,sai,ferrari,0,5,5.8,8.4,0.0,10.0,3.5
+2023,10,2023-07-09,British Grand Prix,sar,williams,0,14,18.2,0.0,0.0,2.0,12.0
+2023,10,2023-07-09,British Grand Prix,str,aston_martin,0,12,11.2,2.4,0.0,7.6,9.5
+2023,10,2023-07-09,British Grand Prix,tsu,alphatauri,0,16,14.2,0.0,0.0,0.0,12.0
+2023,10,2023-07-09,British Grand Prix,ver,red_bull_racing,1,1,1.0,25.6,0.0,16.6,13.5
+2023,10,2023-07-09,British Grand Prix,zho,alfa_romeo,0,17,13.2,0.4,0.0,0.2,19.0
+2023,11,2023-07-23,Hungarian Grand Prix,alb,williams,0,0,11.2,2.0,0.0,0.8,17.0
+2023,11,2023-07-23,Hungarian Grand Prix,alo,aston_martin,0,0,4.6,11.6,0.0,4.0,6.0
+2023,11,2023-07-23,Hungarian Grand Prix,bot,alfa_romeo,0,0,13.4,0.2,0.0,0.0,18.0
+2023,11,2023-07-23,Hungarian Grand Prix,gas,alpine,0,0,11.4,1.6,0.0,1.0,8.5
+2023,11,2023-07-23,Hungarian Grand Prix,ham,mercedes,0,0,4.0,13.0,0.0,7.0,2.0
+2023,11,2023-07-23,Hungarian Grand Prix,hul,haas_f1_team,0,0,16.0,0.0,0.0,0.0,12.0
+2023,11,2023-07-23,Hungarian Grand Prix,lec,ferrari,0,0,6.4,8.0,0.0,7.8,12.0
+2023,11,2023-07-23,Hungarian Grand Prix,mag,haas_f1_team,0,0,18.2,0.0,0.0,0.0,16.0
+2023,11,2023-07-23,Hungarian Grand Prix,nor,mclaren,0,0,9.0,6.4,0.0,8.4,11.0
+2023,11,2023-07-23,Hungarian Grand Prix,oco,alpine,0,0,10.6,4.6,0.0,0.2,5.0
+2023,11,2023-07-23,Hungarian Grand Prix,per,red_bull_racing,0,0,7.0,8.8,0.0,20.0,11.0
+2023,11,2023-07-23,Hungarian Grand Prix,pia,mclaren,0,0,10.8,2.6,0.0,8.4,12.0
+2023,11,2023-07-23,Hungarian Grand Prix,ric,alphatauri,0,0,12.6,1.6,0.0,0.0,13.0
+2023,11,2023-07-23,Hungarian Grand Prix,rus,mercedes,0,0,7.8,8.2,0.0,7.0,5.5
+2023,11,2023-07-23,Hungarian Grand Prix,sai,ferrari,0,0,6.8,6.6,0.0,5.8,3.5
+2023,11,2023-07-23,Hungarian Grand Prix,sar,williams,0,0,16.4,0.0,0.0,0.8,12.0
+2023,11,2023-07-23,Hungarian Grand Prix,str,aston_martin,0,0,11.6,2.4,0.0,3.6,15.0
+2023,11,2023-07-23,Hungarian Grand Prix,tsu,alphatauri,0,0,15.2,0.0,0.0,0.0,12.5
+2023,11,2023-07-23,Hungarian Grand Prix,ver,red_bull_racing,0,0,1.0,25.6,0.0,15.0,5.0
+2023,11,2023-07-23,Hungarian Grand Prix,zho,alfa_romeo,0,0,13.0,0.4,0.0,0.0,13.0
+2023,12,2023-07-30,Belgian Grand Prix,alb,williams,0,0,14.4,2.0,0.2,0.8,10.0
+2023,12,2023-07-30,Belgian Grand Prix,alo,aston_martin,0,0,10.2,8.0,0.2,1.6,8.0
+2023,12,2023-07-30,Belgian Grand Prix,bot,alfa_romeo,0,0,17.2,0.2,0.2,0.0,15.5
+2023,12,2023-07-30,Belgian Grand Prix,gas,alpine,0,0,16.0,0.4,0.2,0.0,7.5
+2023,12,2023-07-30,Belgian Grand Prix,ham,mercedes,0,0,9.2,10.4,0.2,6.2,11.5
+2023,12,2023-07-30,Belgian Grand Prix,hul,haas_f1_team,0,0,18.6,0.0,0.2,0.0,12.0
+2023,12,2023-07-30,Belgian Grand Prix,lec,ferrari,0,0,11.2,6.4,0.2,2.2,7.0
+2023,12,2023-07-30,Belgian Grand Prix,mag,haas_f1_team,0,0,20.4,0.0,0.2,0.0,16.0
+2023,12,2023-07-30,Belgian Grand Prix,nor,mclaren,0,0,13.2,6.0,0.2,6.0,13.0
+2023,12,2023-07-30,Belgian Grand Prix,oco,alpine,0,0,16.0,1.6,0.2,0.0,7.0
+2023,12,2023-07-30,Belgian Grand Prix,per,red_bull_racing,0,0,9.8,8.8,0.2,12.0,10.5
+2023,12,2023-07-30,Belgian Grand Prix,pia,mclaren,0,0,14.8,2.4,0.2,6.0,12.0
+2023,12,2023-07-30,Belgian Grand Prix,ric,alphatauri,0,0,16.4,1.6,0.2,0.0,9.5
+2023,12,2023-07-30,Belgian Grand Prix,rus,mercedes,0,0,12.8,6.2,0.2,5.0,3.0
+2023,12,2023-07-30,Belgian Grand Prix,sai,ferrari,0,0,11.2,5.8,0.2,0.6,6.5
+2023,12,2023-07-30,Belgian Grand Prix,sar,williams,0,0,18.8,0.0,0.2,0.8,12.0
+2023,12,2023-07-30,Belgian Grand Prix,str,aston_martin,0,0,13.6,2.4,0.2,1.2,15.5
+2023,12,2023-07-30,Belgian Grand Prix,tsu,alphatauri,0,0,18.2,0.0,0.2,0.0,14.0
+2023,12,2023-07-30,Belgian Grand Prix,ver,red_bull_racing,0,0,6.8,20.6,0.2,6.8,1.0
+2023,12,2023-07-30,Belgian Grand Prix,zho,alfa_romeo,0,0,16.4,0.4,0.2,0.0,14.0
+2023,13,2023-08-27,Dutch Grand Prix,alb,williams,0,0,17.2,2.0,0.4,0.0,12.0
+2023,13,2023-08-27,Dutch Grand Prix,alo,aston_martin,0,0,14.8,6.8,0.4,0.0,6.0
+2023,13,2023-08-27,Dutch Grand Prix,bot,alfa_romeo,0,0,19.4,0.2,0.4,0.0,11.0
+2023,13,2023-08-27,Dutch Grand Prix,gas,alpine,0,0,20.0,0.2,0.4,0.0,7.5
+2023,13,2023-08-27,Dutch Grand Prix,ham,mercedes,0,0,14.8,6.8,0.4,2.0,3.0
+2023,13,2023-08-27,Dutch Grand Prix,hul,haas_f1_team,0,0,21.6,0.0,0.4,0.0,12.0
+2023,13,2023-08-27,Dutch Grand Prix,law,alphatauri,0,0,15.2,1.4,0.0,0.0,12.0
+2023,13,2023-08-27,Dutch Grand Prix,lec,ferrari,0,0,15.0,6.4,0.4,0.2,4.0
+2023,13,2023-08-27,Dutch Grand Prix,mag,haas_f1_team,0,0,22.8,0.0,0.4,0.0,15.0
+2023,13,2023-08-27,Dutch Grand Prix,nor,mclaren,0,0,15.8,6.0,0.4,2.4,8.5
+2023,13,2023-08-27,Dutch Grand Prix,oco,alpine,0,0,20.4,0.8,0.4,0.0,9.0
+2023,13,2023-08-27,Dutch Grand Prix,per,red_bull_racing,0,0,15.0,6.4,0.4,5.2,6.5
+2023,13,2023-08-27,Dutch Grand Prix,pia,mclaren,0,0,18.2,2.4,0.4,0.0,12.0
+2023,13,2023-08-27,Dutch Grand Prix,rus,mercedes,0,0,18.2,3.2,0.4,0.0,9.5
+2023,13,2023-08-27,Dutch Grand Prix,sai,ferrari,0,0,16.2,3.8,0.4,0.0,7.5
+2023,13,2023-08-27,Dutch Grand Prix,sar,williams,0,0,20.8,0.0,0.4,0.0,12.0
+2023,13,2023-08-27,Dutch Grand Prix,str,aston_martin,0,0,18.4,0.8,0.4,0.0,11.0
+2023,13,2023-08-27,Dutch Grand Prix,tsu,alphatauri,0,0,21.8,0.0,0.4,0.0,19.5
+2023,13,2023-08-27,Dutch Grand Prix,ver,red_bull_racing,0,0,12.6,15.4,0.4,0.0,1.0
+2023,13,2023-08-27,Dutch Grand Prix,zho,alfa_romeo,0,0,20.6,0.0,0.4,0.0,16.0
+2023,14,2023-09-03,Italian Grand Prix,alb,williams,0,6,21.8,0.8,0.6,0.0,12.0
+2023,14,2023-09-03,Italian Grand Prix,alo,aston_martin,0,10,20.4,3.2,0.6,0.0,13.5
+2023,14,2023-09-03,Italian Grand Prix,bot,alfa_romeo,0,14,23.4,0.0,0.6,0.0,8.0
+2023,14,2023-09-03,Italian Grand Prix,gas,alpine,0,17,23.6,0.2,0.6,0.0,13.5
+2023,14,2023-09-03,Italian Grand Prix,ham,mercedes,0,8,20.2,3.8,0.6,0.0,11.0
+2023,14,2023-09-03,Italian Grand Prix,hul,haas_f1_team,0,13,24.6,0.0,0.6,0.0,12.0
+2023,14,2023-09-03,Italian Grand Prix,law,alphatauri,0,12,30.0,0.0,1.0,0.0,12.0
+2023,14,2023-09-03,Italian Grand Prix,lec,ferrari,0,3,20.2,4.0,0.6,0.0,3.0
+2023,14,2023-09-03,Italian Grand Prix,mag,haas_f1_team,0,19,25.4,0.0,0.6,0.0,16.0
+2023,14,2023-09-03,Italian Grand Prix,nor,mclaren,0,9,19.2,6.0,0.6,0.0,4.5
+2023,14,2023-09-03,Italian Grand Prix,oco,alpine,0,18,24.8,0.0,0.6,0.0,10.5
+2023,14,2023-09-03,Italian Grand Prix,per,red_bull_racing,1,5,19.8,4.6,0.6,0.0,5.5
+2023,14,2023-09-03,Italian Grand Prix,pia,mclaren,0,7,22.0,2.4,0.6,0.8,12.0
+2023,14,2023-09-03,Italian Grand Prix,rus,mercedes,0,4,20.4,3.2,0.6,1.6,6.0
+2023,14,2023-09-03,Italian Grand Prix,sai,ferrari,1,1,21.2,1.8,0.6,2.4,5.0
+2023,14,2023-09-03,Italian Grand Prix,sar,williams,0,15,22.8,0.0,0.6,1.2,12.0
+2023,14,2023-09-03,Italian Grand Prix,str,aston_martin,0,20,22.6,0.4,0.6,0.4,12.5
+2023,14,2023-09-03,Italian Grand Prix,tsu,alphatauri,0,11,25.0,0.0,0.6,0.0,17.0
+2023,14,2023-09-03,Italian Grand Prix,ver,red_bull_racing,1,2,18.4,10.4,0.6,3.6,9.5
+2023,14,2023-09-03,Italian Grand Prix,zho,alfa_romeo,0,16,23.4,0.0,0.6,0.2,10.0
+2023,15,2023-09-17,Singapore Grand Prix,alb,williams,0,0,21.0,2.0,0.6,1.2,17.0
+2023,15,2023-09-17,Singapore Grand Prix,alo,aston_martin,0,0,21.2,1.6,0.6,0.4,18.0
+2023,15,2023-09-17,Singapore Grand Prix,bot,alfa_romeo,0,0,22.4,0.2,0.6,0.2,11.0
+2023,15,2023-09-17,Singapore Grand Prix,gas,alpine,0,0,24.6,0.0,0.6,0.0,10.0
+2023,15,2023-09-17,Singapore Grand Prix,ham,mercedes,0,0,19.8,4.6,0.6,3.6,9.0
+2023,15,2023-09-17,Singapore Grand Prix,hul,haas_f1_team,0,0,24.0,0.0,0.6,0.0,12.0
+2023,15,2023-09-17,Singapore Grand Prix,law,alphatauri,0,0,20.5,0.0,0.5,0.0,12.0
+2023,15,2023-09-17,Singapore Grand Prix,lec,ferrari,0,0,20.6,2.8,0.6,5.4,2.0
+2023,15,2023-09-17,Singapore Grand Prix,mag,haas_f1_team,0,0,25.4,0.0,0.6,0.0,12.0
+2023,15,2023-09-17,Singapore Grand Prix,nor,mclaren,0,0,20.0,4.4,0.6,0.8,4.0
+2023,15,2023-09-17,Singapore Grand Prix,oco,alpine,0,0,25.8,0.0,0.6,0.0,16.0
+2023,15,2023-09-17,Singapore Grand Prix,per,red_bull_racing,0,0,19.6,5.2,0.6,8.6,1.0
+2023,15,2023-09-17,Singapore Grand Prix,pia,mclaren,0,0,21.2,2.4,0.6,0.8,12.0
+2023,15,2023-09-17,Singapore Grand Prix,rus,mercedes,0,0,20.0,4.0,0.6,3.6,14.0
+2023,15,2023-09-17,Singapore Grand Prix,sai,ferrari,0,0,20.6,3.2,0.6,5.4,3.0
+2023,15,2023-09-17,Singapore Grand Prix,sar,williams,0,0,22.8,0.0,0.6,1.2,12.0
+2023,15,2023-09-17,Singapore Grand Prix,tsu,alphatauri,0,0,25.2,0.0,0.6,0.0,15.0
+2023,15,2023-09-17,Singapore Grand Prix,ver,red_bull_racing,0,0,18.4,10.2,0.6,8.6,7.0
+2023,15,2023-09-17,Singapore Grand Prix,zho,alfa_romeo,0,0,23.8,0.0,0.6,0.2,20.0
+2023,16,2023-09-24,Japanese Grand Prix,alb,williams,0,0,25.4,1.2,0.8,1.2,20.0
+2023,16,2023-09-24,Japanese Grand Prix,alo,aston_martin,0,0,25.8,0.4,0.8,0.4,7.0
+2023,16,2023-09-24,Japanese Grand Prix,bot,alfa_romeo,0,0,26.0,0.2,0.8,0.2,15.0
+2023,16,2023-09-24,Japanese Grand Prix,gas,alpine,0,0,27.0,0.0,0.8,0.0,18.0
+2023,16,2023-09-24,Japanese Grand Prix,ham,mercedes,0,0,25.2,1.6,0.8,3.6,5.0
+2023,16,2023-09-24,Japanese Grand Prix,hul,haas_f1_team,0,0,27.4,0.0,0.8,0.0,12.0
+2023,16,2023-09-24,Japanese Grand Prix,law,alphatauri,0,0,23.666666666666668,0.0,0.6666666666666666,0.0,12.0
+2023,16,2023-09-24,Japanese Grand Prix,lec,ferrari,0,0,24.8,2.4,0.8,5.4,3.0
+2023,16,2023-09-24,Japanese Grand Prix,mag,haas_f1_team,0,0,27.6,0.0,0.8,0.0,14.0
+2023,16,2023-09-24,Japanese Grand Prix,nor,mclaren,0,0,25.6,0.8,0.8,0.8,10.0
+2023,16,2023-09-24,Japanese Grand Prix,oco,alpine,0,0,27.8,0.0,0.8,0.0,4.0
+2023,16,2023-09-24,Japanese Grand Prix,per,red_bull_racing,0,0,24.4,3.6,0.8,8.6,2.0
+2023,16,2023-09-24,Japanese Grand Prix,pia,mclaren,0,0,26.4,0.0,0.8,0.8,12.0
+2023,16,2023-09-24,Japanese Grand Prix,rus,mercedes,0,0,25.0,2.0,0.8,3.6,8.0
+2023,16,2023-09-24,Japanese Grand Prix,sai,ferrari,0,0,24.6,3.0,0.8,5.4,19.0
+2023,16,2023-09-24,Japanese Grand Prix,sar,williams,0,0,26.6,0.0,0.8,1.2,12.0
+2023,16,2023-09-24,Japanese Grand Prix,str,aston_martin,0,0,24.0,0.0,0.6,0.4,12.0
+2023,16,2023-09-24,Japanese Grand Prix,tsu,alphatauri,0,0,28.0,0.0,0.8,0.0,13.0
+2023,16,2023-09-24,Japanese Grand Prix,ver,red_bull_racing,0,0,24.2,5.0,0.8,8.6,1.0
+2023,16,2023-09-24,Japanese Grand Prix,zho,alfa_romeo,0,0,26.8,0.0,0.8,0.2,16.0
+2023,17,2023-10-08,Qatar Grand Prix,alb,williams,0,0,25.4,1.2,0.8,0.0,12.0
+2023,17,2023-10-08,Qatar Grand Prix,alo,aston_martin,0,0,25.8,0.4,0.8,0.4,3.0
+2023,17,2023-10-08,Qatar Grand Prix,bot,alfa_romeo,0,0,26.0,0.2,0.8,0.0,20.0
+2023,17,2023-10-08,Qatar Grand Prix,gas,alpine,0,0,27.0,0.0,0.8,0.0,11.0
+2023,17,2023-10-08,Qatar Grand Prix,ham,mercedes,0,0,25.2,1.6,0.8,2.0,1.0
+2023,17,2023-10-08,Qatar Grand Prix,hul,haas_f1_team,0,0,27.4,0.0,0.8,0.0,12.0
+2023,17,2023-10-08,Qatar Grand Prix,law,alphatauri,0,0,25.25,0.0,0.75,0.0,12.0
+2023,17,2023-10-08,Qatar Grand Prix,lec,ferrari,0,0,24.8,2.4,0.8,3.0,8.0
+2023,17,2023-10-08,Qatar Grand Prix,mag,haas_f1_team,0,0,27.6,0.0,0.8,0.0,12.0
+2023,17,2023-10-08,Qatar Grand Prix,nor,mclaren,0,0,25.6,0.8,0.8,0.0,9.0
+2023,17,2023-10-08,Qatar Grand Prix,oco,alpine,0,0,27.8,0.0,0.8,0.0,5.0
+2023,17,2023-10-08,Qatar Grand Prix,per,red_bull_racing,0,0,24.4,3.6,0.8,5.0,4.0
+2023,17,2023-10-08,Qatar Grand Prix,pia,mclaren,0,0,26.4,0.0,0.8,0.0,12.0
+2023,17,2023-10-08,Qatar Grand Prix,rus,mercedes,0,0,25.0,2.0,0.8,0.0,17.0
+2023,17,2023-10-08,Qatar Grand Prix,sai,ferrari,0,0,24.6,3.0,0.8,0.0,7.0
+2023,17,2023-10-08,Qatar Grand Prix,sar,williams,0,0,26.6,0.0,0.8,0.0,12.0
+2023,17,2023-10-08,Qatar Grand Prix,str,aston_martin,0,0,27.2,0.0,0.8,0.0,6.0
+2023,17,2023-10-08,Qatar Grand Prix,tsu,alphatauri,0,0,28.0,0.0,0.8,0.0,13.0
+2023,17,2023-10-08,Qatar Grand Prix,ver,red_bull_racing,0,0,24.2,5.0,0.8,0.0,2.0
+2023,17,2023-10-08,Qatar Grand Prix,zho,alfa_romeo,0,0,26.8,0.0,0.8,0.0,12.0
+2023,18,2023-10-22,United States Grand Prix,alb,williams,0,0,25.4,1.2,0.8,0.0,13.0
+2023,18,2023-10-22,United States Grand Prix,alo,aston_martin,0,0,25.8,0.4,0.8,0.0,12.5
+2023,18,2023-10-22,United States Grand Prix,bot,alfa_romeo,0,0,26.0,0.2,0.8,0.0,12.5
+2023,18,2023-10-22,United States Grand Prix,gas,alpine,0,0,27.0,0.0,0.8,0.0,17.0
+2023,18,2023-10-22,United States Grand Prix,ham,mercedes,0,0,25.2,1.6,0.8,0.0,2.0
+2023,18,2023-10-22,United States Grand Prix,hul,haas_f1_team,0,0,27.4,0.0,0.8,0.0,12.0
+2023,18,2023-10-22,United States Grand Prix,lec,ferrari,0,0,24.8,2.4,0.8,0.0,3.5
+2023,18,2023-10-22,United States Grand Prix,mag,haas_f1_team,0,0,27.6,0.0,0.8,0.0,9.0
+2023,18,2023-10-22,United States Grand Prix,nor,mclaren,0,0,25.6,0.8,0.8,0.0,7.0
+2023,18,2023-10-22,United States Grand Prix,oco,alpine,0,0,27.8,0.0,0.8,0.0,15.0
+2023,18,2023-10-22,United States Grand Prix,per,red_bull_racing,0,0,24.4,3.6,0.8,0.0,3.5
+2023,18,2023-10-22,United States Grand Prix,pia,mclaren,0,0,26.4,0.0,0.8,0.0,12.0
+2023,18,2023-10-22,United States Grand Prix,ric,alphatauri,0,0,19.2,1.6,0.4,0.0,10.5
+2023,18,2023-10-22,United States Grand Prix,rus,mercedes,0,0,25.0,2.0,0.8,0.0,9.5
+2023,18,2023-10-22,United States Grand Prix,sai,ferrari,0,0,24.6,3.0,0.8,0.0,13.5
+2023,18,2023-10-22,United States Grand Prix,sar,williams,0,0,26.6,0.0,0.8,0.0,12.0
+2023,18,2023-10-22,United States Grand Prix,str,aston_martin,0,0,27.2,0.0,0.8,0.0,15.0
+2023,18,2023-10-22,United States Grand Prix,tsu,alphatauri,0,0,28.0,0.0,0.8,0.0,9.5
+2023,18,2023-10-22,United States Grand Prix,ver,red_bull_racing,0,0,24.2,5.0,0.8,0.0,1.0
+2023,18,2023-10-22,United States Grand Prix,zho,alfa_romeo,0,0,26.8,0.0,0.8,0.0,12.0
+2023,19,2023-10-29,Mexico City Grand Prix,alb,williams,0,0,25.4,1.2,0.8,0.0,12.0
+2023,19,2023-10-29,Mexico City Grand Prix,alo,aston_martin,0,0,25.8,0.4,0.8,0.0,14.0
+2023,19,2023-10-29,Mexico City Grand Prix,bot,alfa_romeo,0,0,26.0,0.2,0.8,0.0,12.5
+2023,19,2023-10-29,Mexico City Grand Prix,gas,alpine,0,0,27.0,0.0,0.8,0.0,7.5
+2023,19,2023-10-29,Mexico City Grand Prix,ham,mercedes,0,0,25.2,1.6,0.8,0.0,2.0
+2023,19,2023-10-29,Mexico City Grand Prix,hul,haas_f1_team,0,0,27.4,0.0,0.8,0.0,12.0
+2023,19,2023-10-29,Mexico City Grand Prix,lec,ferrari,0,0,24.8,2.4,0.8,0.0,5.5
+2023,19,2023-10-29,Mexico City Grand Prix,mag,haas_f1_team,0,0,27.6,0.0,0.8,0.0,17.0
+2023,19,2023-10-29,Mexico City Grand Prix,nor,mclaren,0,0,25.6,0.8,0.8,0.0,9.5
+2023,19,2023-10-29,Mexico City Grand Prix,oco,alpine,0,0,27.8,0.0,0.8,0.0,10.5
+2023,19,2023-10-29,Mexico City Grand Prix,per,red_bull_racing,0,0,24.4,3.6,0.8,0.0,3.0
+2023,19,2023-10-29,Mexico City Grand Prix,pia,mclaren,0,0,26.4,0.0,0.8,0.0,12.0
+2023,19,2023-10-29,Mexico City Grand Prix,ric,alphatauri,0,0,23.8,0.4,0.6,0.0,9.5
+2023,19,2023-10-29,Mexico City Grand Prix,rus,mercedes,0,0,25.0,2.0,0.8,0.0,10.0
+2023,19,2023-10-29,Mexico City Grand Prix,sai,ferrari,0,0,24.6,3.0,0.8,0.0,5.5
+2023,19,2023-10-29,Mexico City Grand Prix,sar,williams,0,0,26.6,0.0,0.8,0.0,12.0
+2023,19,2023-10-29,Mexico City Grand Prix,str,aston_martin,0,0,27.2,0.0,0.8,0.0,14.5
+2023,19,2023-10-29,Mexico City Grand Prix,tsu,alphatauri,0,0,28.0,0.0,0.8,0.0,20.0
+2023,19,2023-10-29,Mexico City Grand Prix,ver,red_bull_racing,0,0,24.2,5.0,0.8,0.0,1.0
+2023,19,2023-10-29,Mexico City Grand Prix,zho,alfa_romeo,0,0,26.8,0.0,0.8,0.0,13.0
+2023,20,2023-11-05,São Paulo Grand Prix,alb,williams,0,0,30.0,0.0,1.0,0.0,15.0
+2023,20,2023-11-05,São Paulo Grand Prix,alo,aston_martin,0,0,30.0,0.0,1.0,0.0,7.0
+2023,20,2023-11-05,São Paulo Grand Prix,bot,alfa_romeo,0,0,30.0,0.0,1.0,0.0,6.0
+2023,20,2023-11-05,São Paulo Grand Prix,gas,alpine,0,0,30.0,0.0,1.0,0.0,10.5
+2023,20,2023-11-05,São Paulo Grand Prix,ham,mercedes,0,0,30.0,0.0,1.0,0.0,1.5
+2023,20,2023-11-05,São Paulo Grand Prix,hul,haas_f1_team,0,0,30.0,0.0,1.0,0.0,12.0
+2023,20,2023-11-05,São Paulo Grand Prix,lec,ferrari,0,0,30.0,0.0,1.0,0.0,4.5
+2023,20,2023-11-05,São Paulo Grand Prix,mag,haas_f1_team,0,0,30.0,0.0,1.0,0.0,19.0
+2023,20,2023-11-05,São Paulo Grand Prix,nor,mclaren,0,0,30.0,0.0,1.0,0.0,14.0
+2023,20,2023-11-05,São Paulo Grand Prix,oco,alpine,0,0,30.0,0.0,1.0,0.0,8.0
+2023,20,2023-11-05,São Paulo Grand Prix,per,red_bull_racing,0,0,30.0,0.0,1.0,0.0,5.5
+2023,20,2023-11-05,São Paulo Grand Prix,pia,mclaren,0,0,30.0,0.0,1.0,0.0,12.0
+2023,20,2023-11-05,São Paulo Grand Prix,ric,alphatauri,0,0,25.8,0.4,0.8,0.0,19.5
+2023,20,2023-11-05,São Paulo Grand Prix,rus,mercedes,0,0,30.0,0.0,1.0,0.0,7.0
+2023,20,2023-11-05,São Paulo Grand Prix,sai,ferrari,0,0,30.0,0.0,1.0,0.0,4.5
+2023,20,2023-11-05,São Paulo Grand Prix,sar,williams,0,0,30.0,0.0,1.0,0.0,12.0
+2023,20,2023-11-05,São Paulo Grand Prix,str,aston_martin,0,0,27.2,0.0,0.8,0.0,15.0
+2023,20,2023-11-05,São Paulo Grand Prix,tsu,alphatauri,0,0,30.0,0.0,1.0,0.0,16.0
+2023,20,2023-11-05,São Paulo Grand Prix,ver,red_bull_racing,0,0,30.0,0.0,1.0,0.0,4.0
+2023,20,2023-11-05,São Paulo Grand Prix,zho,alfa_romeo,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,alb,williams,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,alo,aston_martin,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,bot,alfa_romeo,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,gas,alpine,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,ham,mercedes,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,hul,haas_f1_team,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,lec,ferrari,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,mag,haas_f1_team,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,nor,mclaren,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,oco,alpine,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,per,red_bull_racing,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,pia,mclaren,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,ric,alphatauri,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,rus,mercedes,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,sai,ferrari,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,sar,williams,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,str,aston_martin,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,tsu,alphatauri,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,ver,red_bull_racing,0,0,30.0,0.0,1.0,0.0,12.0
+2023,21,2023-11-18,Las Vegas Grand Prix,zho,alfa_romeo,0,0,30.0,0.0,1.0,0.0,12.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,alb,williams,0,0,30.0,0.0,1.0,0.0,13.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,alo,aston_martin,0,0,30.0,0.0,1.0,0.0,14.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,bot,alfa_romeo,0,0,30.0,0.0,1.0,0.0,10.5
+2023,22,2023-11-26,Abu Dhabi Grand Prix,gas,alpine,0,0,30.0,0.0,1.0,0.0,9.5
+2023,22,2023-11-26,Abu Dhabi Grand Prix,ham,mercedes,0,0,30.0,0.0,1.0,0.0,10.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,hul,haas_f1_team,0,0,30.0,0.0,1.0,0.0,12.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,lec,ferrari,0,0,30.0,0.0,1.0,0.0,6.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,mag,haas_f1_team,0,0,30.0,0.0,1.0,0.0,17.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,nor,mclaren,0,0,30.0,0.0,1.0,0.0,6.5
+2023,22,2023-11-26,Abu Dhabi Grand Prix,oco,alpine,0,0,30.0,0.0,1.0,0.0,8.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,per,red_bull_racing,0,0,30.0,0.0,1.0,0.0,9.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,pia,mclaren,0,0,30.0,0.0,1.0,0.0,12.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,ric,alphatauri,0,0,30.0,0.0,1.0,0.0,10.5
+2023,22,2023-11-26,Abu Dhabi Grand Prix,rus,mercedes,0,0,30.0,0.0,1.0,0.0,11.5
+2023,22,2023-11-26,Abu Dhabi Grand Prix,sai,ferrari,0,0,30.0,0.0,1.0,0.0,3.5
+2023,22,2023-11-26,Abu Dhabi Grand Prix,sar,williams,0,0,30.0,0.0,1.0,0.0,12.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,str,aston_martin,0,0,30.0,0.0,1.0,0.0,10.5
+2023,22,2023-11-26,Abu Dhabi Grand Prix,tsu,alphatauri,0,0,30.0,0.0,1.0,0.0,7.5
+2023,22,2023-11-26,Abu Dhabi Grand Prix,ver,red_bull_racing,0,0,30.0,0.0,1.0,0.0,1.0
+2023,22,2023-11-26,Abu Dhabi Grand Prix,zho,alfa_romeo,0,0,30.0,0.0,1.0,0.0,12.0
+2024,1,2024-03-02,Bahrain Grand Prix,alb,williams,0,0,30.0,0.0,1.0,0.0,11.5
+2024,1,2024-03-02,Bahrain Grand Prix,alo,aston_martin,0,0,30.0,0.0,1.0,0.0,10.333333333333334
+2024,1,2024-03-02,Bahrain Grand Prix,bot,kick_sauber,0,0,30.0,0.0,1.0,1.4,5.666666666666667
+2024,1,2024-03-02,Bahrain Grand Prix,gas,alpine,0,0,30.0,0.0,1.0,0.0,15.333333333333334
+2024,1,2024-03-02,Bahrain Grand Prix,ham,mercedes,0,0,30.0,0.0,1.0,0.0,3.0
+2024,1,2024-03-02,Bahrain Grand Prix,hul,haas_f1_team,0,0,30.0,0.0,1.0,0.0,16.0
+2024,1,2024-03-02,Bahrain Grand Prix,lec,ferrari,0,0,30.0,0.0,1.0,0.0,8.666666666666666
+2024,1,2024-03-02,Bahrain Grand Prix,mag,haas_f1_team,0,0,30.0,0.0,1.0,0.0,9.0
+2024,1,2024-03-02,Bahrain Grand Prix,nor,mclaren,0,0,30.0,0.0,1.0,0.0,12.0
+2024,1,2024-03-02,Bahrain Grand Prix,oco,alpine,0,0,30.0,0.0,1.0,0.0,12.666666666666666
+2024,1,2024-03-02,Bahrain Grand Prix,per,red_bull_racing,0,0,30.0,0.0,1.0,0.0,8.333333333333334
+2024,1,2024-03-02,Bahrain Grand Prix,pia,mclaren,0,0,30.0,0.0,1.0,0.0,20.0
+2024,1,2024-03-02,Bahrain Grand Prix,ric,rb,0,0,30.0,0.0,1.0,1.4,10.5
+2024,1,2024-03-02,Bahrain Grand Prix,rus,mercedes,0,0,30.0,0.0,1.0,0.0,8.333333333333334
+2024,1,2024-03-02,Bahrain Grand Prix,sai,ferrari,0,0,30.0,0.0,1.0,0.0,4.666666666666667
+2024,1,2024-03-02,Bahrain Grand Prix,sar,williams,0,0,30.0,0.0,1.0,0.0,12.0
+2024,1,2024-03-02,Bahrain Grand Prix,str,aston_martin,0,0,30.0,0.0,1.0,0.0,9.333333333333334
+2024,1,2024-03-02,Bahrain Grand Prix,tsu,rb,0,0,30.0,0.0,1.0,0.0,9.333333333333334
+2024,1,2024-03-02,Bahrain Grand Prix,ver,red_bull_racing,0,0,30.0,0.0,1.0,0.0,7.333333333333333
+2024,1,2024-03-02,Bahrain Grand Prix,zho,kick_sauber,0,0,30.0,0.0,1.0,0.0,13.0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,alb,williams,0,0,30.0,0.0,1.0,0.0,16.5
+2024,2,2024-03-09,Saudi Arabian Grand Prix,alo,aston_martin,0,0,30.0,0.0,1.0,0.0,10.666666666666666
+2024,2,2024-03-09,Saudi Arabian Grand Prix,bea,ferrari,0,0,15.2,1.4,0.0,0.0,12.0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,bot,kick_sauber,0,0,30.0,0.0,1.0,0.0,12.0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,gas,alpine,0,0,30.0,0.0,1.0,0.0,7.666666666666667
+2024,2,2024-03-09,Saudi Arabian Grand Prix,ham,mercedes,0,0,30.0,0.0,1.0,0.0,5.333333333333333
+2024,2,2024-03-09,Saudi Arabian Grand Prix,hul,haas_f1_team,0,0,30.0,0.0,1.0,0.0,12.0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,lec,ferrari,0,0,30.0,0.0,1.0,0.0,5.333333333333333
+2024,2,2024-03-09,Saudi Arabian Grand Prix,mag,haas_f1_team,0,0,30.0,0.0,1.0,0.0,9.5
+2024,2,2024-03-09,Saudi Arabian Grand Prix,nor,mclaren,0,0,30.0,0.0,1.0,0.0,11.333333333333334
+2024,2,2024-03-09,Saudi Arabian Grand Prix,oco,alpine,0,0,30.0,0.0,1.0,0.0,6.0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,per,red_bull_racing,0,0,30.0,0.0,1.0,0.0,7.333333333333333
+2024,2,2024-03-09,Saudi Arabian Grand Prix,pia,mclaren,0,0,30.0,0.0,1.0,0.0,15.0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,ric,rb,0,0,30.0,0.0,1.0,0.0,11.0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,rus,mercedes,0,0,30.0,0.0,1.0,0.0,9.333333333333334
+2024,2,2024-03-09,Saudi Arabian Grand Prix,sar,williams,0,0,30.0,0.0,1.0,0.0,16.0
+2024,2,2024-03-09,Saudi Arabian Grand Prix,str,aston_martin,0,0,30.0,0.0,1.0,0.0,14.666666666666666
+2024,2,2024-03-09,Saudi Arabian Grand Prix,tsu,rb,0,0,30.0,0.0,1.0,0.0,14.666666666666666
+2024,2,2024-03-09,Saudi Arabian Grand Prix,ver,red_bull_racing,0,0,30.0,0.0,1.0,0.0,1.6666666666666667
+2024,2,2024-03-09,Saudi Arabian Grand Prix,zho,kick_sauber,0,0,30.0,0.0,1.0,0.0,12.0
+2024,3,2024-03-24,Australian Grand Prix,alb,williams,0,12,30.0,0.0,1.0,0.0,14.5
+2024,3,2024-03-24,Australian Grand Prix,alo,aston_martin,0,10,30.0,0.0,1.0,0.0,10.0
+2024,3,2024-03-24,Australian Grand Prix,bot,kick_sauber,0,13,30.0,0.0,1.0,0.0,9.5
+2024,3,2024-03-24,Australian Grand Prix,gas,alpine,0,17,30.0,0.0,1.0,0.0,11.0
+2024,3,2024-03-24,Australian Grand Prix,ham,mercedes,0,11,30.0,0.0,1.0,0.0,3.0
+2024,3,2024-03-24,Australian Grand Prix,hul,haas_f1_team,0,16,30.0,0.0,1.0,0.0,7.0
+2024,3,2024-03-24,Australian Grand Prix,lec,ferrari,1,4,30.0,0.0,1.0,0.0,10.5
+2024,3,2024-03-24,Australian Grand Prix,mag,haas_f1_team,0,14,30.0,0.0,1.0,0.4,15.5
+2024,3,2024-03-24,Australian Grand Prix,nor,mclaren,1,3,30.0,0.0,1.0,0.0,5.5
+2024,3,2024-03-24,Australian Grand Prix,oco,alpine,0,15,30.0,0.0,1.0,0.0,10.5
+2024,3,2024-03-24,Australian Grand Prix,per,red_bull_racing,0,6,30.0,0.0,1.0,0.0,3.5
+2024,3,2024-03-24,Australian Grand Prix,pia,mclaren,0,5,30.0,0.0,1.0,3.0,8.0
+2024,3,2024-03-24,Australian Grand Prix,ric,rb,0,18,30.0,0.0,1.0,0.0,6.0
+2024,3,2024-03-24,Australian Grand Prix,rus,mercedes,0,7,30.0,0.0,1.0,0.0,10.5
+2024,3,2024-03-24,Australian Grand Prix,sai,ferrari,1,2,30.0,0.0,1.0,3.8,16.0
+2024,3,2024-03-24,Australian Grand Prix,str,aston_martin,0,9,30.0,0.0,1.0,0.8,8.0
+2024,3,2024-03-24,Australian Grand Prix,tsu,rb,0,8,30.0,0.0,1.0,0.0,12.5
+2024,3,2024-03-24,Australian Grand Prix,ver,red_bull_racing,0,1,30.0,0.0,1.0,2.0,9.5
+2024,3,2024-03-24,Australian Grand Prix,zho,kick_sauber,0,19,30.0,0.0,1.0,0.0,10.0
+2024,4,2024-04-07,Japanese Grand Prix,alb,williams,0,0,26.2,0.0,0.8,0.0,25.0
+2024,4,2024-04-07,Japanese Grand Prix,alo,aston_martin,0,0,25.6,0.8,0.8,2.4,18.5
+2024,4,2024-04-07,Japanese Grand Prix,bot,kick_sauber,0,0,26.8,0.0,0.8,0.0,22.5
+2024,4,2024-04-07,Japanese Grand Prix,gas,alpine,0,0,26.6,0.0,0.8,0.0,24.0
+2024,4,2024-04-07,Japanese Grand Prix,ham,mercedes,0,0,27.6,0.0,0.8,0.0,17.5
+2024,4,2024-04-07,Japanese Grand Prix,hul,haas_f1_team,0,0,25.8,0.4,0.8,0.6,30.0
+2024,4,2024-04-07,Japanese Grand Prix,lec,ferrari,0,0,24.4,3.8,0.8,8.8,16.5
+2024,4,2024-04-07,Japanese Grand Prix,mag,haas_f1_team,0,0,26.0,0.2,0.8,0.6,22.0
+2024,4,2024-04-07,Japanese Grand Prix,nor,mclaren,0,0,24.6,3.0,0.8,5.4,20.0
+2024,4,2024-04-07,Japanese Grand Prix,oco,alpine,0,0,27.2,0.0,0.8,0.0,17.0
+2024,4,2024-04-07,Japanese Grand Prix,per,red_bull_racing,0,0,25.0,2.0,0.8,2.0,16.0
+2024,4,2024-04-07,Japanese Grand Prix,pia,mclaren,0,0,24.8,2.4,0.8,5.4,30.0
+2024,4,2024-04-07,Japanese Grand Prix,ric,rb,0,0,26.4,0.0,0.8,1.2,11.0
+2024,4,2024-04-07,Japanese Grand Prix,rus,mercedes,0,0,27.4,0.0,0.8,0.0,19.0
+2024,4,2024-04-07,Japanese Grand Prix,sai,ferrari,0,0,24.2,5.0,0.8,8.8,24.5
+2024,4,2024-04-07,Japanese Grand Prix,sar,williams,0,0,30.0,0.0,1.0,0.0,30.0
+2024,4,2024-04-07,Japanese Grand Prix,str,aston_martin,0,0,25.2,1.6,0.8,2.4,21.0
+2024,4,2024-04-07,Japanese Grand Prix,tsu,rb,0,0,25.4,1.2,0.8,1.2,21.5
+2024,4,2024-04-07,Japanese Grand Prix,ver,red_bull_racing,0,0,27.8,0.0,0.8,2.0,15.5
+2024,4,2024-04-07,Japanese Grand Prix,zho,kick_sauber,0,0,27.0,0.0,0.8,0.0,23.0
+2024,5,2024-04-21,Chinese Grand Prix,alb,williams,0,14,26.2,0.0,0.8,0.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,alo,aston_martin,0,3,25.6,0.8,0.8,2.4,12.0
+2024,5,2024-04-21,Chinese Grand Prix,bot,kick_sauber,0,10,26.8,0.0,0.8,0.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,gas,alpine,0,15,26.6,0.0,0.8,0.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,ham,mercedes,0,18,27.6,0.0,0.8,0.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,hul,haas_f1_team,0,9,25.8,0.4,0.8,0.6,12.0
+2024,5,2024-04-21,Chinese Grand Prix,lec,ferrari,0,6,24.4,3.8,0.8,8.8,12.0
+2024,5,2024-04-21,Chinese Grand Prix,mag,haas_f1_team,0,17,26.0,0.2,0.8,0.8,12.0
+2024,5,2024-04-21,Chinese Grand Prix,nor,mclaren,1,4,24.6,3.0,0.8,5.4,12.0
+2024,5,2024-04-21,Chinese Grand Prix,oco,alpine,0,13,27.2,0.0,0.8,0.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,per,red_bull_racing,1,2,25.0,2.0,0.8,2.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,pia,mclaren,0,5,24.8,2.4,0.8,9.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,ric,rb,0,12,26.4,0.0,0.8,1.2,12.0
+2024,5,2024-04-21,Chinese Grand Prix,rus,mercedes,0,8,27.4,0.0,0.8,0.4,12.0
+2024,5,2024-04-21,Chinese Grand Prix,sai,ferrari,0,7,24.2,5.0,0.8,11.2,12.0
+2024,5,2024-04-21,Chinese Grand Prix,sar,williams,0,20,30.0,0.0,1.0,0.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,str,aston_martin,0,11,25.2,1.6,0.8,3.8,12.0
+2024,5,2024-04-21,Chinese Grand Prix,tsu,rb,0,19,25.4,1.2,0.8,1.2,12.0
+2024,5,2024-04-21,Chinese Grand Prix,ver,red_bull_racing,1,1,27.8,0.0,0.8,5.0,12.0
+2024,5,2024-04-21,Chinese Grand Prix,zho,kick_sauber,0,16,27.0,0.0,0.8,0.0,12.0
+2024,6,2024-05-05,Miami Grand Prix,alb,williams,0,0,22.6,0.0,0.6,0.0,11.5
+2024,6,2024-05-05,Miami Grand Prix,alo,aston_martin,0,0,21.0,2.2,0.6,3.0,7.0
+2024,6,2024-05-05,Miami Grand Prix,bot,kick_sauber,0,0,24.8,0.0,0.6,0.0,10.0
+2024,6,2024-05-05,Miami Grand Prix,gas,alpine,0,0,23.2,0.0,0.6,0.0,13.0
+2024,6,2024-05-05,Miami Grand Prix,ham,mercedes,0,0,23.4,0.4,0.6,2.0,6.0
+2024,6,2024-05-05,Miami Grand Prix,hul,haas_f1_team,0,0,21.8,0.6,0.6,0.4,15.0
+2024,6,2024-05-05,Miami Grand Prix,lec,ferrari,0,0,19.2,6.2,0.6,9.4,4.5
+2024,6,2024-05-05,Miami Grand Prix,mag,haas_f1_team,0,0,23.2,0.2,0.6,0.2,13.0
+2024,6,2024-05-05,Miami Grand Prix,nor,mclaren,0,0,19.0,6.6,0.6,6.8,18.0
+2024,6,2024-05-05,Miami Grand Prix,oco,alpine,0,0,23.4,0.0,0.6,0.0,8.5
+2024,6,2024-05-05,Miami Grand Prix,per,red_bull_racing,0,0,19.6,5.0,0.6,8.0,3.0
+2024,6,2024-05-05,Miami Grand Prix,pia,mclaren,0,0,20.4,3.2,0.6,4.4,19.0
+2024,6,2024-05-05,Miami Grand Prix,ric,rb,0,0,24.0,0.0,0.6,1.2,13.0
+2024,6,2024-05-05,Miami Grand Prix,rus,mercedes,0,0,22.6,1.6,0.6,2.0,4.5
+2024,6,2024-05-05,Miami Grand Prix,sai,ferrari,0,0,19.2,7.0,0.6,4.4,4.0
+2024,6,2024-05-05,Miami Grand Prix,sar,williams,0,0,27.4,0.0,0.8,0.0,20.0
+2024,6,2024-05-05,Miami Grand Prix,str,aston_martin,0,0,22.2,1.6,0.6,1.4,11.0
+2024,6,2024-05-05,Miami Grand Prix,tsu,rb,0,0,23.2,1.2,0.6,0.0,11.5
+2024,6,2024-05-05,Miami Grand Prix,ver,red_bull_racing,0,0,22.0,5.0,0.6,8.0,1.0
+2024,6,2024-05-05,Miami Grand Prix,zho,kick_sauber,0,0,23.8,0.0,0.6,0.0,18.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,alb,williams,0,14,22.6,0.0,0.6,0.0,11.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,alo,aston_martin,0,20,21.0,2.2,0.6,1.4,14.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,bot,kick_sauber,0,16,24.8,0.0,0.6,0.0,11.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,gas,alpine,0,15,23.2,0.0,0.6,0.0,9.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,ham,mercedes,0,8,23.4,0.4,0.6,2.0,7.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,hul,haas_f1_team,0,10,21.8,0.6,0.6,0.2,12.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,lec,ferrari,1,3,19.2,6.2,0.6,4.4,5.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,mag,haas_f1_team,0,18,23.2,0.2,0.6,0.2,9.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,nor,mclaren,1,2,19.0,6.6,0.6,4.4,3.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,oco,alpine,0,12,23.4,0.0,0.6,0.0,11.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,per,red_bull_racing,0,11,19.6,5.0,0.6,8.0,6.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,pia,mclaren,0,5,20.4,3.2,0.6,8.0,12.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,ric,rb,0,9,24.0,0.0,0.6,0.0,12.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,rus,mercedes,0,6,22.6,1.6,0.6,3.6,11.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,sai,ferrari,0,4,19.2,7.0,0.6,7.4,12.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,sar,williams,0,19,27.4,0.0,0.8,0.0,12.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,str,aston_martin,0,13,22.2,1.6,0.6,1.4,9.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,tsu,rb,0,7,23.2,1.2,0.6,0.0,9.5
+2024,7,2024-05-19,Emilia Romagna Grand Prix,ver,red_bull_racing,1,1,22.0,5.0,0.6,8.8,1.0
+2024,7,2024-05-19,Emilia Romagna Grand Prix,zho,kick_sauber,0,17,23.8,0.0,0.6,0.0,15.0
+2024,8,2024-05-26,Monaco Grand Prix,alb,williams,0,0,20.6,0.0,0.4,0.0,16.0
+2024,8,2024-05-26,Monaco Grand Prix,alo,aston_martin,0,0,18.8,2.2,0.4,0.4,7.333333333333333
+2024,8,2024-05-26,Monaco Grand Prix,bot,kick_sauber,0,0,22.4,0.0,0.4,0.0,13.0
+2024,8,2024-05-26,Monaco Grand Prix,gas,alpine,0,0,20.4,0.0,0.4,0.0,8.0
+2024,8,2024-05-26,Monaco Grand Prix,ham,mercedes,0,0,18.6,2.0,0.4,4.6,6.333333333333333
+2024,8,2024-05-26,Monaco Grand Prix,hul,haas_f1_team,0,0,18.0,0.6,0.4,0.0,17.0
+2024,8,2024-05-26,Monaco Grand Prix,lec,ferrari,0,0,13.8,9.2,0.4,7.0,10.0
+2024,8,2024-05-26,Monaco Grand Prix,mag,haas_f1_team,0,0,19.6,0.2,0.4,0.0,19.5
+2024,8,2024-05-26,Monaco Grand Prix,nor,mclaren,0,0,13.4,10.2,0.4,6.8,6.0
+2024,8,2024-05-26,Monaco Grand Prix,oco,alpine,0,0,20.2,0.0,0.4,0.0,8.0
+2024,8,2024-05-26,Monaco Grand Prix,per,red_bull_racing,0,0,15.2,5.8,0.4,10.8,7.0
+2024,8,2024-05-26,Monaco Grand Prix,pia,mclaren,0,0,15.2,5.6,0.4,6.0,10.0
+2024,8,2024-05-26,Monaco Grand Prix,ric,rb,0,0,20.6,0.0,0.4,0.2,12.5
+2024,8,2024-05-26,Monaco Grand Prix,rus,mercedes,0,0,18.0,3.0,0.4,3.0,8.0
+2024,8,2024-05-26,Monaco Grand Prix,sai,ferrari,0,0,14.2,9.0,0.4,5.0,4.0
+2024,8,2024-05-26,Monaco Grand Prix,sar,williams,0,0,24.8,0.0,0.6,0.0,18.0
+2024,8,2024-05-26,Monaco Grand Prix,str,aston_martin,0,0,18.0,2.0,0.4,0.4,14.0
+2024,8,2024-05-26,Monaco Grand Prix,tsu,rb,0,0,19.2,1.4,0.4,0.2,16.0
+2024,8,2024-05-26,Monaco Grand Prix,ver,red_bull_racing,0,0,16.2,10.0,0.4,5.8,1.6666666666666667
+2024,8,2024-05-26,Monaco Grand Prix,zho,kick_sauber,0,0,20.8,0.0,0.4,0.0,14.5
+2024,9,2024-06-09,Canadian Grand Prix,alb,williams,0,10,24.4,0.0,0.6,0.0,10.0
+2024,9,2024-06-09,Canadian Grand Prix,alo,aston_martin,0,6,23.2,1.4,0.6,0.4,5.5
+2024,9,2024-06-09,Canadian Grand Prix,bot,kick_sauber,0,19,25.6,0.0,0.6,0.0,8.5
+2024,9,2024-06-09,Canadian Grand Prix,gas,alpine,0,15,23.8,0.0,0.6,0.0,13.0
+2024,9,2024-06-09,Canadian Grand Prix,ham,mercedes,0,7,21.0,2.0,0.6,3.0,3.0
+2024,9,2024-06-09,Canadian Grand Prix,hul,haas_f1_team,0,17,22.2,0.2,0.6,0.0,15.0
+2024,9,2024-06-09,Canadian Grand Prix,lec,ferrari,0,11,19.4,5.4,0.6,5.0,4.5
+2024,9,2024-06-09,Canadian Grand Prix,mag,haas_f1_team,0,14,23.6,0.0,0.6,0.0,17.0
+2024,9,2024-06-09,Canadian Grand Prix,nor,mclaren,1,3,18.8,7.2,0.6,6.0,14.0
+2024,9,2024-06-09,Canadian Grand Prix,oco,alpine,0,18,23.0,0.0,0.6,0.4,7.0
+2024,9,2024-06-09,Canadian Grand Prix,per,red_bull_racing,0,16,20.2,3.8,0.6,5.8,13.0
+2024,9,2024-06-09,Canadian Grand Prix,pia,mclaren,0,4,20.4,3.2,0.6,9.6,11.0
+2024,9,2024-06-09,Canadian Grand Prix,ric,rb,0,5,24.2,0.0,0.6,0.2,11.0
+2024,9,2024-06-09,Canadian Grand Prix,rus,mercedes,1,1,20.6,3.0,0.6,5.6,11.5
+2024,9,2024-06-09,Canadian Grand Prix,sai,ferrari,0,12,20.0,4.0,0.6,5.0,3.5
+2024,9,2024-06-09,Canadian Grand Prix,sar,williams,0,13,24.8,0.0,0.6,0.0,20.0
+2024,9,2024-06-09,Canadian Grand Prix,str,aston_martin,0,9,22.8,0.4,0.6,2.0,9.5
+2024,9,2024-06-09,Canadian Grand Prix,tsu,rb,0,8,23.8,0.2,0.6,1.0,16.0
+2024,9,2024-06-09,Canadian Grand Prix,ver,red_bull_racing,1,2,18.4,10.0,0.6,5.8,1.0
+2024,9,2024-06-09,Canadian Grand Prix,zho,kick_sauber,0,20,23.8,0.0,0.6,0.0,12.0
+2024,10,2024-06-23,Spanish Grand Prix,alb,williams,0,0,21.8,0.0,0.4,0.0,17.0
+2024,10,2024-06-23,Spanish Grand Prix,alo,aston_martin,0,0,18.4,3.0,0.4,3.2,11.0
+2024,10,2024-06-23,Spanish Grand Prix,bot,kick_sauber,0,0,22.2,0.0,0.4,0.0,9.333333333333334
+2024,10,2024-06-23,Spanish Grand Prix,gas,alpine,0,0,19.6,0.4,0.4,0.6,11.0
+2024,10,2024-06-23,Spanish Grand Prix,ham,mercedes,0,0,15.8,4.6,0.4,7.0,2.6666666666666665
+2024,10,2024-06-23,Spanish Grand Prix,hul,haas_f1_team,0,0,18.4,0.2,0.4,0.0,15.0
+2024,10,2024-06-23,Spanish Grand Prix,lec,ferrari,0,0,17.2,5.4,0.4,2.0,11.666666666666666
+2024,10,2024-06-23,Spanish Grand Prix,mag,haas_f1_team,0,0,20.0,0.0,0.4,0.0,17.5
+2024,10,2024-06-23,Spanish Grand Prix,nor,mclaren,0,0,13.2,10.8,0.4,8.0,11.0
+2024,10,2024-06-23,Spanish Grand Prix,oco,alpine,0,0,19.0,0.2,0.4,0.6,8.0
+2024,10,2024-06-23,Spanish Grand Prix,per,red_bull_racing,0,0,17.8,3.8,0.4,10.0,3.6666666666666665
+2024,10,2024-06-23,Spanish Grand Prix,pia,mclaren,0,0,15.4,5.2,0.4,5.6,13.0
+2024,10,2024-06-23,Spanish Grand Prix,ric,rb,0,0,19.8,0.8,0.4,1.0,9.0
+2024,10,2024-06-23,Spanish Grand Prix,rus,mercedes,0,0,15.2,6.0,0.4,5.6,6.666666666666667
+2024,10,2024-06-23,Spanish Grand Prix,sai,ferrari,0,0,17.2,4.0,0.4,0.0,5.333333333333333
+2024,10,2024-06-23,Spanish Grand Prix,sar,williams,0,0,22.8,0.0,0.4,0.0,20.0
+2024,10,2024-06-23,Spanish Grand Prix,str,aston_martin,0,0,18.2,1.6,0.4,2.8,10.666666666666666
+2024,10,2024-06-23,Spanish Grand Prix,tsu,rb,0,0,20.6,0.2,0.4,0.8,14.0
+2024,10,2024-06-23,Spanish Grand Prix,ver,red_bull_racing,0,0,12.6,15.0,0.4,5.0,1.3333333333333333
+2024,10,2024-06-23,Spanish Grand Prix,zho,kick_sauber,0,0,20.8,0.0,0.4,0.0,14.0
+2024,11,2024-06-30,Austrian Grand Prix,alb,williams,0,16,25.4,0.0,0.6,0.0,11.5
+2024,11,2024-06-30,Austrian Grand Prix,alo,aston_martin,0,15,23.0,1.6,0.6,2.8,8.333333333333334
+2024,11,2024-06-30,Austrian Grand Prix,bot,kick_sauber,0,18,24.2,0.0,0.6,0.0,9.333333333333334
+2024,11,2024-06-30,Austrian Grand Prix,gas,alpine,0,13,23.0,0.4,0.6,0.6,11.333333333333334
+2024,11,2024-06-30,Austrian Grand Prix,ham,mercedes,0,5,20.0,4.2,0.6,5.6,5.0
+2024,11,2024-06-30,Austrian Grand Prix,hul,haas_f1_team,0,9,22.4,0.0,0.6,0.0,20.0
+2024,11,2024-06-30,Austrian Grand Prix,lec,ferrari,0,6,22.4,3.0,0.6,0.0,3.6666666666666665
+2024,11,2024-06-30,Austrian Grand Prix,mag,haas_f1_team,0,12,22.8,0.0,0.6,1.6,13.0
+2024,11,2024-06-30,Austrian Grand Prix,nor,mclaren,0,2,18.8,7.2,0.6,5.6,4.666666666666667
+2024,11,2024-06-30,Austrian Grand Prix,oco,alpine,0,10,22.8,0.2,0.6,0.8,13.0
+2024,11,2024-06-30,Austrian Grand Prix,per,red_bull_racing,0,8,23.2,0.8,0.6,5.0,9.666666666666666
+2024,11,2024-06-30,Austrian Grand Prix,pia,mclaren,1,7,19.8,4.4,0.6,5.6,16.0
+2024,11,2024-06-30,Austrian Grand Prix,ric,rb,0,11,22.2,0.8,0.6,0.8,8.0
+2024,11,2024-06-30,Austrian Grand Prix,rus,mercedes,1,3,20.0,4.4,0.6,8.0,7.333333333333333
+2024,11,2024-06-30,Austrian Grand Prix,sai,ferrari,1,4,22.2,2.0,0.6,0.0,9.666666666666666
+2024,11,2024-06-30,Austrian Grand Prix,sar,williams,0,19,25.4,0.0,0.6,0.0,13.0
+2024,11,2024-06-30,Austrian Grand Prix,str,aston_martin,0,17,21.2,1.6,0.6,2.8,11.666666666666666
+2024,11,2024-06-30,Austrian Grand Prix,tsu,rb,0,14,22.8,0.2,0.6,1.2,15.666666666666666
+2024,11,2024-06-30,Austrian Grand Prix,ver,red_bull_racing,0,1,18.4,10.0,0.6,6.2,1.3333333333333333
+2024,11,2024-06-30,Austrian Grand Prix,zho,kick_sauber,0,20,24.0,0.0,0.6,0.0,13.0
+2024,12,2024-07-07,British Grand Prix,alb,williams,0,0,22.4,0.0,0.4,0.0,14.0
+2024,12,2024-07-07,British Grand Prix,alo,aston_martin,0,0,20.6,1.6,0.4,1.2,6.333333333333333
+2024,12,2024-07-07,British Grand Prix,bot,kick_sauber,0,0,21.4,0.0,0.4,0.0,10.666666666666666
+2024,12,2024-07-07,British Grand Prix,gas,alpine,0,0,19.0,0.6,0.4,0.4,15.0
+2024,12,2024-07-07,British Grand Prix,ham,mercedes,0,0,14.8,6.6,0.4,10.4,2.3333333333333335
+2024,12,2024-07-07,British Grand Prix,hul,haas_f1_team,0,0,17.6,1.6,0.4,2.4,13.0
+2024,12,2024-07-07,British Grand Prix,lec,ferrari,0,0,18.6,3.0,0.4,3.0,5.0
+2024,12,2024-07-07,British Grand Prix,mag,haas_f1_team,0,0,18.4,0.8,0.4,2.4,14.5
+2024,12,2024-07-07,British Grand Prix,nor,mclaren,0,0,16.8,7.2,0.4,5.6,4.0
+2024,12,2024-07-07,British Grand Prix,oco,alpine,0,0,19.2,0.2,0.4,0.2,14.666666666666666
+2024,12,2024-07-07,British Grand Prix,per,red_bull_racing,0,0,18.6,2.0,0.4,8.2,8.0
+2024,12,2024-07-07,British Grand Prix,pia,mclaren,0,0,14.2,8.0,0.4,3.6,4.0
+2024,12,2024-07-07,British Grand Prix,ric,rb,0,0,18.0,1.2,0.4,0.4,9.0
+2024,12,2024-07-07,British Grand Prix,rus,mercedes,0,0,14.2,9.4,0.4,7.4,11.666666666666666
+2024,12,2024-07-07,British Grand Prix,sai,ferrari,0,0,16.8,5.0,0.4,3.0,5.666666666666667
+2024,12,2024-07-07,British Grand Prix,sar,williams,0,0,23.2,0.0,0.4,0.0,11.0
+2024,12,2024-07-07,British Grand Prix,str,aston_martin,0,0,17.8,1.6,0.4,0.0,11.0
+2024,12,2024-07-07,British Grand Prix,tsu,rb,0,0,19.6,0.2,0.4,0.4,13.333333333333334
+2024,12,2024-07-07,British Grand Prix,ver,red_bull_racing,0,0,13.4,12.0,0.4,3.2,9.333333333333334
+2024,12,2024-07-07,British Grand Prix,zho,kick_sauber,0,0,21.4,0.0,0.4,0.0,17.0
+2024,13,2024-07-21,Hungarian Grand Prix,alb,williams,0,13,24.4,0.0,0.6,0.0,23.5
+2024,13,2024-07-21,Hungarian Grand Prix,alo,aston_martin,0,7,22.8,1.6,0.6,0.0,14.0
+2024,13,2024-07-21,Hungarian Grand Prix,bot,kick_sauber,0,12,23.8,0.0,0.6,0.0,22.0
+2024,13,2024-07-21,Hungarian Grand Prix,gas,alpine,0,20,21.8,0.6,0.6,0.2,15.666666666666666
+2024,13,2024-07-21,Hungarian Grand Prix,ham,mercedes,1,5,19.6,5.0,0.6,7.4,11.333333333333334
+2024,13,2024-07-21,Hungarian Grand Prix,hul,haas_f1_team,0,11,21.4,1.6,0.6,2.4,30.0
+2024,13,2024-07-21,Hungarian Grand Prix,lec,ferrari,0,6,24.0,0.0,0.6,3.0,18.0
+2024,13,2024-07-21,Hungarian Grand Prix,mag,haas_f1_team,0,15,22.0,0.8,0.6,2.4,23.0
+2024,13,2024-07-21,Hungarian Grand Prix,nor,mclaren,1,1,22.4,3.6,0.6,3.6,17.333333333333332
+2024,13,2024-07-21,Hungarian Grand Prix,oco,alpine,0,19,22.4,0.2,0.6,0.2,13.333333333333334
+2024,13,2024-07-21,Hungarian Grand Prix,per,red_bull_racing,0,16,23.0,1.2,0.6,3.2,17.333333333333332
+2024,13,2024-07-21,Hungarian Grand Prix,pia,mclaren,1,2,19.4,5.6,0.6,7.2,30.0
+2024,13,2024-07-21,Hungarian Grand Prix,ric,rb,0,9,21.4,1.2,0.6,0.4,18.666666666666668
+2024,13,2024-07-21,Hungarian Grand Prix,rus,mercedes,0,17,18.8,8.0,0.6,10.4,13.666666666666666
+2024,13,2024-07-21,Hungarian Grand Prix,sai,ferrari,0,4,21.8,3.0,0.6,5.4,12.333333333333334
+2024,13,2024-07-21,Hungarian Grand Prix,sar,williams,0,14,25.8,0.0,0.6,0.0,30.0
+2024,13,2024-07-21,Hungarian Grand Prix,str,aston_martin,0,8,22.0,1.2,0.6,0.0,20.0
+2024,13,2024-07-21,Hungarian Grand Prix,tsu,rb,0,10,23.6,0.0,0.6,0.4,18.333333333333332
+2024,13,2024-07-21,Hungarian Grand Prix,ver,red_bull_racing,0,3,19.2,7.0,0.6,4.4,13.333333333333334
+2024,13,2024-07-21,Hungarian Grand Prix,zho,kick_sauber,0,18,24.4,0.0,0.6,0.0,21.5
+2024,14,2024-07-28,Belgian Grand Prix,alb,williams,0,0,21.2,0.0,0.4,0.0,20.0
+2024,14,2024-07-28,Belgian Grand Prix,alo,aston_martin,0,0,19.0,1.6,0.4,0.2,15.333333333333334
+2024,14,2024-07-28,Belgian Grand Prix,bot,kick_sauber,0,0,21.0,0.0,0.4,0.0,20.333333333333332
+2024,14,2024-07-28,Belgian Grand Prix,gas,alpine,0,0,19.8,0.6,0.4,0.0,15.0
+2024,14,2024-07-28,Belgian Grand Prix,ham,mercedes,0,0,14.2,8.0,0.4,9.0,17.666666666666668
+2024,14,2024-07-28,Belgian Grand Prix,hul,haas_f1_team,0,0,18.0,1.6,0.4,0.8,30.0
+2024,14,2024-07-28,Belgian Grand Prix,lec,ferrari,0,0,18.8,2.4,0.4,7.0,14.666666666666666
+2024,14,2024-07-28,Belgian Grand Prix,mag,haas_f1_team,0,0,19.0,0.8,0.4,0.0,23.0
+2024,14,2024-07-28,Belgian Grand Prix,nor,mclaren,0,0,16.8,7.2,0.4,12.2,18.666666666666668
+2024,14,2024-07-28,Belgian Grand Prix,oco,alpine,0,0,20.0,0.2,0.4,0.0,14.666666666666666
+2024,14,2024-07-28,Belgian Grand Prix,per,red_bull_racing,0,0,18.4,2.4,0.4,5.2,17.0
+2024,14,2024-07-28,Belgian Grand Prix,pia,mclaren,0,0,13.6,10.6,0.4,8.6,30.0
+2024,14,2024-07-28,Belgian Grand Prix,ric,rb,0,0,17.8,1.2,0.4,0.4,16.333333333333332
+2024,14,2024-07-28,Belgian Grand Prix,rus,mercedes,0,0,14.4,9.0,0.4,4.0,12.0
+2024,14,2024-07-28,Belgian Grand Prix,sai,ferrari,0,0,17.0,4.6,0.4,4.0,14.333333333333334
+2024,14,2024-07-28,Belgian Grand Prix,sar,williams,0,0,23.2,0.0,0.4,0.0,30.0
+2024,14,2024-07-28,Belgian Grand Prix,str,aston_martin,0,0,18.0,1.4,0.4,0.2,20.333333333333332
+2024,14,2024-07-28,Belgian Grand Prix,tsu,rb,0,0,19.4,0.4,0.4,0.4,19.333333333333332
+2024,14,2024-07-28,Belgian Grand Prix,ver,red_bull_racing,0,0,14.2,9.0,0.4,3.2,10.666666666666666
+2024,14,2024-07-28,Belgian Grand Prix,zho,kick_sauber,0,0,22.2,0.0,0.4,0.0,22.0
+2024,15,2024-08-25,Dutch Grand Prix,alb,williams,0,19,23.8,0.0,0.6,0.0,21.0
+2024,15,2024-08-25,Dutch Grand Prix,alo,aston_martin,0,7,23.8,0.0,0.6,0.2,14.0
+2024,15,2024-08-25,Dutch Grand Prix,bot,kick_sauber,0,16,24.4,0.0,0.6,0.0,17.333333333333332
+2024,15,2024-08-25,Dutch Grand Prix,gas,alpine,0,9,24.0,0.2,0.6,0.0,15.0
+2024,15,2024-08-25,Dutch Grand Prix,ham,mercedes,0,14,19.4,5.4,0.6,4.0,12.0
+2024,15,2024-08-25,Dutch Grand Prix,hul,haas_f1_team,0,12,21.8,1.6,0.6,0.0,30.0
+2024,15,2024-08-25,Dutch Grand Prix,lec,ferrari,1,6,21.0,2.4,0.6,4.0,12.666666666666666
+2024,15,2024-08-25,Dutch Grand Prix,mag,haas_f1_team,0,20,22.6,0.8,0.6,0.0,22.5
+2024,15,2024-08-25,Dutch Grand Prix,nor,mclaren,1,1,22.4,3.6,0.6,8.6,15.666666666666666
+2024,15,2024-08-25,Dutch Grand Prix,oco,alpine,0,15,24.0,0.0,0.6,0.4,16.0
+2024,15,2024-08-25,Dutch Grand Prix,per,red_bull_racing,0,5,20.8,2.4,0.6,3.2,14.333333333333334
+2024,15,2024-08-25,Dutch Grand Prix,pia,mclaren,0,3,18.6,8.6,0.6,13.8,30.0
+2024,15,2024-08-25,Dutch Grand Prix,ric,rb,0,13,22.2,0.4,0.6,0.4,14.0
+2024,15,2024-08-25,Dutch Grand Prix,rus,mercedes,0,4,19.8,6.0,0.6,4.8,16.333333333333332
+2024,15,2024-08-25,Dutch Grand Prix,sai,ferrari,0,10,19.8,4.6,0.6,7.0,15.0
+2024,15,2024-08-25,Dutch Grand Prix,sar,williams,0,18,25.2,0.0,0.6,0.0,30.0
+2024,15,2024-08-25,Dutch Grand Prix,str,aston_martin,0,8,22.6,0.2,0.6,0.4,17.333333333333332
+2024,15,2024-08-25,Dutch Grand Prix,tsu,rb,0,11,22.6,0.4,0.6,0.4,23.0
+2024,15,2024-08-25,Dutch Grand Prix,ver,red_bull_racing,1,2,20.0,4.0,0.6,4.8,10.666666666666666
+2024,15,2024-08-25,Dutch Grand Prix,zho,kick_sauber,0,17,25.2,0.0,0.6,0.0,23.0
+2024,16,2024-09-01,Italian Grand Prix,alb,williams,0,0,20.6,0.0,0.4,0.0,7.0
+2024,16,2024-09-01,Italian Grand Prix,alo,aston_martin,0,0,19.8,0.2,0.4,0.4,12.0
+2024,16,2024-09-01,Italian Grand Prix,bot,kick_sauber,0,0,22.2,0.0,0.4,0.0,8.666666666666666
+2024,16,2024-09-01,Italian Grand Prix,col,williams,0,0,15.2,1.4,0.0,0.0,12.0
+2024,16,2024-09-01,Italian Grand Prix,gas,alpine,0,0,19.8,0.6,0.4,0.4,14.0
+2024,16,2024-09-01,Italian Grand Prix,ham,mercedes,0,0,15.0,6.2,0.4,3.0,9.333333333333334
+2024,16,2024-09-01,Italian Grand Prix,hul,haas_f1_team,0,0,18.0,1.6,0.4,0.0,17.0
+2024,16,2024-09-01,Italian Grand Prix,lec,ferrari,0,0,15.6,5.4,0.4,6.6,3.3333333333333335
+2024,16,2024-09-01,Italian Grand Prix,mag,haas_f1_team,0,0,20.2,0.8,0.4,0.0,17.0
+2024,16,2024-09-01,Italian Grand Prix,nor,mclaren,0,0,16.6,8.8,0.4,12.6,5.666666666666667
+2024,16,2024-09-01,Italian Grand Prix,oco,alpine,0,0,21.0,0.0,0.4,0.4,13.333333333333334
+2024,16,2024-09-01,Italian Grand Prix,per,red_bull_racing,0,0,16.0,4.0,0.4,7.2,4.333333333333333
+2024,16,2024-09-01,Italian Grand Prix,pia,mclaren,0,0,13.4,11.0,0.4,7.6,12.0
+2024,16,2024-09-01,Italian Grand Prix,ric,rb,0,0,18.6,0.4,0.4,0.4,9.0
+2024,16,2024-09-01,Italian Grand Prix,rus,mercedes,0,0,15.2,7.2,0.4,2.0,5.666666666666667
+2024,16,2024-09-01,Italian Grand Prix,sai,ferrari,0,0,14.8,6.6,0.4,5.0,4.333333333333333
+2024,16,2024-09-01,Italian Grand Prix,str,aston_martin,0,0,19.2,0.2,0.4,0.2,13.666666666666666
+2024,16,2024-09-01,Italian Grand Prix,tsu,rb,0,0,20.0,0.4,0.4,0.0,18.0
+2024,16,2024-09-01,Italian Grand Prix,ver,red_bull_racing,0,0,14.4,7.6,0.4,5.2,6.666666666666667
+2024,16,2024-09-01,Italian Grand Prix,zho,kick_sauber,0,0,23.2,0.0,0.4,0.0,12.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,alb,williams,0,9,23.6,0.0,0.6,0.0,12.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,alo,aston_martin,0,7,22.2,0.2,0.6,0.2,5.666666666666667
+2024,17,2024-09-15,Azerbaijan Grand Prix,bea,haas_f1_team,0,10,30.0,0.0,1.0,0.0,12.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,bot,kick_sauber,0,16,25.0,0.0,0.6,0.0,13.666666666666666
+2024,17,2024-09-15,Azerbaijan Grand Prix,col,williams,0,8,30.0,0.0,1.0,1.2,12.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,gas,alpine,0,18,23.8,0.4,0.6,0.4,7.333333333333333
+2024,17,2024-09-15,Azerbaijan Grand Prix,ham,mercedes,0,19,20.2,3.8,0.6,2.0,8.333333333333334
+2024,17,2024-09-15,Azerbaijan Grand Prix,hul,haas_f1_team,0,12,22.8,0.0,0.6,0.2,17.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,lec,ferrari,1,1,19.4,5.4,0.6,5.0,8.666666666666666
+2024,17,2024-09-15,Azerbaijan Grand Prix,nor,mclaren,0,15,18.6,8.8,0.6,7.6,7.666666666666667
+2024,17,2024-09-15,Azerbaijan Grand Prix,oco,alpine,0,20,24.6,0.0,0.6,0.4,15.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,per,red_bull_racing,0,4,20.6,2.8,0.6,5.2,1.3333333333333333
+2024,17,2024-09-15,Azerbaijan Grand Prix,pia,mclaren,1,2,19.0,7.4,0.6,10.2,11.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,ric,rb,0,14,22.8,0.0,0.6,0.0,8.5
+2024,17,2024-09-15,Azerbaijan Grand Prix,rus,mercedes,1,5,21.0,2.2,0.6,2.4,9.333333333333334
+2024,17,2024-09-15,Azerbaijan Grand Prix,sai,ferrari,0,3,20.2,3.6,0.6,8.6,11.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,str,aston_martin,0,13,22.6,0.2,0.6,1.8,14.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,tsu,rb,0,11,23.2,0.4,0.6,0.0,10.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,ver,red_bull_racing,0,6,19.4,5.6,0.6,5.2,7.0
+2024,17,2024-09-15,Azerbaijan Grand Prix,zho,kick_sauber,0,17,25.8,0.0,0.6,0.0,18.5
+2024,18,2024-09-22,Singapore Grand Prix,alb,williams,0,0,19.0,1.2,0.4,2.0,23.5
+2024,18,2024-09-22,Singapore Grand Prix,alo,aston_martin,0,0,17.4,1.8,0.4,1.6,24.0
+2024,18,2024-09-22,Singapore Grand Prix,bot,kick_sauber,0,0,22.2,0.0,0.4,0.0,20.5
+2024,18,2024-09-22,Singapore Grand Prix,col,williams,0,0,19.0,2.0,0.5,2.0,12.0
+2024,18,2024-09-22,Singapore Grand Prix,gas,alpine,0,0,20.2,0.4,0.4,0.0,20.0
+2024,18,2024-09-22,Singapore Grand Prix,ham,mercedes,0,0,16.0,4.2,0.4,4.6,19.5
+2024,18,2024-09-22,Singapore Grand Prix,hul,haas_f1_team,0,0,19.0,0.0,0.4,0.2,30.0
+2024,18,2024-09-22,Singapore Grand Prix,lec,ferrari,0,0,13.8,9.0,0.4,5.6,16.0
+2024,18,2024-09-22,Singapore Grand Prix,mag,haas_f1_team,0,0,24.6,0.0,0.6,0.2,21.0
+2024,18,2024-09-22,Singapore Grand Prix,nor,mclaren,0,0,13.4,11.4,0.4,10.0,17.0
+2024,18,2024-09-22,Singapore Grand Prix,oco,alpine,0,0,21.6,0.0,0.4,0.0,23.0
+2024,18,2024-09-22,Singapore Grand Prix,per,red_bull_racing,0,0,18.0,2.8,0.4,5.6,15.5
+2024,18,2024-09-22,Singapore Grand Prix,pia,mclaren,0,0,13.2,12.4,0.4,7.6,30.0
+2024,18,2024-09-22,Singapore Grand Prix,ric,rb,0,0,19.4,0.0,0.4,0.0,5.0
+2024,18,2024-09-22,Singapore Grand Prix,rus,mercedes,0,0,15.6,5.2,0.4,3.4,22.0
+2024,18,2024-09-22,Singapore Grand Prix,sai,ferrari,0,0,17.8,3.6,0.4,3.6,16.5
+2024,18,2024-09-22,Singapore Grand Prix,str,aston_martin,0,0,20.4,0.2,0.4,1.6,6.0
+2024,18,2024-09-22,Singapore Grand Prix,tsu,rb,0,0,21.2,0.4,0.4,0.0,22.5
+2024,18,2024-09-22,Singapore Grand Prix,ver,red_bull_racing,0,0,14.4,7.6,0.4,2.0,18.5
+2024,18,2024-09-22,Singapore Grand Prix,zho,kick_sauber,0,0,22.6,0.0,0.4,0.0,25.0
+2024,19,2024-10-20,United States Grand Prix,alb,williams,0,14,22.2,1.2,0.6,2.0,21.5
+2024,19,2024-10-20,United States Grand Prix,alo,aston_martin,0,7,21.2,1.8,0.6,1.6,18.333333333333332
+2024,19,2024-10-20,United States Grand Prix,bot,kick_sauber,0,16,25.0,0.0,0.6,0.0,18.333333333333332
+2024,19,2024-10-20,United States Grand Prix,col,williams,0,15,22.666666666666668,1.3333333333333333,0.6666666666666666,2.0,12.0
+2024,19,2024-10-20,United States Grand Prix,gas,alpine,0,6,22.2,0.4,0.6,0.0,21.333333333333332
+2024,19,2024-10-20,United States Grand Prix,ham,mercedes,0,17,21.4,1.2,0.6,3.4,11.333333333333334
+2024,19,2024-10-20,United States Grand Prix,hul,haas_f1_team,0,11,22.4,0.0,0.6,0.2,30.0
+2024,19,2024-10-20,United States Grand Prix,law,rb,0,19,26.2,0.0,0.8,0.0,12.0
+2024,19,2024-10-20,United States Grand Prix,lec,ferrari,1,4,19.0,6.6,0.6,3.6,12.333333333333334
+2024,19,2024-10-20,United States Grand Prix,mag,haas_f1_team,0,8,24.6,0.0,0.6,1.0,19.5
+2024,19,2024-10-20,United States Grand Prix,nor,mclaren,0,1,19.0,7.8,0.6,7.6,14.666666666666666
+2024,19,2024-10-20,United States Grand Prix,oco,alpine,0,12,24.0,0.0,0.6,0.0,20.0
+2024,19,2024-10-20,United States Grand Prix,per,red_bull_racing,0,9,22.6,1.6,0.6,2.0,12.333333333333334
+2024,19,2024-10-20,United States Grand Prix,pia,mclaren,0,5,19.0,7.4,0.6,10.0,30.0
+2024,19,2024-10-20,United States Grand Prix,rus,mercedes,0,20,20.0,4.2,0.6,3.4,16.333333333333332
+2024,19,2024-10-20,United States Grand Prix,sai,ferrari,1,3,22.6,2.0,0.6,8.6,19.0
+2024,19,2024-10-20,United States Grand Prix,str,aston_martin,0,13,24.4,0.0,0.6,1.6,20.0
+2024,19,2024-10-20,United States Grand Prix,tsu,rb,0,10,25.4,0.0,0.6,0.4,16.333333333333332
+2024,19,2024-10-20,United States Grand Prix,ver,red_bull_racing,1,2,19.4,5.6,0.6,3.2,10.666666666666666
+2024,19,2024-10-20,United States Grand Prix,zho,kick_sauber,0,18,24.8,0.0,0.6,0.0,21.0
+2024,20,2024-10-27,Mexico City Grand Prix,alb,williams,0,0,19.4,1.2,0.4,1.0,21.0
+2024,20,2024-10-27,Mexico City Grand Prix,alo,aston_martin,0,0,17.8,1.8,0.4,0.0,19.333333333333332
+2024,20,2024-10-27,Mexico City Grand Prix,bot,kick_sauber,0,0,22.4,0.0,0.4,0.0,18.333333333333332
+2024,20,2024-10-27,Mexico City Grand Prix,col,williams,0,0,19.5,1.25,0.5,0.2,12.0
+2024,20,2024-10-27,Mexico City Grand Prix,gas,alpine,0,0,18.6,0.4,0.4,0.0,15.0
+2024,20,2024-10-27,Mexico City Grand Prix,ham,mercedes,0,0,19.4,1.2,0.4,4.6,11.333333333333334
+2024,20,2024-10-27,Mexico City Grand Prix,hul,haas_f1_team,0,0,18.0,0.8,0.4,0.8,30.0
+2024,20,2024-10-27,Mexico City Grand Prix,law,rb,0,0,22.0,0.4,0.6,0.4,12.0
+2024,20,2024-10-27,Mexico City Grand Prix,lec,ferrari,0,0,13.2,11.6,0.4,8.6,13.666666666666666
+2024,20,2024-10-27,Mexico City Grand Prix,mag,haas_f1_team,0,0,23.8,0.0,0.6,0.8,23.5
+2024,20,2024-10-27,Mexico City Grand Prix,nor,mclaren,0,0,13.8,10.2,0.4,9.4,16.333333333333332
+2024,20,2024-10-27,Mexico City Grand Prix,oco,alpine,0,0,21.6,0.0,0.4,0.0,17.0
+2024,20,2024-10-27,Mexico City Grand Prix,per,red_bull_racing,0,0,18.0,2.8,0.4,6.2,12.0
+2024,20,2024-10-27,Mexico City Grand Prix,pia,mclaren,0,0,14.0,9.4,0.4,4.4,30.0
+2024,20,2024-10-27,Mexico City Grand Prix,rus,mercedes,0,0,15.2,5.8,0.4,1.6,16.666666666666668
+2024,20,2024-10-27,Mexico City Grand Prix,sai,ferrari,0,0,17.0,5.6,0.4,8.6,13.666666666666666
+2024,20,2024-10-27,Mexico City Grand Prix,str,aston_martin,0,0,21.4,0.0,0.4,0.0,19.666666666666668
+2024,20,2024-10-27,Mexico City Grand Prix,tsu,rb,0,0,22.2,0.0,0.4,0.4,23.333333333333332
+2024,20,2024-10-27,Mexico City Grand Prix,ver,red_bull_racing,0,0,14.0,8.6,0.4,4.2,10.666666666666666
+2024,20,2024-10-27,Mexico City Grand Prix,zho,kick_sauber,0,0,22.6,0.0,0.4,0.0,21.5
+2024,21,2024-11-03,São Paulo Grand Prix,alb,williams,0,7,22.6,1.2,0.6,0.2,22.5
+2024,21,2024-11-03,São Paulo Grand Prix,alo,aston_martin,0,9,21.8,1.6,0.6,0.0,14.666666666666666
+2024,21,2024-11-03,São Paulo Grand Prix,bea,haas_f1_team,0,15,20.0,0.5,0.5,0.8,12.0
+2024,21,2024-11-03,São Paulo Grand Prix,bot,kick_sauber,0,11,24.6,0.0,0.6,0.0,14.0
+2024,21,2024-11-03,São Paulo Grand Prix,col,williams,0,16,21.6,1.0,0.6,0.2,12.0
+2024,21,2024-11-03,São Paulo Grand Prix,gas,alpine,1,13,22.8,0.0,0.6,0.0,17.0
+2024,21,2024-11-03,São Paulo Grand Prix,ham,mercedes,0,14,23.8,0.4,0.6,1.6,11.0
+2024,21,2024-11-03,São Paulo Grand Prix,hul,haas_f1_team,0,18,21.8,0.8,0.6,0.8,30.0
+2024,21,2024-11-03,São Paulo Grand Prix,law,rb,0,5,25.8,0.4,0.8,0.4,12.0
+2024,21,2024-11-03,São Paulo Grand Prix,lec,ferrari,0,6,18.6,8.6,0.6,8.6,13.0
+2024,21,2024-11-03,São Paulo Grand Prix,nor,mclaren,0,1,19.6,5.0,0.6,4.4,19.333333333333332
+2024,21,2024-11-03,São Paulo Grand Prix,oco,alpine,1,4,24.6,0.0,0.6,3.0,15.333333333333334
+2024,21,2024-11-03,São Paulo Grand Prix,per,red_bull_racing,0,12,22.8,1.2,0.6,4.2,13.666666666666666
+2024,21,2024-11-03,São Paulo Grand Prix,pia,mclaren,0,8,19.2,7.0,0.6,6.0,30.0
+2024,21,2024-11-03,São Paulo Grand Prix,rus,mercedes,0,2,19.8,4.6,0.6,1.8,14.666666666666666
+2024,21,2024-11-03,São Paulo Grand Prix,sai,ferrari,0,20,22.0,3.6,0.6,10.6,13.0
+2024,21,2024-11-03,São Paulo Grand Prix,str,aston_martin,0,10,24.8,0.0,0.6,0.0,20.0
+2024,21,2024-11-03,São Paulo Grand Prix,tsu,rb,0,3,24.8,0.0,0.6,0.8,20.666666666666668
+2024,21,2024-11-03,São Paulo Grand Prix,ver,red_bull_racing,1,17,19.6,5.0,0.6,4.2,12.666666666666666
+2024,21,2024-11-03,São Paulo Grand Prix,zho,kick_sauber,0,19,24.6,0.0,0.6,0.0,21.0
+2024,22,2024-11-23,Las Vegas Grand Prix,alb,williams,0,0,20.2,1.2,0.4,0.2,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,alo,aston_martin,0,0,18.6,1.6,0.4,0.0,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,bot,kick_sauber,0,0,21.2,0.0,0.4,0.0,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,col,williams,0,0,19.0,1.0,0.4,0.0,12.0
+2024,22,2024-11-23,Las Vegas Grand Prix,gas,alpine,0,0,17.4,3.0,0.4,6.6,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,ham,mercedes,0,0,19.8,0.6,0.4,4.2,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,hul,haas_f1_team,0,0,19.8,0.8,0.4,0.0,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,law,rb,0,0,21.6,0.8,0.6,1.6,12.0
+2024,22,2024-11-23,Las Vegas Grand Prix,lec,ferrari,0,0,13.6,10.6,0.4,5.6,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,mag,haas_f1_team,0,0,23.8,0.0,0.6,0.0,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,nor,mclaren,0,0,14.8,6.6,0.4,4.4,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,oco,alpine,0,0,19.0,3.6,0.4,6.6,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,per,red_bull_racing,0,0,19.0,1.2,0.4,8.2,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,pia,mclaren,0,0,14.8,7.8,0.4,2.4,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,rus,mercedes,0,0,14.6,7.0,0.4,2.6,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,sai,ferrari,0,0,19.2,3.6,0.4,2.0,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,str,aston_martin,0,0,22.6,0.0,0.4,0.0,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,tsu,rb,0,0,20.2,1.2,0.4,1.6,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,ver,red_bull_racing,0,0,13.8,10.2,0.4,5.2,30.0
+2024,22,2024-11-23,Las Vegas Grand Prix,zho,kick_sauber,0,0,21.6,0.0,0.4,0.0,30.0
+2024,23,2024-12-01,Qatar Grand Prix,alb,williams,0,16,24.8,0.0,0.6,0.0,30.0
+2024,23,2024-12-01,Qatar Grand Prix,alo,aston_martin,0,8,23.4,0.0,0.6,0.0,16.5
+2024,23,2024-12-01,Qatar Grand Prix,bot,kick_sauber,0,13,24.0,0.0,0.6,0.0,25.0
+2024,23,2024-12-01,Qatar Grand Prix,col,williams,0,19,23.4,0.2,0.6,0.0,12.0
+2024,23,2024-12-01,Qatar Grand Prix,gas,alpine,0,11,21.0,3.0,0.6,6.6,20.5
+2024,23,2024-12-01,Qatar Grand Prix,ham,mercedes,0,6,24.0,0.2,0.6,2.6,15.5
+2024,23,2024-12-01,Qatar Grand Prix,hul,haas_f1_team,0,18,23.6,0.8,0.6,0.0,30.0
+2024,23,2024-12-01,Qatar Grand Prix,law,rb,0,17,21.6,0.8,0.6,1.6,30.0
+2024,23,2024-12-01,Qatar Grand Prix,lec,ferrari,1,5,19.2,7.0,0.6,2.0,19.0
+2024,23,2024-12-01,Qatar Grand Prix,mag,haas_f1_team,0,10,26.2,0.0,0.8,0.0,30.0
+2024,23,2024-12-01,Qatar Grand Prix,nor,mclaren,0,3,20.0,4.0,0.6,2.4,19.5
+2024,23,2024-12-01,Qatar Grand Prix,oco,alpine,0,20,22.0,3.6,0.6,8.6,17.5
+2024,23,2024-12-01,Qatar Grand Prix,per,red_bull_racing,0,9,21.6,1.2,0.6,5.2,17.0
+2024,23,2024-12-01,Qatar Grand Prix,pia,mclaren,1,4,20.6,2.8,0.6,2.8,30.0
+2024,23,2024-12-01,Qatar Grand Prix,rus,mercedes,0,1,20.0,4.0,0.6,2.6,23.5
+2024,23,2024-12-01,Qatar Grand Prix,sai,ferrari,0,7,21.6,3.6,0.6,5.6,18.5
+2024,23,2024-12-01,Qatar Grand Prix,str,aston_martin,0,15,24.8,0.0,0.6,1.2,18.0
+2024,23,2024-12-01,Qatar Grand Prix,tsu,rb,0,14,22.2,1.2,0.6,1.6,21.5
+2024,23,2024-12-01,Qatar Grand Prix,ver,red_bull_racing,1,2,18.8,8.2,0.6,5.2,16.0
+2024,23,2024-12-01,Qatar Grand Prix,zho,kick_sauber,0,12,24.8,0.0,0.6,0.0,30.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,alb,williams,0,0,21.8,0.0,0.4,0.0,21.5
+2024,24,2024-12-08,Abu Dhabi Grand Prix,alo,aston_martin,0,0,18.8,1.2,0.4,1.2,19.333333333333332
+2024,24,2024-12-08,Abu Dhabi Grand Prix,bot,kick_sauber,0,0,20.2,0.0,0.4,0.8,17.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,col,williams,0,0,21.2,0.2,0.4,0.0,12.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,doo,alpine,0,0,15.2,1.4,0.0,5.6,12.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,gas,alpine,0,0,16.0,5.0,0.4,2.0,16.333333333333332
+2024,24,2024-12-08,Abu Dhabi Grand Prix,ham,mercedes,0,0,20.4,0.2,0.4,4.8,16.666666666666668
+2024,24,2024-12-08,Abu Dhabi Grand Prix,hul,haas_f1_team,0,0,20.8,0.8,0.4,0.4,30.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,law,rb,0,0,18.4,0.8,0.4,1.2,12.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,lec,ferrari,0,0,13.6,10.6,0.4,5.2,14.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,mag,haas_f1_team,0,0,22.0,0.4,0.6,0.4,23.5
+2024,24,2024-12-08,Abu Dhabi Grand Prix,nor,mclaren,0,0,16.0,4.4,0.4,4.2,14.333333333333334
+2024,24,2024-12-08,Abu Dhabi Grand Prix,per,red_bull_racing,0,0,19.0,1.2,0.4,10.2,16.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,pia,mclaren,0,0,15.2,5.8,0.4,3.4,30.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,rus,mercedes,0,0,14.8,6.4,0.4,2.4,17.666666666666668
+2024,24,2024-12-08,Abu Dhabi Grand Prix,sai,ferrari,0,0,16.8,5.2,0.4,5.2,12.333333333333334
+2024,24,2024-12-08,Abu Dhabi Grand Prix,str,aston_martin,0,0,22.4,0.0,0.4,1.2,17.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,tsu,rb,0,0,18.8,1.2,0.4,0.0,15.0
+2024,24,2024-12-08,Abu Dhabi Grand Prix,ver,red_bull_racing,0,0,13.0,13.2,0.4,5.0,10.666666666666666
+2024,24,2024-12-08,Abu Dhabi Grand Prix,zho,kick_sauber,0,0,20.4,0.8,0.4,0.8,21.0
+2025,1,2025-03-16,Australian Grand Prix,alb,williams,0,6,24.6,0.0,0.6,0.0,13.333333333333334
+2025,1,2025-03-16,Australian Grand Prix,alo,aston_martin,0,12,22.2,1.2,0.6,1.2,9.333333333333334
+2025,1,2025-03-16,Australian Grand Prix,ant,mercedes,0,16,15.2,1.4,0.0,2.4,12.0
+2025,1,2025-03-16,Australian Grand Prix,bea,haas_f1_team,0,20,17.333333333333332,0.3333333333333333,0.3333333333333333,0.4,12.0
+2025,1,2025-03-16,Australian Grand Prix,bor,kick_sauber,0,15,15.2,1.4,0.0,0.8,12.0
+2025,1,2025-03-16,Australian Grand Prix,doo,alpine,0,14,30.0,0.0,1.0,2.0,12.0
+2025,1,2025-03-16,Australian Grand Prix,gas,alpine,0,9,19.6,5.0,0.6,2.0,11.666666666666666
+2025,1,2025-03-16,Australian Grand Prix,had,racing_bulls,0,11,15.2,1.4,0.0,1.4,12.0
+2025,1,2025-03-16,Australian Grand Prix,ham,ferrari,0,8,22.4,0.2,0.6,5.2,8.0
+2025,1,2025-03-16,Australian Grand Prix,hul,kick_sauber,0,17,25.2,0.0,0.6,0.8,8.0
+2025,1,2025-03-16,Australian Grand Prix,law,red_bull_racing,0,18,22.6,0.4,0.6,5.0,12.0
+2025,1,2025-03-16,Australian Grand Prix,lec,ferrari,0,7,19.4,5.6,0.6,5.4,7.666666666666667
+2025,1,2025-03-16,Australian Grand Prix,nor,mclaren,1,1,21.2,2.0,0.6,3.4,4.666666666666667
+2025,1,2025-03-16,Australian Grand Prix,oco,haas_f1_team,0,19,20.0,3.6,0.4,0.4,12.333333333333334
+2025,1,2025-03-16,Australian Grand Prix,pia,mclaren,0,2,20.2,3.8,0.6,8.4,6.0
+2025,1,2025-03-16,Australian Grand Prix,rus,mercedes,1,4,19.6,4.8,0.6,4.8,12.666666666666666
+2025,1,2025-03-16,Australian Grand Prix,sai,williams,0,10,22.4,1.6,0.6,2.0,11.0
+2025,1,2025-03-16,Australian Grand Prix,str,aston_martin,0,13,25.4,0.0,0.6,1.2,7.333333333333333
+2025,1,2025-03-16,Australian Grand Prix,tsu,racing_bulls,0,5,22.0,1.2,0.6,0.0,10.666666666666666
+2025,1,2025-03-16,Australian Grand Prix,ver,red_bull_racing,1,3,18.4,10.2,0.6,5.0,12.666666666666666
+2025,2,2025-03-23,Chinese Grand Prix,alb,williams,0,10,19.6,2.0,0.4,2.0,12.0
+2025,2,2025-03-23,Chinese Grand Prix,alo,aston_martin,0,13,19.6,1.2,0.4,1.6,7.0
+2025,2,2025-03-23,Chinese Grand Prix,ant,mercedes,0,8,4.0,12.0,0.0,7.8,12.0
+2025,2,2025-03-23,Chinese Grand Prix,bea,haas_f1_team,0,17,16.5,0.25,0.25,0.4,12.0
+2025,2,2025-03-23,Chinese Grand Prix,bor,kick_sauber,0,19,16.0,0.0,0.0,2.0,12.0
+2025,2,2025-03-23,Chinese Grand Prix,doo,alpine,0,18,24.5,0.0,0.5,0.0,12.0
+2025,2,2025-03-23,Chinese Grand Prix,gas,alpine,0,16,15.8,5.0,0.4,0.0,13.0
+2025,2,2025-03-23,Chinese Grand Prix,had,racing_bulls,0,7,20.0,0.0,0.0,0.0,12.0
+2025,2,2025-03-23,Chinese Grand Prix,ham,ferrari,0,5,18.4,0.4,0.4,2.6,9.0
+2025,2,2025-03-23,Chinese Grand Prix,hul,kick_sauber,0,12,20.6,1.2,0.4,1.2,10.0
+2025,2,2025-03-23,Chinese Grand Prix,law,red_bull_racing,0,20,19.6,0.4,0.4,8.6,12.0
+2025,2,2025-03-23,Chinese Grand Prix,lec,ferrari,0,6,15.0,6.4,0.4,1.0,4.0
+2025,2,2025-03-23,Chinese Grand Prix,nor,mclaren,1,3,15.4,7.0,0.4,8.4,2.0
+2025,2,2025-03-23,Chinese Grand Prix,oco,haas_f1_team,0,11,19.0,3.6,0.4,0.8,11.0
+2025,2,2025-03-23,Chinese Grand Prix,pia,mclaren,1,1,16.0,4.2,0.4,9.0,8.0
+2025,2,2025-03-23,Chinese Grand Prix,rus,mercedes,1,2,14.2,7.8,0.4,7.0,6.0
+2025,2,2025-03-23,Chinese Grand Prix,sai,williams,0,15,20.0,1.6,0.4,3.2,5.0
+2025,2,2025-03-23,Chinese Grand Prix,str,aston_martin,0,14,20.6,1.6,0.4,1.6,15.0
+2025,2,2025-03-23,Chinese Grand Prix,tsu,racing_bulls,0,9,18.4,1.2,0.4,0.0,19.0
+2025,2,2025-03-23,Chinese Grand Prix,ver,red_bull_racing,0,4,12.8,13.8,0.4,3.6,1.0
+2025,3,2025-04-06,Japanese Grand Prix,alb,williams,0,0,17.4,3.2,0.4,3.4,26.666666666666668
+2025,3,2025-04-06,Japanese Grand Prix,alo,aston_martin,0,0,20.2,1.2,0.4,2.0,22.333333333333332
+2025,3,2025-04-06,Japanese Grand Prix,ant,mercedes,0,0,5.0,10.0,0.0,10.0,12.0
+2025,3,2025-04-06,Japanese Grand Prix,bea,haas_f1_team,0,0,14.8,1.0,0.2,2.8,12.0
+2025,3,2025-04-06,Japanese Grand Prix,bor,kick_sauber,0,0,15.0,0.0,0.0,1.2,12.0
+2025,3,2025-04-06,Japanese Grand Prix,doo,alpine,0,0,20.666666666666668,0.0,0.3333333333333333,0.0,12.0
+2025,3,2025-04-06,Japanese Grand Prix,gas,alpine,0,0,19.2,2.0,0.4,0.0,26.0
+2025,3,2025-04-06,Japanese Grand Prix,had,racing_bulls,0,0,15.5,0.0,0.0,0.0,12.0
+2025,3,2025-04-06,Japanese Grand Prix,ham,ferrari,0,0,20.2,0.2,0.4,1.0,21.666666666666668
+2025,3,2025-04-06,Japanese Grand Prix,hul,kick_sauber,0,0,19.6,1.2,0.4,1.2,30.0
+2025,3,2025-04-06,Japanese Grand Prix,law,racing_bulls,0,0,20.2,0.0,0.4,0.0,30.0
+2025,3,2025-04-06,Japanese Grand Prix,lec,ferrari,0,0,17.6,4.4,0.4,1.0,21.0
+2025,3,2025-04-06,Japanese Grand Prix,nor,mclaren,0,0,14.6,9.0,0.4,14.0,23.333333333333332
+2025,3,2025-04-06,Japanese Grand Prix,oco,haas_f1_team,0,0,14.0,5.6,0.2,2.8,21.333333333333332
+2025,3,2025-04-06,Japanese Grand Prix,pia,mclaren,0,0,14.6,8.4,0.4,14.0,30.0
+2025,3,2025-04-06,Japanese Grand Prix,rus,mercedes,0,0,14.0,8.4,0.4,10.0,22.666666666666668
+2025,3,2025-04-06,Japanese Grand Prix,sai,williams,0,0,18.8,1.8,0.4,3.4,26.333333333333332
+2025,3,2025-04-06,Japanese Grand Prix,str,aston_martin,0,0,18.6,2.0,0.4,2.0,24.0
+2025,3,2025-04-06,Japanese Grand Prix,tsu,red_bull_racing,0,0,20.2,0.0,0.4,6.0,24.333333333333332
+2025,3,2025-04-06,Japanese Grand Prix,ver,red_bull_racing,0,0,13.4,11.0,0.4,6.0,20.333333333333332
+2025,4,2025-04-13,Bahrain Grand Prix,alb,williams,0,15,17.4,3.2,0.4,1.4,17.666666666666668
+2025,4,2025-04-13,Bahrain Grand Prix,alo,aston_martin,0,13,20.2,1.2,0.4,2.0,15.25
+2025,4,2025-04-13,Bahrain Grand Prix,ant,mercedes,0,5,13.333333333333334,6.666666666666667,0.3333333333333333,7.6,12.0
+2025,4,2025-04-13,Bahrain Grand Prix,bea,haas_f1_team,0,20,14.8,1.0,0.2,2.8,12.0
+2025,4,2025-04-13,Bahrain Grand Prix,bor,kick_sauber,0,18,20.0,0.0,0.3333333333333333,1.2,12.0
+2025,4,2025-04-13,Bahrain Grand Prix,doo,alpine,0,11,23.0,0.0,0.5,0.0,12.0
+2025,4,2025-04-13,Bahrain Grand Prix,gas,alpine,0,4,19.2,2.0,0.4,0.0,19.0
+2025,4,2025-04-13,Bahrain Grand Prix,had,racing_bulls,0,12,20.333333333333332,0.0,0.3333333333333333,0.0,12.0
+2025,4,2025-04-13,Bahrain Grand Prix,ham,ferrari,0,9,20.2,0.2,0.4,0.8,9.75
+2025,4,2025-04-13,Bahrain Grand Prix,hul,kick_sauber,0,16,19.6,1.2,0.4,0.0,20.666666666666668
+2025,4,2025-04-13,Bahrain Grand Prix,law,racing_bulls,0,17,20.2,0.0,0.4,0.0,12.0
+2025,4,2025-04-13,Bahrain Grand Prix,lec,ferrari,0,2,17.6,4.4,0.4,2.0,14.0
+2025,4,2025-04-13,Bahrain Grand Prix,nor,mclaren,1,6,14.6,9.0,0.4,9.0,16.5
+2025,4,2025-04-13,Bahrain Grand Prix,oco,haas_f1_team,0,14,19.6,2.0,0.4,3.0,17.0
+2025,4,2025-04-13,Bahrain Grand Prix,pia,mclaren,1,1,14.6,8.4,0.4,11.6,25.0
+2025,4,2025-04-13,Bahrain Grand Prix,rus,mercedes,1,3,14.0,8.4,0.4,4.6,13.75
+2025,4,2025-04-13,Bahrain Grand Prix,sai,williams,0,8,18.8,1.8,0.4,1.4,11.0
+2025,4,2025-04-13,Bahrain Grand Prix,str,aston_martin,0,19,18.6,2.0,0.4,0.4,14.5
+2025,4,2025-04-13,Bahrain Grand Prix,tsu,red_bull_racing,0,10,20.2,0.0,0.4,6.0,14.5
+2025,4,2025-04-13,Bahrain Grand Prix,ver,red_bull_racing,0,7,13.4,11.0,0.4,2.8,13.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,alb,williams,0,0,16.8,3.2,0.4,0.2,21.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,alo,aston_martin,0,0,21.8,0.0,0.4,0.4,15.5
+2025,5,2025-04-20,Saudi Arabian Grand Prix,ant,mercedes,0,0,12.75,5.0,0.25,6.6,12.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,bea,haas_f1_team,0,0,14.8,1.0,0.2,3.0,30.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,bor,kick_sauber,0,0,19.5,0.0,0.25,0.0,12.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,doo,alpine,0,0,21.2,0.0,0.4,1.2,12.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,gas,alpine,0,0,19.6,1.2,0.4,1.2,13.25
+2025,5,2025-04-20,Saudi Arabian Grand Prix,had,racing_bulls,0,0,18.5,0.0,0.25,0.0,12.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,ham,ferrari,0,0,18.8,2.2,0.4,4.4,11.5
+2025,5,2025-04-20,Saudi Arabian Grand Prix,hul,kick_sauber,0,0,20.4,1.2,0.4,0.0,18.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,law,racing_bulls,0,0,20.6,0.0,0.4,0.0,12.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,lec,ferrari,0,0,18.0,3.2,0.4,4.4,11.5
+2025,5,2025-04-20,Saudi Arabian Grand Prix,nor,mclaren,0,0,13.2,11.6,0.4,13.0,16.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,oco,haas_f1_team,0,0,15.2,2.8,0.2,1.0,12.0
+2025,5,2025-04-20,Saudi Arabian Grand Prix,pia,mclaren,0,0,14.2,10.4,0.4,8.0,22.5
+2025,5,2025-04-20,Saudi Arabian Grand Prix,rus,mercedes,0,0,13.6,9.6,0.4,3.6,14.5
+2025,5,2025-04-20,Saudi Arabian Grand Prix,sai,williams,0,0,21.4,0.2,0.4,0.0,5.666666666666667
+2025,5,2025-04-20,Saudi Arabian Grand Prix,str,aston_martin,0,0,18.4,2.0,0.4,0.0,18.5
+2025,5,2025-04-20,Saudi Arabian Grand Prix,tsu,red_bull_racing,0,0,19.4,0.4,0.4,4.4,18.5
+2025,5,2025-04-20,Saudi Arabian Grand Prix,ver,red_bull_racing,0,0,14.4,7.6,0.4,2.0,8.75
+2025,6,2025-05-04,Miami Grand Prix,alb,williams,0,7,16.8,3.2,0.4,0.0,17.666666666666668
+2025,6,2025-05-04,Miami Grand Prix,alo,aston_martin,0,17,21.8,0.0,0.4,0.0,14.666666666666666
+2025,6,2025-05-04,Miami Grand Prix,ant,mercedes,0,3,16.2,4.0,0.4,3.6,12.0
+2025,6,2025-05-04,Miami Grand Prix,bea,haas_f1_team,0,19,18.4,1.0,0.4,1.0,12.0
+2025,6,2025-05-04,Miami Grand Prix,bor,kick_sauber,0,13,21.6,0.0,0.4,0.0,12.0
+2025,6,2025-05-04,Miami Grand Prix,doo,alpine,0,14,21.2,0.0,0.4,1.2,12.0
+2025,6,2025-05-04,Miami Grand Prix,gas,alpine,0,20,19.6,1.2,0.4,1.2,18.666666666666668
+2025,6,2025-05-04,Miami Grand Prix,had,racing_bulls,0,11,20.8,0.0,0.4,0.0,12.0
+2025,6,2025-05-04,Miami Grand Prix,ham,ferrari,0,12,18.8,2.2,0.4,4.4,14.0
+2025,6,2025-05-04,Miami Grand Prix,hul,kick_sauber,0,16,20.4,1.2,0.4,0.0,22.5
+2025,6,2025-05-04,Miami Grand Prix,law,racing_bulls,0,15,20.6,0.0,0.4,0.0,12.0
+2025,6,2025-05-04,Miami Grand Prix,lec,ferrari,0,8,18.0,3.2,0.4,5.2,13.0
+2025,6,2025-05-04,Miami Grand Prix,nor,mclaren,1,2,13.2,11.6,0.4,8.0,22.0
+2025,6,2025-05-04,Miami Grand Prix,oco,haas_f1_team,0,9,17.2,2.8,0.4,1.0,15.666666666666666
+2025,6,2025-05-04,Miami Grand Prix,pia,mclaren,1,4,14.2,10.4,0.4,11.6,24.5
+2025,6,2025-05-04,Miami Grand Prix,rus,mercedes,1,5,13.6,9.6,0.4,5.2,13.0
+2025,6,2025-05-04,Miami Grand Prix,sai,williams,0,6,21.4,0.2,0.4,2.0,12.666666666666666
+2025,6,2025-05-04,Miami Grand Prix,str,aston_martin,0,18,18.4,2.0,0.4,0.0,17.333333333333332
+2025,6,2025-05-04,Miami Grand Prix,tsu,red_bull_racing,0,10,19.4,0.4,0.4,2.0,17.666666666666668
+2025,6,2025-05-04,Miami Grand Prix,ver,red_bull_racing,0,1,14.4,7.6,0.4,2.2,10.666666666666666
+2025,7,2025-05-18,Emilia Romagna Grand Prix,alb,williams,0,0,16.8,3.2,0.4,2.4,15.5
+2025,7,2025-05-18,Emilia Romagna Grand Prix,alo,aston_martin,0,0,21.4,0.0,0.4,0.0,16.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,ant,mercedes,0,0,16.6,3.2,0.4,8.2,12.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,bea,haas_f1_team,0,0,19.4,1.0,0.4,0.8,12.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,bor,kick_sauber,0,0,22.0,0.0,0.4,0.0,12.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,col,alpine,0,0,25.2,0.0,0.6,1.2,12.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,gas,alpine,0,0,20.0,1.2,0.4,0.0,11.666666666666666
+2025,7,2025-05-18,Emilia Romagna Grand Prix,had,racing_bulls,0,0,19.0,0.0,0.4,0.0,12.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,ham,ferrari,0,0,18.4,2.8,0.4,4.4,7.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,hul,kick_sauber,0,0,21.8,0.0,0.4,0.0,11.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,law,racing_bulls,0,0,21.0,0.0,0.4,0.0,12.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,lec,ferrari,0,0,17.8,3.6,0.4,2.0,4.333333333333333
+2025,7,2025-05-18,Emilia Romagna Grand Prix,nor,mclaren,0,0,13.4,10.2,0.4,13.6,2.6666666666666665
+2025,7,2025-05-18,Emilia Romagna Grand Prix,oco,haas_f1_team,0,0,17.0,2.8,0.4,0.0,12.333333333333334
+2025,7,2025-05-18,Emilia Romagna Grand Prix,pia,mclaren,0,0,12.6,15.0,0.4,8.6,4.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,rus,mercedes,0,0,13.6,9.6,0.4,4.6,10.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,sai,williams,0,0,19.6,0.6,0.4,2.4,10.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,str,aston_martin,0,0,20.4,0.4,0.4,0.0,9.0
+2025,7,2025-05-18,Emilia Romagna Grand Prix,tsu,red_bull_racing,0,0,19.0,0.6,0.4,4.2,9.666666666666666
+2025,7,2025-05-18,Emilia Romagna Grand Prix,ver,red_bull_racing,0,0,14.8,6.4,0.4,2.6,1.0
+2025,8,2025-05-25,Monaco Grand Prix,alb,williams,0,10,21.4,2.0,0.6,2.4,20.666666666666668
+2025,8,2025-05-25,Monaco Grand Prix,alo,aston_martin,0,6,24.0,0.0,0.6,0.0,13.0
+2025,8,2025-05-25,Monaco Grand Prix,ant,mercedes,0,15,21.4,1.6,0.6,4.6,12.0
+2025,8,2025-05-25,Monaco Grand Prix,bea,haas_f1_team,0,20,23.8,0.2,0.6,0.0,12.0
+2025,8,2025-05-25,Monaco Grand Prix,bor,kick_sauber,0,16,25.2,0.0,0.6,0.0,12.0
+2025,8,2025-05-25,Monaco Grand Prix,col,alpine,0,18,25.2,0.0,0.6,0.0,12.0
+2025,8,2025-05-25,Monaco Grand Prix,gas,alpine,0,17,22.0,1.2,0.6,0.0,13.5
+2025,8,2025-05-25,Monaco Grand Prix,had,racing_bulls,0,5,22.8,0.0,0.6,0.0,12.0
+2025,8,2025-05-25,Monaco Grand Prix,ham,ferrari,0,7,20.6,2.8,0.6,2.0,12.25
+2025,8,2025-05-25,Monaco Grand Prix,hul,kick_sauber,0,13,24.8,0.0,0.6,0.0,23.5
+2025,8,2025-05-25,Monaco Grand Prix,law,racing_bulls,0,9,24.6,0.0,0.6,1.6,12.0
+2025,8,2025-05-25,Monaco Grand Prix,lec,ferrari,1,2,20.2,3.6,0.6,4.0,15.0
+2025,8,2025-05-25,Monaco Grand Prix,nor,mclaren,1,1,19.0,6.6,0.6,8.6,12.0
+2025,8,2025-05-25,Monaco Grand Prix,oco,haas_f1_team,0,8,22.0,0.8,0.6,0.0,13.5
+2025,8,2025-05-25,Monaco Grand Prix,pia,mclaren,1,3,18.4,10.0,0.6,13.6,20.0
+2025,8,2025-05-25,Monaco Grand Prix,rus,mercedes,0,14,19.0,6.6,0.6,4.6,13.5
+2025,8,2025-05-25,Monaco Grand Prix,sai,williams,0,11,23.6,0.4,0.6,2.8,10.5
+2025,8,2025-05-25,Monaco Grand Prix,str,aston_martin,0,19,24.6,0.0,0.6,0.0,18.0
+2025,8,2025-05-25,Monaco Grand Prix,tsu,red_bull_racing,0,12,21.8,0.6,0.6,2.6,19.5
+2025,8,2025-05-25,Monaco Grand Prix,ver,red_bull_racing,0,4,20.0,4.0,0.6,2.6,8.75
+2025,9,2025-06-01,Spanish Grand Prix,alb,williams,0,0,17.2,2.4,0.4,1.0,21.333333333333332
+2025,9,2025-06-01,Spanish Grand Prix,alo,aston_martin,0,0,21.8,0.0,0.4,0.0,15.75
+2025,9,2025-06-01,Spanish Grand Prix,ant,mercedes,0,0,19.0,1.6,0.4,3.0,12.0
+2025,9,2025-06-01,Spanish Grand Prix,bea,haas_f1_team,0,0,20.2,0.2,0.4,1.2,12.0
+2025,9,2025-06-01,Spanish Grand Prix,bor,kick_sauber,0,0,22.0,0.0,0.4,0.0,12.0
+2025,9,2025-06-01,Spanish Grand Prix,col,alpine,0,0,24.4,0.0,0.6,0.0,12.0
+2025,9,2025-06-01,Spanish Grand Prix,gas,alpine,0,0,20.0,1.2,0.4,0.0,15.75
+2025,9,2025-06-01,Spanish Grand Prix,had,racing_bulls,0,0,18.0,1.6,0.4,2.4,12.0
+2025,9,2025-06-01,Spanish Grand Prix,ham,ferrari,0,0,15.6,4.8,0.4,6.8,9.5
+2025,9,2025-06-01,Spanish Grand Prix,hul,kick_sauber,0,0,22.0,0.0,0.4,0.0,22.5
+2025,9,2025-06-01,Spanish Grand Prix,law,racing_bulls,0,0,20.2,0.8,0.4,2.4,12.0
+2025,9,2025-06-01,Spanish Grand Prix,lec,ferrari,0,0,14.6,7.2,0.4,5.6,16.25
+2025,9,2025-06-01,Spanish Grand Prix,nor,mclaren,0,0,13.2,11.6,0.4,13.0,15.75
+2025,9,2025-06-01,Spanish Grand Prix,oco,haas_f1_team,0,0,17.4,2.0,0.4,1.2,13.5
+2025,9,2025-06-01,Spanish Grand Prix,pia,mclaren,0,0,13.0,13.0,0.4,8.0,21.5
+2025,9,2025-06-01,Spanish Grand Prix,rus,mercedes,0,0,15.2,6.6,0.4,0.0,12.5
+2025,9,2025-06-01,Spanish Grand Prix,sai,williams,0,0,19.6,0.6,0.4,0.6,11.5
+2025,9,2025-06-01,Spanish Grand Prix,tsu,red_bull_racing,0,0,19.2,0.6,0.4,4.8,18.0
+2025,9,2025-06-01,Spanish Grand Prix,ver,red_bull_racing,0,0,14.8,6.4,0.4,2.4,8.5
+2025,10,2025-06-15,Canadian Grand Prix,alb,williams,0,9,20.8,2.4,0.6,0.6,12.333333333333334
+2025,10,2025-06-15,Canadian Grand Prix,alo,aston_martin,0,6,24.8,0.0,0.6,0.0,5.666666666666667
+2025,10,2025-06-15,Canadian Grand Prix,ant,mercedes,1,4,22.8,1.6,0.6,0.0,12.0
+2025,10,2025-06-15,Canadian Grand Prix,bea,haas_f1_team,0,13,24.2,0.0,0.6,1.2,12.0
+2025,10,2025-06-15,Canadian Grand Prix,bor,kick_sauber,0,15,24.4,0.0,0.6,0.0,12.0
+2025,10,2025-06-15,Canadian Grand Prix,col,alpine,0,10,24.4,0.0,0.6,0.0,12.0
+2025,10,2025-06-15,Canadian Grand Prix,gas,alpine,0,20,24.6,0.0,0.6,0.0,11.666666666666666
+2025,10,2025-06-15,Canadian Grand Prix,had,racing_bulls,0,12,21.4,1.6,0.6,2.4,12.0
+2025,10,2025-06-15,Canadian Grand Prix,ham,ferrari,0,5,20.6,2.8,0.6,5.6,3.3333333333333335
+2025,10,2025-06-15,Canadian Grand Prix,hul,kick_sauber,0,11,24.0,0.0,0.6,0.0,13.0
+2025,10,2025-06-15,Canadian Grand Prix,law,racing_bulls,0,19,23.0,0.8,0.6,2.4,12.0
+2025,10,2025-06-15,Canadian Grand Prix,lec,ferrari,0,8,19.8,4.8,0.6,7.2,9.333333333333334
+2025,10,2025-06-15,Canadian Grand Prix,nor,mclaren,0,7,18.6,8.6,0.6,8.0,10.0
+2025,10,2025-06-15,Canadian Grand Prix,oco,haas_f1_team,0,14,21.8,1.2,0.6,1.2,8.0
+2025,10,2025-06-15,Canadian Grand Prix,pia,mclaren,0,3,18.8,8.0,0.6,8.0,8.0
+2025,10,2025-06-15,Canadian Grand Prix,rus,mercedes,1,1,20.8,3.0,0.6,3.0,8.666666666666666
+2025,10,2025-06-15,Canadian Grand Prix,sai,williams,0,16,21.8,0.6,0.6,0.6,7.666666666666667
+2025,10,2025-06-15,Canadian Grand Prix,str,aston_martin,0,17,21.6,0.0,0.4,1.2,8.666666666666666
+2025,10,2025-06-15,Canadian Grand Prix,tsu,red_bull_racing,0,18,23.4,0.2,0.6,2.4,15.333333333333334
+2025,10,2025-06-15,Canadian Grand Prix,ver,red_bull_racing,1,2,19.6,4.8,0.6,2.4,1.0
+2025,11,2025-06-29,Austrian Grand Prix,alb,williams,0,0,18.8,2.4,0.4,0.4,12.666666666666666
+2025,11,2025-06-29,Austrian Grand Prix,alo,aston_martin,0,0,20.2,1.2,0.4,1.2,10.75
+2025,11,2025-06-29,Austrian Grand Prix,ant,mercedes,0,0,17.4,4.6,0.4,8.0,12.0
+2025,11,2025-06-29,Austrian Grand Prix,bea,haas_f1_team,0,0,20.4,0.0,0.4,1.6,12.0
+2025,11,2025-06-29,Austrian Grand Prix,bor,kick_sauber,0,0,21.2,0.0,0.4,0.8,12.0
+2025,11,2025-06-29,Austrian Grand Prix,col,alpine,0,0,23.2,0.0,0.6,0.0,12.0
+2025,11,2025-06-29,Austrian Grand Prix,gas,alpine,0,0,21.6,0.0,0.4,0.0,11.0
+2025,11,2025-06-29,Austrian Grand Prix,had,racing_bulls,0,0,18.6,1.6,0.4,0.8,12.0
+2025,11,2025-06-29,Austrian Grand Prix,ham,ferrari,0,0,15.8,4.4,0.4,7.2,4.75
+2025,11,2025-06-29,Austrian Grand Prix,hul,kick_sauber,0,0,19.6,0.8,0.4,0.8,13.0
+2025,11,2025-06-29,Austrian Grand Prix,law,racing_bulls,0,0,20.8,0.8,0.4,0.0,12.0
+2025,11,2025-06-29,Austrian Grand Prix,lec,ferrari,0,0,14.8,6.8,0.4,3.6,5.5
+2025,11,2025-06-29,Austrian Grand Prix,nor,mclaren,0,0,16.2,8.6,0.4,5.4,8.5
+2025,11,2025-06-29,Austrian Grand Prix,oco,haas_f1_team,0,0,17.6,1.6,0.4,0.4,12.75
+2025,11,2025-06-29,Austrian Grand Prix,pia,mclaren,0,0,13.6,10.4,0.4,2.4,9.0
+2025,11,2025-06-29,Austrian Grand Prix,rus,mercedes,0,0,15.0,8.0,0.4,8.0,5.75
+2025,11,2025-06-29,Austrian Grand Prix,sai,williams,0,0,17.8,0.8,0.4,0.2,8.0
+2025,11,2025-06-29,Austrian Grand Prix,str,aston_martin,0,0,21.6,0.0,0.4,1.2,12.0
+2025,11,2025-06-29,Austrian Grand Prix,tsu,red_bull_racing,0,0,19.8,0.2,0.4,6.0,15.25
+2025,11,2025-06-29,Austrian Grand Prix,ver,red_bull_racing,0,0,14.0,8.4,0.4,3.6,2.25
+2025,12,2025-07-06,British Grand Prix,alb,williams,0,13,23.8,0.4,0.6,0.2,19.333333333333332
+2025,12,2025-07-06,British Grand Prix,alo,aston_martin,0,7,23.2,1.2,0.6,1.2,12.25
+2025,12,2025-07-06,British Grand Prix,ant,mercedes,0,10,22.2,3.0,0.6,8.0,12.0
+2025,12,2025-07-06,British Grand Prix,bea,haas_f1_team,0,18,22.6,0.0,0.6,0.4,12.0
+2025,12,2025-07-06,British Grand Prix,bor,kick_sauber,0,16,23.6,0.0,0.6,0.8,12.0
+2025,12,2025-07-06,British Grand Prix,col,alpine,0,20,23.2,0.0,0.6,0.0,12.0
+2025,12,2025-07-06,British Grand Prix,gas,alpine,0,8,25.0,0.0,0.6,0.0,18.75
+2025,12,2025-07-06,British Grand Prix,had,racing_bulls,0,12,22.4,1.6,0.6,0.0,12.0
+2025,12,2025-07-06,British Grand Prix,ham,ferrari,0,5,20.2,3.6,0.6,3.6,9.25
+2025,12,2025-07-06,British Grand Prix,hul,kick_sauber,1,19,22.8,0.8,0.6,0.8,21.5
+2025,12,2025-07-06,British Grand Prix,law,racing_bulls,0,15,23.4,0.8,0.6,0.0,12.0
+2025,12,2025-07-06,British Grand Prix,lec,ferrari,0,6,19.4,5.6,0.6,6.0,11.25
+2025,12,2025-07-06,British Grand Prix,nor,mclaren,1,3,21.8,5.0,0.6,2.4,10.5
+2025,12,2025-07-06,British Grand Prix,oco,haas_f1_team,0,14,21.2,1.6,0.6,0.4,18.5
+2025,12,2025-07-06,British Grand Prix,pia,mclaren,1,2,19.4,5.4,0.6,7.4,17.0
+2025,12,2025-07-06,British Grand Prix,rus,mercedes,0,4,20.4,5.0,0.6,8.0,16.25
+2025,12,2025-07-06,British Grand Prix,sai,williams,0,9,22.0,0.4,0.6,1.0,11.75
+2025,12,2025-07-06,British Grand Prix,str,aston_martin,0,17,21.6,0.0,0.4,1.6,15.75
+2025,12,2025-07-06,British Grand Prix,tsu,red_bull_racing,0,11,23.8,0.0,0.6,3.6,17.5
+2025,12,2025-07-06,British Grand Prix,ver,red_bull_racing,0,1,19.2,6.0,0.6,3.6,14.5
+2025,13,2025-07-27,Belgian Grand Prix,alb,williams,0,0,19.4,1.2,0.4,1.0,23.333333333333332
+2025,13,2025-07-27,Belgian Grand Prix,alo,aston_martin,0,0,19.0,1.6,0.4,1.6,19.0
+2025,13,2025-07-27,Belgian Grand Prix,ant,mercedes,0,0,19.4,3.0,0.4,5.2,12.0
+2025,13,2025-07-27,Belgian Grand Prix,bea,haas_f1_team,0,0,18.8,0.0,0.4,0.4,12.0
+2025,13,2025-07-27,Belgian Grand Prix,bor,kick_sauber,0,0,21.2,0.0,0.4,3.8,12.0
+2025,13,2025-07-27,Belgian Grand Prix,col,alpine,0,0,21.2,0.0,0.4,1.6,12.0
+2025,13,2025-07-27,Belgian Grand Prix,gas,alpine,0,0,20.2,1.6,0.4,1.6,18.75
+2025,13,2025-07-27,Belgian Grand Prix,had,racing_bulls,0,0,19.8,1.6,0.4,0.0,12.0
+2025,13,2025-07-27,Belgian Grand Prix,ham,ferrari,0,0,15.0,6.0,0.4,4.4,20.75
+2025,13,2025-07-27,Belgian Grand Prix,hul,kick_sauber,0,0,17.4,3.8,0.4,3.0,30.0
+2025,13,2025-07-27,Belgian Grand Prix,law,racing_bulls,0,0,21.2,0.8,0.4,0.0,12.0
+2025,13,2025-07-27,Belgian Grand Prix,lec,ferrari,0,0,16.2,5.6,0.4,2.4,18.5
+2025,13,2025-07-27,Belgian Grand Prix,nor,mclaren,0,0,16.0,10.0,0.4,11.0,21.5
+2025,13,2025-07-27,Belgian Grand Prix,oco,haas_f1_team,0,0,17.8,1.6,0.4,0.0,18.5
+2025,13,2025-07-27,Belgian Grand Prix,pia,mclaren,0,0,13.8,9.0,0.4,8.6,30.0
+2025,13,2025-07-27,Belgian Grand Prix,rus,mercedes,0,0,16.4,5.2,0.4,0.2,16.5
+2025,13,2025-07-27,Belgian Grand Prix,sai,williams,0,0,18.4,0.4,0.4,0.8,18.25
+2025,13,2025-07-27,Belgian Grand Prix,str,aston_martin,0,0,19.8,1.2,0.4,1.6,22.75
+2025,13,2025-07-27,Belgian Grand Prix,tsu,red_bull_racing,0,0,20.8,0.0,0.4,5.6,22.0
+2025,13,2025-07-27,Belgian Grand Prix,ver,red_bull_racing,0,0,14.2,8.0,0.4,2.0,15.5
+2025,14,2025-08-03,Hungarian Grand Prix,alb,williams,0,19,23.6,0.8,0.6,0.8,20.333333333333332
+2025,14,2025-08-03,Hungarian Grand Prix,alo,aston_martin,0,5,21.2,1.6,0.6,1.6,13.25
+2025,14,2025-08-03,Hungarian Grand Prix,ant,mercedes,0,15,21.8,3.0,0.6,0.2,12.0
+2025,14,2025-08-03,Hungarian Grand Prix,bea,haas_f1_team,0,11,22.4,0.0,0.6,0.0,12.0
+2025,14,2025-08-03,Hungarian Grand Prix,bor,kick_sauber,0,7,24.4,0.0,0.6,3.0,12.0
+2025,14,2025-08-03,Hungarian Grand Prix,col,alpine,0,14,24.6,0.0,0.6,1.6,12.0
+2025,14,2025-08-03,Hungarian Grand Prix,gas,alpine,0,16,22.2,1.6,0.6,1.6,16.75
+2025,14,2025-08-03,Hungarian Grand Prix,had,racing_bulls,0,10,24.6,0.0,0.6,0.0,12.0
+2025,14,2025-08-03,Hungarian Grand Prix,ham,ferrari,0,12,20.0,4.0,0.6,2.4,9.25
+2025,14,2025-08-03,Hungarian Grand Prix,hul,kick_sauber,0,18,20.2,3.8,0.6,4.6,21.5
+2025,14,2025-08-03,Hungarian Grand Prix,law,racing_bulls,0,9,25.6,0.0,0.6,0.0,12.0
+2025,14,2025-08-03,Hungarian Grand Prix,lec,ferrari,0,1,21.8,2.0,0.6,2.4,14.5
+2025,14,2025-08-03,Hungarian Grand Prix,nor,mclaren,1,3,21.8,5.0,0.6,8.6,13.5
+2025,14,2025-08-03,Hungarian Grand Prix,oco,haas_f1_team,0,17,22.4,0.4,0.6,0.0,14.5
+2025,14,2025-08-03,Hungarian Grand Prix,pia,mclaren,1,2,19.2,6.0,0.6,13.6,15.5
+2025,14,2025-08-03,Hungarian Grand Prix,rus,mercedes,1,4,20.2,5.2,0.6,0.4,12.25
+2025,14,2025-08-03,Hungarian Grand Prix,sai,williams,0,13,22.4,0.2,0.6,0.8,10.75
+2025,14,2025-08-03,Hungarian Grand Prix,str,aston_martin,0,6,19.8,1.2,0.4,3.6,17.5
+2025,14,2025-08-03,Hungarian Grand Prix,tsu,red_bull_racing,0,20,23.4,0.0,0.6,2.0,16.0
+2025,14,2025-08-03,Hungarian Grand Prix,ver,red_bull_racing,0,8,19.4,5.6,0.6,2.0,11.25

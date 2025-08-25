@@ -1,0 +1,14 @@
+pandas
+numpy
+requests
+requests-cache
+tqdm
+fastf1
+
+scikit-learn
+xgboost
+joblib
+
+fastapi
+uvicorn
+pydantic

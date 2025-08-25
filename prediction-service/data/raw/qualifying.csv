@@ -1,0 +1,2080 @@
+season,round,raceName,date,driverId,constructorId,q_position,Q1,Q2,Q3
+2021,1,Bahrain Grand Prix,2021-03-28,ver,red_bull_racing,1.0,0 days 00:01:30.499000,0 days 00:01:30.318000,0 days 00:01:28.997000
+2021,1,Bahrain Grand Prix,2021-03-28,ham,mercedes,2.0,0 days 00:01:30.617000,0 days 00:01:30.085000,0 days 00:01:29.385000
+2021,1,Bahrain Grand Prix,2021-03-28,bot,mercedes,3.0,0 days 00:01:31.200000,0 days 00:01:30.186000,0 days 00:01:29.586000
+2021,1,Bahrain Grand Prix,2021-03-28,lec,ferrari,4.0,0 days 00:01:30.691000,0 days 00:01:30.010000,0 days 00:01:29.678000
+2021,1,Bahrain Grand Prix,2021-03-28,gas,alphatauri,5.0,0 days 00:01:30.848000,0 days 00:01:30.513000,0 days 00:01:29.809000
+2021,1,Bahrain Grand Prix,2021-03-28,ric,mclaren,6.0,0 days 00:01:30.795000,0 days 00:01:30.222000,0 days 00:01:29.927000
+2021,1,Bahrain Grand Prix,2021-03-28,nor,mclaren,7.0,0 days 00:01:30.902000,0 days 00:01:30.099000,0 days 00:01:29.974000
+2021,1,Bahrain Grand Prix,2021-03-28,sai,ferrari,8.0,0 days 00:01:31.653000,0 days 00:01:30.009000,0 days 00:01:30.215000
+2021,1,Bahrain Grand Prix,2021-03-28,alo,alpine,9.0,0 days 00:01:30.863000,0 days 00:01:30.595000,0 days 00:01:30.249000
+2021,1,Bahrain Grand Prix,2021-03-28,str,aston_martin,10.0,0 days 00:01:31.261000,0 days 00:01:30.624000,0 days 00:01:30.601000
+2021,1,Bahrain Grand Prix,2021-03-28,per,red_bull_racing,11.0,0 days 00:01:31.165000,0 days 00:01:30.659000,
+2021,1,Bahrain Grand Prix,2021-03-28,gio,alfa_romeo_racing,12.0,0 days 00:01:30.998000,0 days 00:01:30.708000,
+2021,1,Bahrain Grand Prix,2021-03-28,tsu,alphatauri,13.0,0 days 00:01:30.607000,0 days 00:01:31.203000,
+2021,1,Bahrain Grand Prix,2021-03-28,rai,alfa_romeo_racing,14.0,0 days 00:01:31.547000,0 days 00:01:31.238000,
+2021,1,Bahrain Grand Prix,2021-03-28,rus,williams,15.0,0 days 00:01:31.316000,0 days 00:01:33.430000,
+2021,1,Bahrain Grand Prix,2021-03-28,oco,alpine,16.0,0 days 00:01:31.724000,,
+2021,1,Bahrain Grand Prix,2021-03-28,lat,williams,17.0,0 days 00:01:31.936000,,
+2021,1,Bahrain Grand Prix,2021-03-28,vet,aston_martin,18.0,0 days 00:01:32.056000,,
+2021,1,Bahrain Grand Prix,2021-03-28,msc,haas_f1_team,19.0,0 days 00:01:32.449000,,
+2021,1,Bahrain Grand Prix,2021-03-28,maz,haas_f1_team,20.0,0 days 00:01:33.273000,,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,ham,mercedes,1.0,0 days 00:01:14.823000,0 days 00:01:14.817000,0 days 00:01:14.411000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,per,red_bull_racing,2.0,0 days 00:01:15.395000,0 days 00:01:14.716000,0 days 00:01:14.446000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,ver,red_bull_racing,3.0,0 days 00:01:15.109000,0 days 00:01:14.884000,0 days 00:01:14.498000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,lec,ferrari,4.0,0 days 00:01:15.413000,0 days 00:01:14.808000,0 days 00:01:14.740000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,gas,alphatauri,5.0,0 days 00:01:15.548000,0 days 00:01:14.927000,0 days 00:01:14.790000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,ric,mclaren,6.0,0 days 00:01:15.669000,0 days 00:01:15.033000,0 days 00:01:14.826000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,nor,mclaren,7.0,0 days 00:01:15.009000,0 days 00:01:14.718000,0 days 00:01:14.875000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,bot,mercedes,8.0,0 days 00:01:14.672000,0 days 00:01:14.905000,0 days 00:01:14.898000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,oco,alpine,9.0,0 days 00:01:15.385000,0 days 00:01:15.117000,0 days 00:01:15.210000
+2021,2,Emilia Romagna Grand Prix,2021-04-18,str,aston_martin,10.0,0 days 00:01:15.522000,0 days 00:01:15.138000,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,sai,ferrari,11.0,0 days 00:01:15.406000,0 days 00:01:15.199000,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,rus,williams,12.0,0 days 00:01:15.826000,0 days 00:01:15.261000,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,vet,aston_martin,13.0,0 days 00:01:15.459000,0 days 00:01:15.394000,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,lat,williams,14.0,0 days 00:01:15.653000,0 days 00:01:15.593000,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,alo,alpine,15.0,0 days 00:01:15.832000,0 days 00:01:15.593000,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,rai,alfa_romeo_racing,16.0,0 days 00:01:15.974000,,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,gio,alfa_romeo_racing,17.0,0 days 00:01:16.122000,,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,msc,haas_f1_team,18.0,0 days 00:01:16.279000,,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,maz,haas_f1_team,19.0,0 days 00:01:16.797000,,
+2021,2,Emilia Romagna Grand Prix,2021-04-18,tsu,alphatauri,20.0,,,
+2021,3,Portuguese Grand Prix,2021-05-02,bot,mercedes,1.0,0 days 00:01:18.722000,0 days 00:01:18.458000,0 days 00:01:18.348000
+2021,3,Portuguese Grand Prix,2021-05-02,ham,mercedes,2.0,0 days 00:01:18.857000,0 days 00:01:17.968000,0 days 00:01:18.355000
+2021,3,Portuguese Grand Prix,2021-05-02,ver,red_bull_racing,3.0,0 days 00:01:19.485000,0 days 00:01:18.650000,0 days 00:01:18.746000
+2021,3,Portuguese Grand Prix,2021-05-02,per,red_bull_racing,4.0,0 days 00:01:19.337000,0 days 00:01:18.845000,0 days 00:01:18.890000
+2021,3,Portuguese Grand Prix,2021-05-02,sai,ferrari,5.0,0 days 00:01:19.309000,0 days 00:01:18.813000,0 days 00:01:19.039000
+2021,3,Portuguese Grand Prix,2021-05-02,oco,alpine,6.0,0 days 00:01:19.092000,0 days 00:01:18.586000,0 days 00:01:19.042000
+2021,3,Portuguese Grand Prix,2021-05-02,nor,mclaren,7.0,0 days 00:01:18.794000,0 days 00:01:18.481000,0 days 00:01:19.116000
+2021,3,Portuguese Grand Prix,2021-05-02,lec,ferrari,8.0,0 days 00:01:19.373000,0 days 00:01:18.769000,0 days 00:01:19.306000
+2021,3,Portuguese Grand Prix,2021-05-02,gas,alphatauri,9.0,0 days 00:01:19.464000,0 days 00:01:19.052000,0 days 00:01:19.475000
+2021,3,Portuguese Grand Prix,2021-05-02,vet,aston_martin,10.0,0 days 00:01:19.403000,0 days 00:01:18.970000,0 days 00:01:19.659000
+2021,3,Portuguese Grand Prix,2021-05-02,rus,williams,11.0,0 days 00:01:19.797000,0 days 00:01:19.109000,
+2021,3,Portuguese Grand Prix,2021-05-02,gio,alfa_romeo_racing,12.0,0 days 00:01:19.410000,0 days 00:01:19.216000,
+2021,3,Portuguese Grand Prix,2021-05-02,alo,alpine,13.0,0 days 00:01:19.728000,0 days 00:01:19.456000,
+2021,3,Portuguese Grand Prix,2021-05-02,tsu,alphatauri,14.0,0 days 00:01:19.684000,0 days 00:01:19.463000,
+2021,3,Portuguese Grand Prix,2021-05-02,rai,alfa_romeo_racing,15.0,0 days 00:01:19.748000,0 days 00:01:19.812000,
+2021,3,Portuguese Grand Prix,2021-05-02,ric,mclaren,16.0,0 days 00:01:19.839000,,
+2021,3,Portuguese Grand Prix,2021-05-02,str,aston_martin,17.0,0 days 00:01:19.913000,,
+2021,3,Portuguese Grand Prix,2021-05-02,lat,williams,18.0,0 days 00:01:20.285000,,
+2021,3,Portuguese Grand Prix,2021-05-02,msc,haas_f1_team,19.0,0 days 00:01:20.452000,,
+2021,3,Portuguese Grand Prix,2021-05-02,maz,haas_f1_team,20.0,0 days 00:01:20.912000,,
+2021,4,Spanish Grand Prix,2021-05-09,ham,mercedes,1.0,0 days 00:01:18.245000,0 days 00:01:17.166000,0 days 00:01:16.741000
+2021,4,Spanish Grand Prix,2021-05-09,ver,red_bull_racing,2.0,0 days 00:01:18.090000,0 days 00:01:16.922000,0 days 00:01:16.777000
+2021,4,Spanish Grand Prix,2021-05-09,bot,mercedes,3.0,0 days 00:01:18.005000,0 days 00:01:17.142000,0 days 00:01:16.873000
+2021,4,Spanish Grand Prix,2021-05-09,lec,ferrari,4.0,0 days 00:01:18.041000,0 days 00:01:17.717000,0 days 00:01:17.510000
+2021,4,Spanish Grand Prix,2021-05-09,oco,alpine,5.0,0 days 00:01:18.281000,0 days 00:01:17.743000,0 days 00:01:17.580000
+2021,4,Spanish Grand Prix,2021-05-09,sai,ferrari,6.0,0 days 00:01:18.205000,0 days 00:01:17.656000,0 days 00:01:17.620000
+2021,4,Spanish Grand Prix,2021-05-09,ric,mclaren,7.0,0 days 00:01:18.264000,0 days 00:01:17.719000,0 days 00:01:17.622000
+2021,4,Spanish Grand Prix,2021-05-09,per,red_bull_racing,8.0,0 days 00:01:18.203000,0 days 00:01:17.669000,0 days 00:01:17.701000
+2021,4,Spanish Grand Prix,2021-05-09,nor,mclaren,9.0,0 days 00:01:17.821000,0 days 00:01:17.696000,0 days 00:01:18.010000
+2021,4,Spanish Grand Prix,2021-05-09,alo,alpine,10.0,0 days 00:01:18.281000,0 days 00:01:17.966000,0 days 00:01:18.147000
+2021,4,Spanish Grand Prix,2021-05-09,str,aston_martin,11.0,0 days 00:01:18.241000,0 days 00:01:17.974000,
+2021,4,Spanish Grand Prix,2021-05-09,gas,alphatauri,12.0,0 days 00:01:18.190000,0 days 00:01:17.982000,
+2021,4,Spanish Grand Prix,2021-05-09,vet,aston_martin,13.0,0 days 00:01:18.289000,0 days 00:01:18.079000,
+2021,4,Spanish Grand Prix,2021-05-09,gio,alfa_romeo_racing,14.0,0 days 00:01:18.549000,0 days 00:01:18.356000,
+2021,4,Spanish Grand Prix,2021-05-09,rus,williams,15.0,0 days 00:01:18.445000,0 days 00:01:19.154000,
+2021,4,Spanish Grand Prix,2021-05-09,tsu,alphatauri,16.0,0 days 00:01:18.556000,,
+2021,4,Spanish Grand Prix,2021-05-09,rai,alfa_romeo_racing,17.0,0 days 00:01:18.917000,,
+2021,4,Spanish Grand Prix,2021-05-09,msc,haas_f1_team,18.0,0 days 00:01:19.117000,,
+2021,4,Spanish Grand Prix,2021-05-09,lat,williams,19.0,0 days 00:01:19.219000,,
+2021,4,Spanish Grand Prix,2021-05-09,maz,haas_f1_team,20.0,0 days 00:01:19.807000,,
+2021,5,Monaco Grand Prix,2021-05-23,lec,ferrari,1.0,0 days 00:01:11.113000,0 days 00:01:10.597000,0 days 00:01:10.346000
+2021,5,Monaco Grand Prix,2021-05-23,ver,red_bull_racing,2.0,0 days 00:01:11.124000,0 days 00:01:10.650000,0 days 00:01:10.576000
+2021,5,Monaco Grand Prix,2021-05-23,bot,mercedes,3.0,0 days 00:01:10.938000,0 days 00:01:10.695000,0 days 00:01:10.601000
+2021,5,Monaco Grand Prix,2021-05-23,sai,ferrari,4.0,0 days 00:01:11.324000,0 days 00:01:10.806000,0 days 00:01:10.611000
+2021,5,Monaco Grand Prix,2021-05-23,nor,mclaren,5.0,0 days 00:01:11.321000,0 days 00:01:11.031000,0 days 00:01:10.620000
+2021,5,Monaco Grand Prix,2021-05-23,gas,alphatauri,6.0,0 days 00:01:11.560000,0 days 00:01:11.179000,0 days 00:01:10.900000
+2021,5,Monaco Grand Prix,2021-05-23,ham,mercedes,7.0,0 days 00:01:11.622000,0 days 00:01:11.116000,0 days 00:01:11.095000
+2021,5,Monaco Grand Prix,2021-05-23,vet,aston_martin,8.0,0 days 00:01:12.078000,0 days 00:01:11.309000,0 days 00:01:11.419000
+2021,5,Monaco Grand Prix,2021-05-23,per,red_bull_racing,9.0,0 days 00:01:11.644000,0 days 00:01:11.019000,0 days 00:01:11.573000
+2021,5,Monaco Grand Prix,2021-05-23,gio,alfa_romeo_racing,10.0,0 days 00:01:11.658000,0 days 00:01:11.409000,0 days 00:01:11.779000
+2021,5,Monaco Grand Prix,2021-05-23,oco,alpine,11.0,0 days 00:01:11.740000,0 days 00:01:11.486000,
+2021,5,Monaco Grand Prix,2021-05-23,ric,mclaren,12.0,0 days 00:01:11.747000,0 days 00:01:11.598000,
+2021,5,Monaco Grand Prix,2021-05-23,str,aston_martin,13.0,0 days 00:01:11.979000,0 days 00:01:11.600000,
+2021,5,Monaco Grand Prix,2021-05-23,rai,alfa_romeo_racing,14.0,0 days 00:01:11.899000,0 days 00:01:11.642000,
+2021,5,Monaco Grand Prix,2021-05-23,rus,williams,15.0,0 days 00:01:12.016000,0 days 00:01:11.830000,
+2021,5,Monaco Grand Prix,2021-05-23,tsu,alphatauri,16.0,0 days 00:01:12.096000,,
+2021,5,Monaco Grand Prix,2021-05-23,alo,alpine,17.0,0 days 00:01:12.205000,,
+2021,5,Monaco Grand Prix,2021-05-23,lat,williams,18.0,0 days 00:01:12.366000,,
+2021,5,Monaco Grand Prix,2021-05-23,maz,haas_f1_team,19.0,0 days 00:01:12.958000,,
+2021,5,Monaco Grand Prix,2021-05-23,msc,haas_f1_team,,,,
+2021,6,Azerbaijan Grand Prix,2021-06-06,lec,ferrari,1.0,0 days 00:01:42.241000,0 days 00:01:41.659000,0 days 00:01:41.218000
+2021,6,Azerbaijan Grand Prix,2021-06-06,ham,mercedes,2.0,0 days 00:01:41.545000,0 days 00:01:41.634000,0 days 00:01:41.450000
+2021,6,Azerbaijan Grand Prix,2021-06-06,ver,red_bull_racing,3.0,0 days 00:01:41.760000,0 days 00:01:41.625000,0 days 00:01:41.563000
+2021,6,Azerbaijan Grand Prix,2021-06-06,gas,alphatauri,4.0,0 days 00:01:42.288000,0 days 00:01:41.932000,0 days 00:01:41.565000
+2021,6,Azerbaijan Grand Prix,2021-06-06,sai,ferrari,5.0,0 days 00:01:42.121000,0 days 00:01:41.740000,0 days 00:01:41.576000
+2021,6,Azerbaijan Grand Prix,2021-06-06,nor,mclaren,6.0,0 days 00:01:42.167000,0 days 00:01:41.813000,0 days 00:01:41.747000
+2021,6,Azerbaijan Grand Prix,2021-06-06,per,red_bull_racing,7.0,0 days 00:01:41.968000,0 days 00:01:41.630000,0 days 00:01:41.917000
+2021,6,Azerbaijan Grand Prix,2021-06-06,tsu,alphatauri,8.0,0 days 00:01:42.521000,0 days 00:01:41.654000,0 days 00:01:42.211000
+2021,6,Azerbaijan Grand Prix,2021-06-06,alo,alpine,9.0,0 days 00:01:42.934000,0 days 00:01:42.195000,0 days 00:01:42.327000
+2021,6,Azerbaijan Grand Prix,2021-06-06,bot,mercedes,10.0,0 days 00:01:42.701000,0 days 00:01:42.106000,0 days 00:01:42.659000
+2021,6,Azerbaijan Grand Prix,2021-06-06,vet,aston_martin,11.0,0 days 00:01:42.460000,0 days 00:01:42.224000,
+2021,6,Azerbaijan Grand Prix,2021-06-06,oco,alpine,12.0,0 days 00:01:42.426000,0 days 00:01:42.273000,
+2021,6,Azerbaijan Grand Prix,2021-06-06,ric,mclaren,13.0,0 days 00:01:42.304000,0 days 00:01:42.558000,
+2021,6,Azerbaijan Grand Prix,2021-06-06,rai,alfa_romeo_racing,14.0,0 days 00:01:42.923000,0 days 00:01:42.587000,
+2021,6,Azerbaijan Grand Prix,2021-06-06,rus,williams,15.0,0 days 00:01:42.728000,0 days 00:01:42.758000,
+2021,6,Azerbaijan Grand Prix,2021-06-06,lat,williams,16.0,0 days 00:01:43.128000,,
+2021,6,Azerbaijan Grand Prix,2021-06-06,msc,haas_f1_team,17.0,0 days 00:01:44.158000,,
+2021,6,Azerbaijan Grand Prix,2021-06-06,maz,haas_f1_team,18.0,0 days 00:01:44.238000,,
+2021,6,Azerbaijan Grand Prix,2021-06-06,str,aston_martin,19.0,,,
+2021,6,Azerbaijan Grand Prix,2021-06-06,gio,alfa_romeo_racing,20.0,,,
+2021,7,French Grand Prix,2021-06-20,ver,red_bull_racing,1.0,0 days 00:01:31.001000,0 days 00:01:31.080000,0 days 00:01:29.990000
+2021,7,French Grand Prix,2021-06-20,ham,mercedes,2.0,0 days 00:01:31.237000,0 days 00:01:30.788000,0 days 00:01:30.248000
+2021,7,French Grand Prix,2021-06-20,bot,mercedes,3.0,0 days 00:01:31.669000,0 days 00:01:30.735000,0 days 00:01:30.376000
+2021,7,French Grand Prix,2021-06-20,per,red_bull_racing,4.0,0 days 00:01:31.560000,0 days 00:01:30.971000,0 days 00:01:30.445000
+2021,7,French Grand Prix,2021-06-20,sai,ferrari,5.0,0 days 00:01:32.079000,0 days 00:01:31.146000,0 days 00:01:30.840000
+2021,7,French Grand Prix,2021-06-20,gas,alphatauri,6.0,0 days 00:01:31.898000,0 days 00:01:31.353000,0 days 00:01:30.868000
+2021,7,French Grand Prix,2021-06-20,lec,ferrari,7.0,0 days 00:01:32.209000,0 days 00:01:31.567000,0 days 00:01:30.987000
+2021,7,French Grand Prix,2021-06-20,nor,mclaren,8.0,0 days 00:01:31.733000,0 days 00:01:31.542000,0 days 00:01:31.252000
+2021,7,French Grand Prix,2021-06-20,alo,alpine,9.0,0 days 00:01:32.158000,0 days 00:01:31.549000,0 days 00:01:31.340000
+2021,7,French Grand Prix,2021-06-20,ric,mclaren,10.0,0 days 00:01:32.181000,0 days 00:01:31.615000,0 days 00:01:31.382000
+2021,7,French Grand Prix,2021-06-20,oco,alpine,11.0,0 days 00:01:32.139000,0 days 00:01:31.736000,
+2021,7,French Grand Prix,2021-06-20,vet,aston_martin,12.0,0 days 00:01:32.132000,0 days 00:01:31.767000,
+2021,7,French Grand Prix,2021-06-20,gio,alfa_romeo_racing,13.0,0 days 00:01:32.722000,0 days 00:01:31.813000,
+2021,7,French Grand Prix,2021-06-20,rus,williams,14.0,0 days 00:01:33.060000,0 days 00:01:32.065000,
+2021,7,French Grand Prix,2021-06-20,msc,haas_f1_team,15.0,0 days 00:01:32.942000,,
+2021,7,French Grand Prix,2021-06-20,lat,williams,16.0,0 days 00:01:33.062000,,
+2021,7,French Grand Prix,2021-06-20,rai,alfa_romeo_racing,17.0,0 days 00:01:33.354000,,
+2021,7,French Grand Prix,2021-06-20,maz,haas_f1_team,18.0,0 days 00:01:33.554000,,
+2021,7,French Grand Prix,2021-06-20,str,aston_martin,19.0,,,
+2021,7,French Grand Prix,2021-06-20,tsu,alphatauri,20.0,,,
+2021,8,Styrian Grand Prix,2021-06-27,ver,red_bull_racing,1.0,0 days 00:01:04.489000,0 days 00:01:04.433000,0 days 00:01:03.841000
+2021,8,Styrian Grand Prix,2021-06-27,bot,mercedes,2.0,0 days 00:01:04.537000,0 days 00:01:04.443000,0 days 00:01:04.035000
+2021,8,Styrian Grand Prix,2021-06-27,ham,mercedes,3.0,0 days 00:01:04.672000,0 days 00:01:04.512000,0 days 00:01:04.067000
+2021,8,Styrian Grand Prix,2021-06-27,nor,mclaren,4.0,0 days 00:01:04.584000,0 days 00:01:04.298000,0 days 00:01:04.120000
+2021,8,Styrian Grand Prix,2021-06-27,per,red_bull_racing,5.0,0 days 00:01:04.638000,0 days 00:01:04.197000,0 days 00:01:04.168000
+2021,8,Styrian Grand Prix,2021-06-27,gas,alphatauri,6.0,0 days 00:01:04.765000,0 days 00:01:04.429000,0 days 00:01:04.236000
+2021,8,Styrian Grand Prix,2021-06-27,lec,ferrari,7.0,0 days 00:01:04.745000,0 days 00:01:04.646000,0 days 00:01:04.472000
+2021,8,Styrian Grand Prix,2021-06-27,tsu,alphatauri,8.0,0 days 00:01:04.608000,0 days 00:01:04.631000,0 days 00:01:04.514000
+2021,8,Styrian Grand Prix,2021-06-27,alo,alpine,9.0,0 days 00:01:04.971000,0 days 00:01:04.582000,0 days 00:01:04.574000
+2021,8,Styrian Grand Prix,2021-06-27,str,aston_martin,10.0,0 days 00:01:04.821000,0 days 00:01:04.663000,0 days 00:01:04.708000
+2021,8,Styrian Grand Prix,2021-06-27,rus,williams,11.0,0 days 00:01:05.033000,0 days 00:01:04.671000,
+2021,8,Styrian Grand Prix,2021-06-27,sai,ferrari,12.0,0 days 00:01:04.859000,0 days 00:01:04.800000,
+2021,8,Styrian Grand Prix,2021-06-27,ric,mclaren,13.0,0 days 00:01:05.142000,0 days 00:01:04.808000,
+2021,8,Styrian Grand Prix,2021-06-27,vet,aston_martin,14.0,0 days 00:01:05.051000,0 days 00:01:04.875000,
+2021,8,Styrian Grand Prix,2021-06-27,gio,alfa_romeo_racing,15.0,0 days 00:01:05.092000,0 days 00:01:04.913000,
+2021,8,Styrian Grand Prix,2021-06-27,lat,williams,16.0,0 days 00:01:05.175000,,
+2021,8,Styrian Grand Prix,2021-06-27,oco,alpine,17.0,0 days 00:01:05.217000,,
+2021,8,Styrian Grand Prix,2021-06-27,rai,alfa_romeo_racing,18.0,0 days 00:01:05.429000,,
+2021,8,Styrian Grand Prix,2021-06-27,msc,haas_f1_team,19.0,0 days 00:01:06.041000,,
+2021,8,Styrian Grand Prix,2021-06-27,maz,haas_f1_team,20.0,0 days 00:01:06.192000,,
+2021,9,Austrian Grand Prix,2021-07-04,ver,red_bull_racing,1.0,0 days 00:01:04.249000,0 days 00:01:03.927000,0 days 00:01:03.720000
+2021,9,Austrian Grand Prix,2021-07-04,nor,mclaren,2.0,0 days 00:01:04.345000,0 days 00:01:04.415000,0 days 00:01:03.768000
+2021,9,Austrian Grand Prix,2021-07-04,per,red_bull_racing,3.0,0 days 00:01:04.833000,0 days 00:01:04.483000,0 days 00:01:03.990000
+2021,9,Austrian Grand Prix,2021-07-04,ham,mercedes,4.0,0 days 00:01:04.506000,0 days 00:01:04.258000,0 days 00:01:04.014000
+2021,9,Austrian Grand Prix,2021-07-04,bot,mercedes,5.0,0 days 00:01:04.563000,0 days 00:01:04.376000,0 days 00:01:04.049000
+2021,9,Austrian Grand Prix,2021-07-04,gas,alphatauri,6.0,0 days 00:01:04.841000,0 days 00:01:04.412000,0 days 00:01:04.107000
+2021,9,Austrian Grand Prix,2021-07-04,tsu,alphatauri,7.0,0 days 00:01:04.967000,0 days 00:01:04.518000,0 days 00:01:04.273000
+2021,9,Austrian Grand Prix,2021-07-04,vet,aston_martin,8.0,0 days 00:01:04.846000,0 days 00:01:04.493000,0 days 00:01:04.570000
+2021,9,Austrian Grand Prix,2021-07-04,rus,williams,9.0,0 days 00:01:04.907000,0 days 00:01:04.553000,0 days 00:01:04.591000
+2021,9,Austrian Grand Prix,2021-07-04,str,aston_martin,10.0,0 days 00:01:04.927000,0 days 00:01:04.547000,0 days 00:01:04.618000
+2021,9,Austrian Grand Prix,2021-07-04,sai,ferrari,11.0,0 days 00:01:04.596000,0 days 00:01:04.559000,
+2021,9,Austrian Grand Prix,2021-07-04,lec,ferrari,12.0,0 days 00:01:04.906000,0 days 00:01:04.600000,
+2021,9,Austrian Grand Prix,2021-07-04,ric,mclaren,13.0,0 days 00:01:04.977000,0 days 00:01:04.719000,
+2021,9,Austrian Grand Prix,2021-07-04,alo,alpine,14.0,0 days 00:01:04.472000,0 days 00:01:04.856000,
+2021,9,Austrian Grand Prix,2021-07-04,gio,alfa_romeo_racing,15.0,0 days 00:01:04.782000,0 days 00:01:05.083000,
+2021,9,Austrian Grand Prix,2021-07-04,rai,alfa_romeo_racing,16.0,0 days 00:01:05.009000,,
+2021,9,Austrian Grand Prix,2021-07-04,oco,alpine,17.0,0 days 00:01:05.051000,,
+2021,9,Austrian Grand Prix,2021-07-04,lat,williams,18.0,0 days 00:01:05.195000,,
+2021,9,Austrian Grand Prix,2021-07-04,msc,haas_f1_team,19.0,0 days 00:01:05.427000,,
+2021,9,Austrian Grand Prix,2021-07-04,maz,haas_f1_team,20.0,0 days 00:01:05.951000,,
+2021,10,British Grand Prix,2021-07-18,ham,mercedes,1.0,0 days 00:01:26.786000,0 days 00:01:26.023000,0 days 00:01:26.134000
+2021,10,British Grand Prix,2021-07-18,ver,red_bull_racing,2.0,0 days 00:01:26.751000,0 days 00:01:26.315000,0 days 00:01:26.209000
+2021,10,British Grand Prix,2021-07-18,bot,mercedes,3.0,0 days 00:01:27.487000,0 days 00:01:26.764000,0 days 00:01:26.328000
+2021,10,British Grand Prix,2021-07-18,lec,ferrari,4.0,0 days 00:01:27.051000,0 days 00:01:26.919000,0 days 00:01:26.828000
+2021,10,British Grand Prix,2021-07-18,per,red_bull_racing,5.0,0 days 00:01:27.121000,0 days 00:01:27.073000,0 days 00:01:26.844000
+2021,10,British Grand Prix,2021-07-18,nor,mclaren,6.0,0 days 00:01:27.444000,0 days 00:01:27.220000,0 days 00:01:26.897000
+2021,10,British Grand Prix,2021-07-18,ric,mclaren,7.0,0 days 00:01:27.323000,0 days 00:01:27.125000,0 days 00:01:26.899000
+2021,10,British Grand Prix,2021-07-18,rus,williams,8.0,0 days 00:01:27.671000,0 days 00:01:27.080000,0 days 00:01:26.971000
+2021,10,British Grand Prix,2021-07-18,sai,ferrari,9.0,0 days 00:01:27.337000,0 days 00:01:26.848000,0 days 00:01:27.007000
+2021,10,British Grand Prix,2021-07-18,vet,aston_martin,10.0,0 days 00:01:27.493000,0 days 00:01:27.103000,0 days 00:01:27.179000
+2021,10,British Grand Prix,2021-07-18,alo,alpine,11.0,0 days 00:01:27.580000,0 days 00:01:27.245000,
+2021,10,British Grand Prix,2021-07-18,gas,alphatauri,12.0,0 days 00:01:27.600000,0 days 00:01:27.273000,
+2021,10,British Grand Prix,2021-07-18,oco,alpine,13.0,0 days 00:01:27.415000,0 days 00:01:27.340000,
+2021,10,British Grand Prix,2021-07-18,gio,alfa_romeo_racing,14.0,0 days 00:01:27.595000,0 days 00:01:27.617000,
+2021,10,British Grand Prix,2021-07-18,str,aston_martin,15.0,0 days 00:01:28.017000,0 days 00:01:27.665000,
+2021,10,British Grand Prix,2021-07-18,tsu,alphatauri,16.0,0 days 00:01:28.043000,,
+2021,10,British Grand Prix,2021-07-18,rai,alfa_romeo_racing,17.0,0 days 00:01:28.062000,,
+2021,10,British Grand Prix,2021-07-18,lat,williams,18.0,0 days 00:01:28.254000,,
+2021,10,British Grand Prix,2021-07-18,msc,haas_f1_team,19.0,0 days 00:01:28.738000,,
+2021,10,British Grand Prix,2021-07-18,maz,haas_f1_team,20.0,0 days 00:01:29.051000,,
+2021,11,Hungarian Grand Prix,2021-08-01,ham,mercedes,1.0,0 days 00:01:16.424000,0 days 00:01:16.553000,0 days 00:01:15.419000
+2021,11,Hungarian Grand Prix,2021-08-01,bot,mercedes,2.0,0 days 00:01:16.569000,0 days 00:01:16.702000,0 days 00:01:15.734000
+2021,11,Hungarian Grand Prix,2021-08-01,ver,red_bull_racing,3.0,0 days 00:01:16.214000,0 days 00:01:15.650000,0 days 00:01:15.840000
+2021,11,Hungarian Grand Prix,2021-08-01,per,red_bull_racing,4.0,0 days 00:01:17.233000,0 days 00:01:16.443000,0 days 00:01:16.421000
+2021,11,Hungarian Grand Prix,2021-08-01,gas,alphatauri,5.0,0 days 00:01:16.874000,0 days 00:01:16.394000,0 days 00:01:16.483000
+2021,11,Hungarian Grand Prix,2021-08-01,nor,mclaren,6.0,0 days 00:01:17.081000,0 days 00:01:16.385000,0 days 00:01:16.489000
+2021,11,Hungarian Grand Prix,2021-08-01,lec,ferrari,7.0,0 days 00:01:17.084000,0 days 00:01:16.574000,0 days 00:01:16.496000
+2021,11,Hungarian Grand Prix,2021-08-01,oco,alpine,8.0,0 days 00:01:17.367000,0 days 00:01:16.766000,0 days 00:01:16.653000
+2021,11,Hungarian Grand Prix,2021-08-01,alo,alpine,9.0,0 days 00:01:17.123000,0 days 00:01:16.541000,0 days 00:01:16.715000
+2021,11,Hungarian Grand Prix,2021-08-01,vet,aston_martin,10.0,0 days 00:01:17.105000,0 days 00:01:16.794000,0 days 00:01:16.750000
+2021,11,Hungarian Grand Prix,2021-08-01,ric,mclaren,11.0,0 days 00:01:17.664000,0 days 00:01:16.871000,
+2021,11,Hungarian Grand Prix,2021-08-01,str,aston_martin,12.0,0 days 00:01:17.038000,0 days 00:01:16.893000,
+2021,11,Hungarian Grand Prix,2021-08-01,rai,alfa_romeo_racing,13.0,0 days 00:01:17.553000,0 days 00:01:17.564000,
+2021,11,Hungarian Grand Prix,2021-08-01,gio,alfa_romeo_racing,14.0,0 days 00:01:17.776000,0 days 00:01:17.583000,
+2021,11,Hungarian Grand Prix,2021-08-01,sai,ferrari,15.0,0 days 00:01:16.649000,,
+2021,11,Hungarian Grand Prix,2021-08-01,tsu,alphatauri,16.0,0 days 00:01:17.919000,,
+2021,11,Hungarian Grand Prix,2021-08-01,rus,williams,17.0,0 days 00:01:17.944000,,
+2021,11,Hungarian Grand Prix,2021-08-01,lat,williams,18.0,0 days 00:01:18.036000,,
+2021,11,Hungarian Grand Prix,2021-08-01,maz,haas_f1_team,19.0,0 days 00:01:18.922000,,
+2021,11,Hungarian Grand Prix,2021-08-01,msc,haas_f1_team,20.0,,,
+2021,12,Belgian Grand Prix,2021-08-29,ver,red_bull_racing,1.0,0 days 00:01:58.717000,0 days 00:01:56.559000,0 days 00:01:59.765000
+2021,12,Belgian Grand Prix,2021-08-29,rus,williams,2.0,0 days 00:01:59.864000,0 days 00:01:56.950000,0 days 00:02:00.086000
+2021,12,Belgian Grand Prix,2021-08-29,ham,mercedes,3.0,0 days 00:01:59.218000,0 days 00:01:56.229000,0 days 00:02:00.099000
+2021,12,Belgian Grand Prix,2021-08-29,ric,mclaren,4.0,0 days 00:02:01.583000,0 days 00:01:57.127000,0 days 00:02:00.864000
+2021,12,Belgian Grand Prix,2021-08-29,vet,aston_martin,5.0,0 days 00:02:00.175000,0 days 00:01:56.814000,0 days 00:02:00.935000
+2021,12,Belgian Grand Prix,2021-08-29,gas,alphatauri,6.0,0 days 00:02:00.387000,0 days 00:01:56.440000,0 days 00:02:01.164000
+2021,12,Belgian Grand Prix,2021-08-29,per,red_bull_racing,7.0,0 days 00:01:59.334000,0 days 00:01:56.886000,0 days 00:02:02.112000
+2021,12,Belgian Grand Prix,2021-08-29,bot,mercedes,8.0,0 days 00:01:59.870000,0 days 00:01:56.295000,0 days 00:02:02.502000
+2021,12,Belgian Grand Prix,2021-08-29,oco,alpine,9.0,0 days 00:02:01.824000,0 days 00:01:57.354000,0 days 00:02:03.513000
+2021,12,Belgian Grand Prix,2021-08-29,nor,mclaren,10.0,0 days 00:01:58.301000,0 days 00:01:56.025000,
+2021,12,Belgian Grand Prix,2021-08-29,lec,ferrari,11.0,0 days 00:02:00.728000,0 days 00:01:57.721000,
+2021,12,Belgian Grand Prix,2021-08-29,lat,williams,12.0,0 days 00:02:00.966000,0 days 00:01:58.056000,
+2021,12,Belgian Grand Prix,2021-08-29,sai,ferrari,13.0,0 days 00:02:01.184000,0 days 00:01:58.137000,
+2021,12,Belgian Grand Prix,2021-08-29,alo,alpine,14.0,0 days 00:02:01.653000,0 days 00:01:58.205000,
+2021,12,Belgian Grand Prix,2021-08-29,str,aston_martin,15.0,0 days 00:02:01.597000,0 days 00:01:58.231000,
+2021,12,Belgian Grand Prix,2021-08-29,gio,alfa_romeo_racing,16.0,0 days 00:02:02.306000,,
+2021,12,Belgian Grand Prix,2021-08-29,tsu,alphatauri,17.0,0 days 00:02:02.413000,,
+2021,12,Belgian Grand Prix,2021-08-29,msc,haas_f1_team,18.0,0 days 00:02:03.973000,,
+2021,12,Belgian Grand Prix,2021-08-29,rai,alfa_romeo_racing,19.0,0 days 00:02:04.452000,,
+2021,12,Belgian Grand Prix,2021-08-29,maz,haas_f1_team,20.0,0 days 00:02:04.939000,,
+2021,13,Dutch Grand Prix,2021-09-05,ver,red_bull_racing,1.0,0 days 00:01:10.036000,0 days 00:01:09.071000,0 days 00:01:08.885000
+2021,13,Dutch Grand Prix,2021-09-05,ham,mercedes,2.0,0 days 00:01:10.114000,0 days 00:01:09.726000,0 days 00:01:08.923000
+2021,13,Dutch Grand Prix,2021-09-05,bot,mercedes,3.0,0 days 00:01:10.219000,0 days 00:01:09.769000,0 days 00:01:09.222000
+2021,13,Dutch Grand Prix,2021-09-05,gas,alphatauri,4.0,0 days 00:01:10.274000,0 days 00:01:09.541000,0 days 00:01:09.478000
+2021,13,Dutch Grand Prix,2021-09-05,lec,ferrari,5.0,0 days 00:01:09.829000,0 days 00:01:09.437000,0 days 00:01:09.527000
+2021,13,Dutch Grand Prix,2021-09-05,sai,ferrari,6.0,0 days 00:01:10.022000,0 days 00:01:09.870000,0 days 00:01:09.537000
+2021,13,Dutch Grand Prix,2021-09-05,gio,alfa_romeo_racing,7.0,0 days 00:01:10.050000,0 days 00:01:10.033000,0 days 00:01:09.590000
+2021,13,Dutch Grand Prix,2021-09-05,oco,alpine,8.0,0 days 00:01:10.179000,0 days 00:01:09.919000,0 days 00:01:09.933000
+2021,13,Dutch Grand Prix,2021-09-05,alo,alpine,9.0,0 days 00:01:10.435000,0 days 00:01:10.020000,0 days 00:01:09.956000
+2021,13,Dutch Grand Prix,2021-09-05,ric,mclaren,10.0,0 days 00:01:10.255000,0 days 00:01:09.865000,0 days 00:01:10.166000
+2021,13,Dutch Grand Prix,2021-09-05,rus,williams,11.0,0 days 00:01:10.382000,0 days 00:01:10.332000,
+2021,13,Dutch Grand Prix,2021-09-05,str,aston_martin,12.0,0 days 00:01:10.438000,0 days 00:01:10.367000,
+2021,13,Dutch Grand Prix,2021-09-05,nor,mclaren,13.0,0 days 00:01:10.489000,0 days 00:01:10.406000,
+2021,13,Dutch Grand Prix,2021-09-05,lat,williams,14.0,0 days 00:01:10.093000,0 days 00:01:11.161000,
+2021,13,Dutch Grand Prix,2021-09-05,tsu,alphatauri,15.0,0 days 00:01:10.462000,0 days 00:01:11.314000,
+2021,13,Dutch Grand Prix,2021-09-05,per,red_bull_racing,16.0,0 days 00:01:10.530000,,
+2021,13,Dutch Grand Prix,2021-09-05,vet,aston_martin,17.0,0 days 00:01:10.731000,,
+2021,13,Dutch Grand Prix,2021-09-05,kub,alfa_romeo_racing,18.0,0 days 00:01:11.301000,,
+2021,13,Dutch Grand Prix,2021-09-05,msc,haas_f1_team,19.0,0 days 00:01:11.387000,,
+2021,13,Dutch Grand Prix,2021-09-05,maz,haas_f1_team,20.0,0 days 00:01:11.875000,,
+2021,14,Italian Grand Prix,2021-09-12,bot,mercedes,1.0,0 days 00:01:20.685000,0 days 00:01:20.032000,0 days 00:01:19.555000
+2021,14,Italian Grand Prix,2021-09-12,ham,mercedes,2.0,0 days 00:01:20.543000,0 days 00:01:19.936000,0 days 00:01:19.651000
+2021,14,Italian Grand Prix,2021-09-12,ver,red_bull_racing,3.0,0 days 00:01:21.035000,0 days 00:01:20.229000,0 days 00:01:19.966000
+2021,14,Italian Grand Prix,2021-09-12,nor,mclaren,4.0,0 days 00:01:20.916000,0 days 00:01:20.059000,0 days 00:01:19.989000
+2021,14,Italian Grand Prix,2021-09-12,ric,mclaren,5.0,0 days 00:01:21.292000,0 days 00:01:20.435000,0 days 00:01:19.995000
+2021,14,Italian Grand Prix,2021-09-12,gas,alphatauri,6.0,0 days 00:01:21.440000,0 days 00:01:20.556000,0 days 00:01:20.260000
+2021,14,Italian Grand Prix,2021-09-12,sai,ferrari,7.0,0 days 00:01:21.118000,0 days 00:01:20.750000,0 days 00:01:20.462000
+2021,14,Italian Grand Prix,2021-09-12,lec,ferrari,8.0,0 days 00:01:21.219000,0 days 00:01:20.767000,0 days 00:01:20.510000
+2021,14,Italian Grand Prix,2021-09-12,per,red_bull_racing,9.0,0 days 00:01:21.308000,0 days 00:01:20.882000,0 days 00:01:20.611000
+2021,14,Italian Grand Prix,2021-09-12,gio,alfa_romeo_racing,10.0,0 days 00:01:21.197000,0 days 00:01:20.726000,0 days 00:01:20.808000
+2021,14,Italian Grand Prix,2021-09-12,vet,aston_martin,11.0,0 days 00:01:21.394000,0 days 00:01:20.913000,
+2021,14,Italian Grand Prix,2021-09-12,str,aston_martin,12.0,0 days 00:01:21.415000,0 days 00:01:21.020000,
+2021,14,Italian Grand Prix,2021-09-12,alo,alpine,13.0,0 days 00:01:21.487000,0 days 00:01:21.069000,
+2021,14,Italian Grand Prix,2021-09-12,oco,alpine,14.0,0 days 00:01:21.500000,0 days 00:01:21.103000,
+2021,14,Italian Grand Prix,2021-09-12,rus,williams,15.0,0 days 00:01:21.890000,0 days 00:01:21.392000,
+2021,14,Italian Grand Prix,2021-09-12,lat,williams,16.0,0 days 00:01:21.925000,,
+2021,14,Italian Grand Prix,2021-09-12,tsu,alphatauri,17.0,0 days 00:01:21.973000,,
+2021,14,Italian Grand Prix,2021-09-12,msc,haas_f1_team,18.0,0 days 00:01:22.248000,,
+2021,14,Italian Grand Prix,2021-09-12,kub,alfa_romeo_racing,19.0,0 days 00:01:22.530000,,
+2021,14,Italian Grand Prix,2021-09-12,maz,haas_f1_team,20.0,0 days 00:01:22.716000,,
+2021,15,Russian Grand Prix,2021-09-26,nor,mclaren,1.0,0 days 00:01:47.238000,0 days 00:01:45.827000,0 days 00:01:41.993000
+2021,15,Russian Grand Prix,2021-09-26,sai,ferrari,2.0,0 days 00:01:47.924000,0 days 00:01:46.521000,0 days 00:01:42.510000
+2021,15,Russian Grand Prix,2021-09-26,rus,williams,3.0,0 days 00:01:48.303000,0 days 00:01:46.435000,0 days 00:01:42.983000
+2021,15,Russian Grand Prix,2021-09-26,ham,mercedes,4.0,0 days 00:01:45.992000,0 days 00:01:45.129000,0 days 00:01:44.050000
+2021,15,Russian Grand Prix,2021-09-26,ric,mclaren,5.0,0 days 00:01:48.345000,0 days 00:01:46.361000,0 days 00:01:44.156000
+2021,15,Russian Grand Prix,2021-09-26,alo,alpine,6.0,0 days 00:01:47.877000,0 days 00:01:45.514000,0 days 00:01:44.204000
+2021,15,Russian Grand Prix,2021-09-26,bot,mercedes,7.0,0 days 00:01:46.396000,0 days 00:01:45.306000,0 days 00:01:44.710000
+2021,15,Russian Grand Prix,2021-09-26,str,aston_martin,8.0,0 days 00:01:48.322000,0 days 00:01:46.360000,0 days 00:01:44.956000
+2021,15,Russian Grand Prix,2021-09-26,per,red_bull_racing,9.0,0 days 00:01:46.455000,0 days 00:01:45.834000,0 days 00:01:45.337000
+2021,15,Russian Grand Prix,2021-09-26,oco,alpine,10.0,0 days 00:01:48.099000,0 days 00:01:46.070000,0 days 00:01:45.865000
+2021,15,Russian Grand Prix,2021-09-26,vet,aston_martin,11.0,0 days 00:01:47.205000,0 days 00:01:46.573000,
+2021,15,Russian Grand Prix,2021-09-26,gas,alphatauri,12.0,0 days 00:01:47.828000,0 days 00:01:46.641000,
+2021,15,Russian Grand Prix,2021-09-26,tsu,alphatauri,13.0,0 days 00:01:48.854000,0 days 00:01:46.751000,
+2021,15,Russian Grand Prix,2021-09-26,lat,williams,14.0,0 days 00:01:48.252000,,
+2021,15,Russian Grand Prix,2021-09-26,lec,ferrari,15.0,0 days 00:01:48.470000,,
+2021,15,Russian Grand Prix,2021-09-26,rai,alfa_romeo_racing,16.0,0 days 00:01:49.586000,,
+2021,15,Russian Grand Prix,2021-09-26,msc,haas_f1_team,17.0,0 days 00:01:49.830000,,
+2021,15,Russian Grand Prix,2021-09-26,gio,alfa_romeo_racing,18.0,0 days 00:01:51.023000,,
+2021,15,Russian Grand Prix,2021-09-26,maz,haas_f1_team,19.0,0 days 00:01:53.764000,,
+2021,15,Russian Grand Prix,2021-09-26,ver,red_bull_racing,20.0,,,
+2021,16,Turkish Grand Prix,2021-10-10,ham,mercedes,1.0,0 days 00:01:24.585000,0 days 00:01:23.082000,0 days 00:01:22.868000
+2021,16,Turkish Grand Prix,2021-10-10,bot,mercedes,2.0,0 days 00:01:25.047000,0 days 00:01:23.579000,0 days 00:01:22.998000
+2021,16,Turkish Grand Prix,2021-10-10,ver,red_bull_racing,3.0,0 days 00:01:24.592000,0 days 00:01:23.732000,0 days 00:01:23.196000
+2021,16,Turkish Grand Prix,2021-10-10,lec,ferrari,4.0,0 days 00:01:24.869000,0 days 00:01:24.015000,0 days 00:01:23.265000
+2021,16,Turkish Grand Prix,2021-10-10,gas,alphatauri,5.0,0 days 00:01:24.704000,0 days 00:01:23.817000,0 days 00:01:23.326000
+2021,16,Turkish Grand Prix,2021-10-10,alo,alpine,6.0,0 days 00:01:25.174000,0 days 00:01:23.914000,0 days 00:01:23.477000
+2021,16,Turkish Grand Prix,2021-10-10,per,red_bull_racing,7.0,0 days 00:01:24.963000,0 days 00:01:23.961000,0 days 00:01:23.706000
+2021,16,Turkish Grand Prix,2021-10-10,nor,mclaren,8.0,0 days 00:01:25.138000,0 days 00:01:24.642000,0 days 00:01:23.954000
+2021,16,Turkish Grand Prix,2021-10-10,str,aston_martin,9.0,0 days 00:01:25.511000,0 days 00:01:24.601000,0 days 00:01:24.305000
+2021,16,Turkish Grand Prix,2021-10-10,tsu,alphatauri,10.0,0 days 00:01:25.409000,0 days 00:01:24.054000,0 days 00:01:24.368000
+2021,16,Turkish Grand Prix,2021-10-10,vet,aston_martin,11.0,0 days 00:01:25.787000,0 days 00:01:24.795000,
+2021,16,Turkish Grand Prix,2021-10-10,oco,alpine,12.0,0 days 00:01:25.422000,0 days 00:01:24.842000,
+2021,16,Turkish Grand Prix,2021-10-10,rus,williams,13.0,0 days 00:01:25.417000,0 days 00:01:25.007000,
+2021,16,Turkish Grand Prix,2021-10-10,msc,haas_f1_team,14.0,0 days 00:01:25.555000,0 days 00:01:25.200000,
+2021,16,Turkish Grand Prix,2021-10-10,sai,ferrari,15.0,0 days 00:01:25.177000,,
+2021,16,Turkish Grand Prix,2021-10-10,ric,mclaren,16.0,0 days 00:01:25.881000,,
+2021,16,Turkish Grand Prix,2021-10-10,lat,williams,17.0,0 days 00:01:26.086000,,
+2021,16,Turkish Grand Prix,2021-10-10,gio,alfa_romeo_racing,18.0,0 days 00:01:26.430000,,
+2021,16,Turkish Grand Prix,2021-10-10,rai,alfa_romeo_racing,19.0,0 days 00:01:27.525000,,
+2021,16,Turkish Grand Prix,2021-10-10,maz,haas_f1_team,20.0,0 days 00:01:28.449000,,
+2021,17,United States Grand Prix,2021-10-24,ver,red_bull_racing,1.0,0 days 00:01:34.352000,0 days 00:01:33.464000,0 days 00:01:32.910000
+2021,17,United States Grand Prix,2021-10-24,ham,mercedes,2.0,0 days 00:01:34.579000,0 days 00:01:33.797000,0 days 00:01:33.119000
+2021,17,United States Grand Prix,2021-10-24,per,red_bull_racing,3.0,0 days 00:01:34.369000,0 days 00:01:34.178000,0 days 00:01:33.134000
+2021,17,United States Grand Prix,2021-10-24,bot,mercedes,4.0,0 days 00:01:34.590000,0 days 00:01:33.959000,0 days 00:01:33.475000
+2021,17,United States Grand Prix,2021-10-24,lec,ferrari,5.0,0 days 00:01:34.153000,0 days 00:01:33.928000,0 days 00:01:33.606000
+2021,17,United States Grand Prix,2021-10-24,sai,ferrari,6.0,0 days 00:01:34.558000,0 days 00:01:34.126000,0 days 00:01:33.792000
+2021,17,United States Grand Prix,2021-10-24,ric,mclaren,7.0,0 days 00:01:34.407000,0 days 00:01:34.643000,0 days 00:01:33.808000
+2021,17,United States Grand Prix,2021-10-24,nor,mclaren,8.0,0 days 00:01:34.551000,0 days 00:01:33.880000,0 days 00:01:33.887000
+2021,17,United States Grand Prix,2021-10-24,gas,alphatauri,9.0,0 days 00:01:34.567000,0 days 00:01:34.583000,0 days 00:01:34.118000
+2021,17,United States Grand Prix,2021-10-24,tsu,alphatauri,10.0,0 days 00:01:35.360000,0 days 00:01:35.137000,0 days 00:01:34.918000
+2021,17,United States Grand Prix,2021-10-24,oco,alpine,11.0,0 days 00:01:35.747000,0 days 00:01:35.377000,
+2021,17,United States Grand Prix,2021-10-24,vet,aston_martin,12.0,0 days 00:01:35.281000,0 days 00:01:35.500000,
+2021,17,United States Grand Prix,2021-10-24,gio,alfa_romeo_racing,13.0,0 days 00:01:35.920000,0 days 00:01:35.794000,
+2021,17,United States Grand Prix,2021-10-24,alo,alpine,14.0,0 days 00:01:35.756000,0 days 00:01:44.549000,
+2021,17,United States Grand Prix,2021-10-24,rus,williams,15.0,0 days 00:01:35.746000,,
+2021,17,United States Grand Prix,2021-10-24,str,aston_martin,16.0,0 days 00:01:35.983000,,
+2021,17,United States Grand Prix,2021-10-24,lat,williams,17.0,0 days 00:01:35.995000,,
+2021,17,United States Grand Prix,2021-10-24,rai,alfa_romeo_racing,18.0,0 days 00:01:36.311000,,
+2021,17,United States Grand Prix,2021-10-24,msc,haas_f1_team,19.0,0 days 00:01:36.499000,,
+2021,17,United States Grand Prix,2021-10-24,maz,haas_f1_team,20.0,0 days 00:01:36.796000,,
+2021,18,Mexico City Grand Prix,2021-11-07,bot,mercedes,1.0,0 days 00:01:16.727000,0 days 00:01:16.864000,0 days 00:01:15.875000
+2021,18,Mexico City Grand Prix,2021-11-07,ham,mercedes,2.0,0 days 00:01:17.207000,0 days 00:01:16.474000,0 days 00:01:16.020000
+2021,18,Mexico City Grand Prix,2021-11-07,ver,red_bull_racing,3.0,0 days 00:01:16.788000,0 days 00:01:16.483000,0 days 00:01:16.225000
+2021,18,Mexico City Grand Prix,2021-11-07,per,red_bull_racing,4.0,0 days 00:01:17.003000,0 days 00:01:17.055000,0 days 00:01:16.342000
+2021,18,Mexico City Grand Prix,2021-11-07,gas,alphatauri,5.0,0 days 00:01:16.908000,0 days 00:01:16.955000,0 days 00:01:16.456000
+2021,18,Mexico City Grand Prix,2021-11-07,sai,ferrari,6.0,0 days 00:01:17.517000,0 days 00:01:17.248000,0 days 00:01:16.761000
+2021,18,Mexico City Grand Prix,2021-11-07,ric,mclaren,7.0,0 days 00:01:17.719000,0 days 00:01:17.092000,0 days 00:01:16.763000
+2021,18,Mexico City Grand Prix,2021-11-07,lec,ferrari,8.0,0 days 00:01:16.748000,0 days 00:01:17.034000,0 days 00:01:16.837000
+2021,18,Mexico City Grand Prix,2021-11-07,tsu,alphatauri,9.0,0 days 00:01:17.330000,0 days 00:01:16.701000,0 days 00:01:17.158000
+2021,18,Mexico City Grand Prix,2021-11-07,nor,mclaren,10.0,0 days 00:01:17.569000,0 days 00:01:17.473000,0 days 00:01:36.830000
+2021,18,Mexico City Grand Prix,2021-11-07,vet,aston_martin,11.0,0 days 00:01:17.502000,0 days 00:01:17.746000,
+2021,18,Mexico City Grand Prix,2021-11-07,rai,alfa_romeo_racing,12.0,0 days 00:01:17.606000,0 days 00:01:17.958000,
+2021,18,Mexico City Grand Prix,2021-11-07,rus,williams,13.0,0 days 00:01:17.958000,0 days 00:01:18.172000,
+2021,18,Mexico City Grand Prix,2021-11-07,gio,alfa_romeo_racing,14.0,0 days 00:01:17.897000,0 days 00:01:18.290000,
+2021,18,Mexico City Grand Prix,2021-11-07,oco,alpine,15.0,0 days 00:01:18.126000,0 days 00:01:18.405000,
+2021,18,Mexico City Grand Prix,2021-11-07,alo,alpine,16.0,0 days 00:01:18.452000,,
+2021,18,Mexico City Grand Prix,2021-11-07,lat,williams,17.0,0 days 00:01:18.756000,,
+2021,18,Mexico City Grand Prix,2021-11-07,msc,haas_f1_team,18.0,0 days 00:01:18.858000,,
+2021,18,Mexico City Grand Prix,2021-11-07,maz,haas_f1_team,19.0,0 days 00:01:19.303000,,
+2021,18,Mexico City Grand Prix,2021-11-07,str,aston_martin,20.0,0 days 00:01:20.873000,,
+2021,19,São Paulo Grand Prix,2021-11-14,ham,mercedes,1.0,0 days 00:01:08.733000,0 days 00:01:08.068000,0 days 00:01:07.934000
+2021,19,São Paulo Grand Prix,2021-11-14,ver,red_bull_racing,2.0,0 days 00:01:09.329000,0 days 00:01:08.499000,0 days 00:01:08.372000
+2021,19,São Paulo Grand Prix,2021-11-14,bot,mercedes,3.0,0 days 00:01:09.040000,0 days 00:01:08.426000,0 days 00:01:08.469000
+2021,19,São Paulo Grand Prix,2021-11-14,per,red_bull_racing,4.0,0 days 00:01:09.172000,0 days 00:01:08.973000,0 days 00:01:08.483000
+2021,19,São Paulo Grand Prix,2021-11-14,gas,alphatauri,5.0,0 days 00:01:09.347000,0 days 00:01:08.903000,0 days 00:01:08.777000
+2021,19,São Paulo Grand Prix,2021-11-14,sai,ferrari,6.0,0 days 00:01:09.046000,0 days 00:01:09.031000,0 days 00:01:08.826000
+2021,19,São Paulo Grand Prix,2021-11-14,lec,ferrari,7.0,0 days 00:01:09.155000,0 days 00:01:08.859000,0 days 00:01:08.960000
+2021,19,São Paulo Grand Prix,2021-11-14,nor,mclaren,8.0,0 days 00:01:09.365000,0 days 00:01:09.030000,0 days 00:01:08.980000
+2021,19,São Paulo Grand Prix,2021-11-14,ric,mclaren,9.0,0 days 00:01:09.374000,0 days 00:01:09.093000,0 days 00:01:09.039000
+2021,19,São Paulo Grand Prix,2021-11-14,alo,alpine,10.0,0 days 00:01:09.391000,0 days 00:01:09.137000,0 days 00:01:09.113000
+2021,19,São Paulo Grand Prix,2021-11-14,oco,alpine,11.0,0 days 00:01:09.430000,0 days 00:01:09.189000,
+2021,19,São Paulo Grand Prix,2021-11-14,vet,aston_martin,12.0,0 days 00:01:09.451000,0 days 00:01:09.399000,
+2021,19,São Paulo Grand Prix,2021-11-14,tsu,alphatauri,13.0,0 days 00:01:09.350000,0 days 00:01:09.483000,
+2021,19,São Paulo Grand Prix,2021-11-14,rai,alfa_romeo_racing,14.0,0 days 00:01:09.598000,0 days 00:01:09.503000,
+2021,19,São Paulo Grand Prix,2021-11-14,gio,alfa_romeo_racing,15.0,0 days 00:01:09.342000,0 days 00:01:10.227000,
+2021,19,São Paulo Grand Prix,2021-11-14,str,aston_martin,16.0,0 days 00:01:09.663000,,
+2021,19,São Paulo Grand Prix,2021-11-14,lat,williams,17.0,0 days 00:01:09.897000,,
+2021,19,São Paulo Grand Prix,2021-11-14,rus,williams,18.0,0 days 00:01:09.953000,,
+2021,19,São Paulo Grand Prix,2021-11-14,msc,haas_f1_team,19.0,0 days 00:01:10.329000,,
+2021,19,São Paulo Grand Prix,2021-11-14,maz,haas_f1_team,20.0,0 days 00:01:10.589000,,
+2021,20,Qatar Grand Prix,2021-11-21,ham,mercedes,1.0,0 days 00:01:21.901000,0 days 00:01:21.682000,0 days 00:01:20.827000
+2021,20,Qatar Grand Prix,2021-11-21,ver,red_bull_racing,2.0,0 days 00:01:21.996000,0 days 00:01:21.984000,0 days 00:01:21.282000
+2021,20,Qatar Grand Prix,2021-11-21,bot,mercedes,3.0,0 days 00:01:22.016000,0 days 00:01:21.991000,0 days 00:01:21.478000
+2021,20,Qatar Grand Prix,2021-11-21,gas,alphatauri,4.0,0 days 00:01:22.535000,0 days 00:01:21.728000,0 days 00:01:21.640000
+2021,20,Qatar Grand Prix,2021-11-21,alo,alpine,5.0,0 days 00:01:22.422000,0 days 00:01:21.894000,0 days 00:01:21.670000
+2021,20,Qatar Grand Prix,2021-11-21,nor,mclaren,6.0,0 days 00:01:22.839000,0 days 00:01:22.216000,0 days 00:01:21.731000
+2021,20,Qatar Grand Prix,2021-11-21,sai,ferrari,7.0,0 days 00:01:22.304000,0 days 00:01:22.241000,0 days 00:01:21.840000
+2021,20,Qatar Grand Prix,2021-11-21,tsu,alphatauri,8.0,0 days 00:01:22.458000,0 days 00:01:22.058000,0 days 00:01:21.881000
+2021,20,Qatar Grand Prix,2021-11-21,oco,alpine,9.0,0 days 00:01:22.565000,0 days 00:01:22.012000,0 days 00:01:22.028000
+2021,20,Qatar Grand Prix,2021-11-21,vet,aston_martin,10.0,0 days 00:01:22.549000,0 days 00:01:22.146000,0 days 00:01:22.785000
+2021,20,Qatar Grand Prix,2021-11-21,per,red_bull_racing,11.0,0 days 00:01:22.398000,0 days 00:01:22.346000,
+2021,20,Qatar Grand Prix,2021-11-21,str,aston_martin,12.0,0 days 00:01:22.551000,0 days 00:01:22.460000,
+2021,20,Qatar Grand Prix,2021-11-21,lec,ferrari,13.0,0 days 00:01:22.742000,0 days 00:01:22.463000,
+2021,20,Qatar Grand Prix,2021-11-21,ric,mclaren,14.0,0 days 00:01:22.688000,0 days 00:01:22.597000,
+2021,20,Qatar Grand Prix,2021-11-21,rus,williams,15.0,0 days 00:01:22.863000,0 days 00:01:22.756000,
+2021,20,Qatar Grand Prix,2021-11-21,rai,alfa_romeo_racing,16.0,0 days 00:01:23.156000,,
+2021,20,Qatar Grand Prix,2021-11-21,lat,williams,17.0,0 days 00:01:23.213000,,
+2021,20,Qatar Grand Prix,2021-11-21,gio,alfa_romeo_racing,18.0,0 days 00:01:23.262000,,
+2021,20,Qatar Grand Prix,2021-11-21,msc,haas_f1_team,19.0,0 days 00:01:23.407000,,
+2021,20,Qatar Grand Prix,2021-11-21,maz,haas_f1_team,20.0,0 days 00:01:25.859000,,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,ham,mercedes,1.0,0 days 00:01:28.466000,0 days 00:01:27.712000,0 days 00:01:27.511000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,bot,mercedes,2.0,0 days 00:01:28.057000,0 days 00:01:28.054000,0 days 00:01:27.622000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,ver,red_bull_racing,3.0,0 days 00:01:28.285000,0 days 00:01:27.953000,0 days 00:01:27.653000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,lec,ferrari,4.0,0 days 00:01:28.310000,0 days 00:01:28.459000,0 days 00:01:28.054000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,per,red_bull_racing,5.0,0 days 00:01:28.021000,0 days 00:01:27.946000,0 days 00:01:28.123000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,gas,alphatauri,6.0,0 days 00:01:28.401000,0 days 00:01:28.314000,0 days 00:01:28.125000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,nor,mclaren,7.0,0 days 00:01:28.338000,0 days 00:01:28.344000,0 days 00:01:28.180000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,tsu,alphatauri,8.0,0 days 00:01:28.503000,0 days 00:01:28.222000,0 days 00:01:28.442000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,oco,alpine,9.0,0 days 00:01:28.752000,0 days 00:01:28.574000,0 days 00:01:28.647000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,gio,alfa_romeo_racing,10.0,0 days 00:01:28.899000,0 days 00:01:28.616000,0 days 00:01:28.754000
+2021,21,Saudi Arabian Grand Prix,2021-12-05,ric,mclaren,11.0,0 days 00:01:28.216000,0 days 00:01:28.668000,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,rai,alfa_romeo_racing,12.0,0 days 00:01:28.856000,0 days 00:01:28.885000,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,alo,alpine,13.0,0 days 00:01:28.944000,0 days 00:01:28.920000,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,rus,williams,14.0,0 days 00:01:28.926000,0 days 00:01:29.054000,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,sai,ferrari,15.0,0 days 00:01:28.237000,0 days 00:01:53.652000,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,lat,williams,16.0,0 days 00:01:29.177000,,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,vet,aston_martin,17.0,0 days 00:01:29.198000,,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,str,aston_martin,18.0,0 days 00:01:29.368000,,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,msc,haas_f1_team,19.0,0 days 00:01:29.464000,,
+2021,21,Saudi Arabian Grand Prix,2021-12-05,maz,haas_f1_team,20.0,0 days 00:01:30.473000,,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,ver,red_bull_racing,1.0,0 days 00:01:23.322000,0 days 00:01:22.800000,0 days 00:01:22.109000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,ham,mercedes,2.0,0 days 00:01:22.845000,0 days 00:01:23.145000,0 days 00:01:22.480000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,nor,mclaren,3.0,0 days 00:01:23.553000,0 days 00:01:23.256000,0 days 00:01:22.931000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,per,red_bull_racing,4.0,0 days 00:01:23.350000,0 days 00:01:23.135000,0 days 00:01:22.947000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,sai,ferrari,5.0,0 days 00:01:23.624000,0 days 00:01:23.174000,0 days 00:01:22.992000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,bot,mercedes,6.0,0 days 00:01:23.117000,0 days 00:01:23.246000,0 days 00:01:23.036000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,lec,ferrari,7.0,0 days 00:01:23.467000,0 days 00:01:23.202000,0 days 00:01:23.122000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,tsu,alphatauri,8.0,0 days 00:01:23.428000,0 days 00:01:23.404000,0 days 00:01:23.220000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,oco,alpine,9.0,0 days 00:01:23.764000,0 days 00:01:23.420000,0 days 00:01:23.389000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,ric,mclaren,10.0,0 days 00:01:23.829000,0 days 00:01:23.448000,0 days 00:01:23.409000
+2021,22,Abu Dhabi Grand Prix,2021-12-12,alo,alpine,11.0,0 days 00:01:23.846000,0 days 00:01:23.460000,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,gas,alphatauri,12.0,0 days 00:01:23.489000,0 days 00:01:24.043000,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,str,aston_martin,13.0,0 days 00:01:24.061000,0 days 00:01:24.066000,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,gio,alfa_romeo_racing,14.0,0 days 00:01:24.118000,0 days 00:01:24.251000,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,vet,aston_martin,15.0,0 days 00:01:24.225000,0 days 00:01:24.305000,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,lat,williams,16.0,0 days 00:01:24.338000,,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,rus,williams,17.0,0 days 00:01:24.423000,,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,rai,alfa_romeo_racing,18.0,0 days 00:01:24.779000,,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,msc,haas_f1_team,19.0,0 days 00:01:24.906000,,
+2021,22,Abu Dhabi Grand Prix,2021-12-12,maz,haas_f1_team,20.0,0 days 00:01:25.685000,,
+2022,1,Bahrain Grand Prix,2022-03-20,lec,ferrari,1.0,0 days 00:01:31.471000,0 days 00:01:30.932000,0 days 00:01:30.558000
+2022,1,Bahrain Grand Prix,2022-03-20,ver,red_bull_racing,2.0,0 days 00:01:31.785000,0 days 00:01:30.757000,0 days 00:01:30.681000
+2022,1,Bahrain Grand Prix,2022-03-20,sai,ferrari,3.0,0 days 00:01:31.567000,0 days 00:01:30.787000,0 days 00:01:30.687000
+2022,1,Bahrain Grand Prix,2022-03-20,per,red_bull_racing,4.0,0 days 00:01:32.311000,0 days 00:01:31.008000,0 days 00:01:30.921000
+2022,1,Bahrain Grand Prix,2022-03-20,ham,mercedes,5.0,0 days 00:01:32.285000,0 days 00:01:31.048000,0 days 00:01:31.238000
+2022,1,Bahrain Grand Prix,2022-03-20,bot,alfa_romeo,6.0,0 days 00:01:31.919000,0 days 00:01:31.717000,0 days 00:01:31.560000
+2022,1,Bahrain Grand Prix,2022-03-20,mag,haas_f1_team,7.0,0 days 00:01:31.955000,0 days 00:01:31.461000,0 days 00:01:31.808000
+2022,1,Bahrain Grand Prix,2022-03-20,alo,alpine,8.0,0 days 00:01:32.346000,0 days 00:01:31.621000,0 days 00:01:32.195000
+2022,1,Bahrain Grand Prix,2022-03-20,rus,mercedes,9.0,0 days 00:01:32.269000,0 days 00:01:31.252000,0 days 00:01:32.216000
+2022,1,Bahrain Grand Prix,2022-03-20,gas,alphatauri,10.0,0 days 00:01:32.096000,0 days 00:01:31.635000,0 days 00:01:32.338000
+2022,1,Bahrain Grand Prix,2022-03-20,oco,alpine,11.0,0 days 00:01:32.041000,0 days 00:01:31.782000,
+2022,1,Bahrain Grand Prix,2022-03-20,msc,haas_f1_team,12.0,0 days 00:01:32.380000,0 days 00:01:31.998000,
+2022,1,Bahrain Grand Prix,2022-03-20,nor,mclaren,13.0,0 days 00:01:32.239000,0 days 00:01:32.008000,
+2022,1,Bahrain Grand Prix,2022-03-20,alb,williams,14.0,0 days 00:01:32.726000,0 days 00:01:32.664000,
+2022,1,Bahrain Grand Prix,2022-03-20,zho,alfa_romeo,15.0,0 days 00:01:32.493000,0 days 00:01:33.543000,
+2022,1,Bahrain Grand Prix,2022-03-20,tsu,alphatauri,16.0,0 days 00:01:32.750000,,
+2022,1,Bahrain Grand Prix,2022-03-20,hul,aston_martin,17.0,0 days 00:01:32.777000,,
+2022,1,Bahrain Grand Prix,2022-03-20,ric,mclaren,18.0,0 days 00:01:32.945000,,
+2022,1,Bahrain Grand Prix,2022-03-20,str,aston_martin,19.0,0 days 00:01:33.032000,,
+2022,1,Bahrain Grand Prix,2022-03-20,lat,williams,20.0,0 days 00:01:33.634000,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,per,red_bull_racing,1.0,0 days 00:01:29.705000,0 days 00:01:28.924000,0 days 00:01:28.200000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,lec,ferrari,2.0,0 days 00:01:29.039000,0 days 00:01:28.780000,0 days 00:01:28.225000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,sai,ferrari,3.0,0 days 00:01:28.855000,0 days 00:01:28.686000,0 days 00:01:28.402000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,ver,red_bull_racing,4.0,0 days 00:01:28.928000,0 days 00:01:28.945000,0 days 00:01:28.461000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,oco,alpine,5.0,0 days 00:01:30.093000,0 days 00:01:29.584000,0 days 00:01:29.068000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,rus,mercedes,6.0,0 days 00:01:29.680000,0 days 00:01:29.618000,0 days 00:01:29.104000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,alo,alpine,7.0,0 days 00:01:29.978000,0 days 00:01:29.295000,0 days 00:01:29.147000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,bot,alfa_romeo,8.0,0 days 00:01:29.683000,0 days 00:01:29.404000,0 days 00:01:29.183000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,gas,alphatauri,9.0,0 days 00:01:29.891000,0 days 00:01:29.418000,0 days 00:01:29.254000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,mag,haas_f1_team,10.0,0 days 00:01:29.831000,0 days 00:01:29.546000,0 days 00:01:29.588000
+2022,2,Saudi Arabian Grand Prix,2022-03-27,nor,mclaren,11.0,0 days 00:01:29.957000,0 days 00:01:29.651000,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,ric,mclaren,12.0,0 days 00:01:30.009000,0 days 00:01:29.773000,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,zho,alfa_romeo,13.0,0 days 00:01:29.978000,0 days 00:01:29.819000,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,msc,haas_f1_team,14.0,0 days 00:01:30.167000,0 days 00:01:29.920000,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,str,aston_martin,15.0,0 days 00:01:30.256000,0 days 00:01:31.009000,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,ham,mercedes,16.0,0 days 00:01:30.343000,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,alb,williams,17.0,0 days 00:01:30.492000,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,hul,aston_martin,18.0,0 days 00:01:30.543000,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,lat,williams,19.0,0 days 00:01:31.817000,,
+2022,2,Saudi Arabian Grand Prix,2022-03-27,tsu,alphatauri,20.0,,,
+2022,3,Australian Grand Prix,2022-04-10,lec,ferrari,1.0,0 days 00:01:18.881000,0 days 00:01:18.606000,0 days 00:01:17.868000
+2022,3,Australian Grand Prix,2022-04-10,ver,red_bull_racing,2.0,0 days 00:01:18.580000,0 days 00:01:18.611000,0 days 00:01:18.154000
+2022,3,Australian Grand Prix,2022-04-10,per,red_bull_racing,3.0,0 days 00:01:18.834000,0 days 00:01:18.340000,0 days 00:01:18.240000
+2022,3,Australian Grand Prix,2022-04-10,nor,mclaren,4.0,0 days 00:01:19.280000,0 days 00:01:19.066000,0 days 00:01:18.703000
+2022,3,Australian Grand Prix,2022-04-10,ham,mercedes,5.0,0 days 00:01:19.401000,0 days 00:01:19.106000,0 days 00:01:18.825000
+2022,3,Australian Grand Prix,2022-04-10,rus,mercedes,6.0,0 days 00:01:19.405000,0 days 00:01:19.076000,0 days 00:01:18.933000
+2022,3,Australian Grand Prix,2022-04-10,ric,mclaren,7.0,0 days 00:01:19.665000,0 days 00:01:19.130000,0 days 00:01:19.032000
+2022,3,Australian Grand Prix,2022-04-10,oco,alpine,8.0,0 days 00:01:19.605000,0 days 00:01:19.136000,0 days 00:01:19.061000
+2022,3,Australian Grand Prix,2022-04-10,sai,ferrari,9.0,0 days 00:01:18.983000,0 days 00:01:18.469000,0 days 00:01:19.408000
+2022,3,Australian Grand Prix,2022-04-10,alo,alpine,10.0,0 days 00:01:19.192000,0 days 00:01:18.815000,
+2022,3,Australian Grand Prix,2022-04-10,gas,alphatauri,11.0,0 days 00:01:19.580000,0 days 00:01:19.226000,
+2022,3,Australian Grand Prix,2022-04-10,bot,alfa_romeo,12.0,0 days 00:01:19.251000,0 days 00:01:19.410000,
+2022,3,Australian Grand Prix,2022-04-10,tsu,alphatauri,13.0,0 days 00:01:19.742000,0 days 00:01:19.424000,
+2022,3,Australian Grand Prix,2022-04-10,zho,alfa_romeo,14.0,0 days 00:01:19.910000,0 days 00:01:20.155000,
+2022,3,Australian Grand Prix,2022-04-10,msc,haas_f1_team,15.0,0 days 00:01:20.104000,0 days 00:01:20.465000,
+2022,3,Australian Grand Prix,2022-04-10,alb,williams,16.0,0 days 00:01:20.135000,,
+2022,3,Australian Grand Prix,2022-04-10,mag,haas_f1_team,17.0,0 days 00:01:20.254000,,
+2022,3,Australian Grand Prix,2022-04-10,vet,aston_martin,18.0,0 days 00:01:21.149000,,
+2022,3,Australian Grand Prix,2022-04-10,lat,williams,19.0,0 days 00:01:21.372000,,
+2022,3,Australian Grand Prix,2022-04-10,str,aston_martin,20.0,,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,ver,red_bull_racing,1.0,0 days 00:01:19.295000,0 days 00:01:18.793000,0 days 00:01:27.999000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,lec,ferrari,2.0,0 days 00:01:18.796000,0 days 00:01:19.584000,0 days 00:01:28.778000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,nor,mclaren,3.0,0 days 00:01:20.168000,0 days 00:01:19.294000,0 days 00:01:29.131000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,mag,haas_f1_team,4.0,0 days 00:01:20.147000,0 days 00:01:19.902000,0 days 00:01:29.164000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,alo,alpine,5.0,0 days 00:01:20.198000,0 days 00:01:19.595000,0 days 00:01:29.202000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,ric,mclaren,6.0,0 days 00:01:19.980000,0 days 00:01:20.031000,0 days 00:01:29.742000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,per,red_bull_racing,7.0,0 days 00:01:19.773000,0 days 00:01:19.296000,0 days 00:01:29.808000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,bot,alfa_romeo,8.0,0 days 00:01:20.419000,0 days 00:01:20.192000,0 days 00:01:30.439000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,vet,aston_martin,9.0,0 days 00:01:20.364000,0 days 00:01:19.957000,0 days 00:01:31.062000
+2022,4,Emilia Romagna Grand Prix,2022-04-24,sai,ferrari,10.0,0 days 00:01:19.305000,0 days 00:01:18.990000,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,rus,mercedes,11.0,0 days 00:01:20.383000,0 days 00:01:20.757000,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,msc,haas_f1_team,12.0,0 days 00:01:20.422000,0 days 00:01:20.916000,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,ham,mercedes,13.0,0 days 00:01:20.470000,0 days 00:01:21.138000,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,zho,alfa_romeo,14.0,0 days 00:01:19.730000,0 days 00:01:21.434000,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,str,aston_martin,15.0,0 days 00:01:20.342000,0 days 00:01:28.119000,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,tsu,alphatauri,16.0,0 days 00:01:20.474000,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,gas,alphatauri,17.0,0 days 00:01:20.732000,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,lat,williams,18.0,0 days 00:01:21.971000,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,oco,alpine,19.0,0 days 00:01:22.338000,,
+2022,4,Emilia Romagna Grand Prix,2022-04-24,alb,williams,20.0,,,
+2022,5,Miami Grand Prix,2022-05-08,lec,ferrari,1.0,0 days 00:01:29.474000,0 days 00:01:29.130000,0 days 00:01:28.796000
+2022,5,Miami Grand Prix,2022-05-08,sai,ferrari,2.0,0 days 00:01:30.079000,0 days 00:01:29.729000,0 days 00:01:28.986000
+2022,5,Miami Grand Prix,2022-05-08,ver,red_bull_racing,3.0,0 days 00:01:29.836000,0 days 00:01:29.202000,0 days 00:01:28.991000
+2022,5,Miami Grand Prix,2022-05-08,per,red_bull_racing,4.0,0 days 00:01:30.055000,0 days 00:01:29.673000,0 days 00:01:29.036000
+2022,5,Miami Grand Prix,2022-05-08,bot,alfa_romeo,5.0,0 days 00:01:30.845000,0 days 00:01:29.751000,0 days 00:01:29.475000
+2022,5,Miami Grand Prix,2022-05-08,ham,mercedes,6.0,0 days 00:01:30.388000,0 days 00:01:29.797000,0 days 00:01:29.625000
+2022,5,Miami Grand Prix,2022-05-08,gas,alphatauri,7.0,0 days 00:01:30.779000,0 days 00:01:30.128000,0 days 00:01:29.690000
+2022,5,Miami Grand Prix,2022-05-08,nor,mclaren,8.0,0 days 00:01:30.761000,0 days 00:01:29.634000,0 days 00:01:29.750000
+2022,5,Miami Grand Prix,2022-05-08,tsu,alphatauri,9.0,0 days 00:01:30.485000,0 days 00:01:30.031000,0 days 00:01:29.932000
+2022,5,Miami Grand Prix,2022-05-08,str,aston_martin,10.0,0 days 00:01:30.441000,0 days 00:01:29.996000,0 days 00:01:30.676000
+2022,5,Miami Grand Prix,2022-05-08,alo,alpine,11.0,0 days 00:01:30.407000,0 days 00:01:30.160000,
+2022,5,Miami Grand Prix,2022-05-08,rus,mercedes,12.0,0 days 00:01:30.490000,0 days 00:01:30.173000,
+2022,5,Miami Grand Prix,2022-05-08,vet,aston_martin,13.0,0 days 00:01:30.677000,0 days 00:01:30.214000,
+2022,5,Miami Grand Prix,2022-05-08,ric,mclaren,14.0,0 days 00:01:30.583000,0 days 00:01:30.310000,
+2022,5,Miami Grand Prix,2022-05-08,msc,haas_f1_team,15.0,0 days 00:01:30.645000,0 days 00:01:30.423000,
+2022,5,Miami Grand Prix,2022-05-08,mag,haas_f1_team,16.0,0 days 00:01:30.975000,,
+2022,5,Miami Grand Prix,2022-05-08,zho,alfa_romeo,17.0,0 days 00:01:31.020000,,
+2022,5,Miami Grand Prix,2022-05-08,alb,williams,18.0,0 days 00:01:31.266000,,
+2022,5,Miami Grand Prix,2022-05-08,lat,williams,19.0,0 days 00:01:31.325000,,
+2022,5,Miami Grand Prix,2022-05-08,oco,alpine,20.0,,,
+2022,6,Spanish Grand Prix,2022-05-22,lec,ferrari,1.0,0 days 00:01:19.861000,0 days 00:01:19.969000,0 days 00:01:18.750000
+2022,6,Spanish Grand Prix,2022-05-22,ver,red_bull_racing,2.0,0 days 00:01:20.091000,0 days 00:01:19.219000,0 days 00:01:19.073000
+2022,6,Spanish Grand Prix,2022-05-22,sai,ferrari,3.0,0 days 00:01:19.892000,0 days 00:01:19.453000,0 days 00:01:19.166000
+2022,6,Spanish Grand Prix,2022-05-22,rus,mercedes,4.0,0 days 00:01:20.218000,0 days 00:01:19.470000,0 days 00:01:19.393000
+2022,6,Spanish Grand Prix,2022-05-22,per,red_bull_racing,5.0,0 days 00:01:20.447000,0 days 00:01:19.830000,0 days 00:01:19.420000
+2022,6,Spanish Grand Prix,2022-05-22,ham,mercedes,6.0,0 days 00:01:20.252000,0 days 00:01:19.794000,0 days 00:01:19.512000
+2022,6,Spanish Grand Prix,2022-05-22,bot,alfa_romeo,7.0,0 days 00:01:20.355000,0 days 00:01:20.053000,0 days 00:01:19.608000
+2022,6,Spanish Grand Prix,2022-05-22,mag,haas_f1_team,8.0,0 days 00:01:20.227000,0 days 00:01:19.810000,0 days 00:01:19.682000
+2022,6,Spanish Grand Prix,2022-05-22,ric,mclaren,9.0,0 days 00:01:20.549000,0 days 00:01:20.287000,0 days 00:01:20.297000
+2022,6,Spanish Grand Prix,2022-05-22,msc,haas_f1_team,10.0,0 days 00:01:20.683000,0 days 00:01:20.436000,0 days 00:01:20.368000
+2022,6,Spanish Grand Prix,2022-05-22,nor,mclaren,11.0,0 days 00:01:20.838000,0 days 00:01:20.471000,
+2022,6,Spanish Grand Prix,2022-05-22,oco,alpine,12.0,0 days 00:01:20.880000,0 days 00:01:20.638000,
+2022,6,Spanish Grand Prix,2022-05-22,tsu,alphatauri,13.0,0 days 00:01:20.707000,0 days 00:01:20.639000,
+2022,6,Spanish Grand Prix,2022-05-22,gas,alphatauri,14.0,0 days 00:01:20.719000,0 days 00:01:20.861000,
+2022,6,Spanish Grand Prix,2022-05-22,zho,alfa_romeo,15.0,0 days 00:01:20.476000,0 days 00:01:21.094000,
+2022,6,Spanish Grand Prix,2022-05-22,vet,aston_martin,16.0,0 days 00:01:20.954000,,
+2022,6,Spanish Grand Prix,2022-05-22,alo,alpine,17.0,0 days 00:01:21.043000,,
+2022,6,Spanish Grand Prix,2022-05-22,str,aston_martin,18.0,0 days 00:01:21.418000,,
+2022,6,Spanish Grand Prix,2022-05-22,alb,williams,19.0,0 days 00:01:21.645000,,
+2022,6,Spanish Grand Prix,2022-05-22,lat,williams,20.0,0 days 00:01:21.915000,,
+2022,7,Monaco Grand Prix,2022-05-29,lec,ferrari,1.0,0 days 00:01:12.569000,0 days 00:01:11.864000,0 days 00:01:11.376000
+2022,7,Monaco Grand Prix,2022-05-29,sai,ferrari,2.0,0 days 00:01:12.616000,0 days 00:01:12.074000,0 days 00:01:11.601000
+2022,7,Monaco Grand Prix,2022-05-29,per,red_bull_racing,3.0,0 days 00:01:13.004000,0 days 00:01:11.954000,0 days 00:01:11.629000
+2022,7,Monaco Grand Prix,2022-05-29,ver,red_bull_racing,4.0,0 days 00:01:12.993000,0 days 00:01:12.117000,0 days 00:01:11.666000
+2022,7,Monaco Grand Prix,2022-05-29,nor,mclaren,5.0,0 days 00:01:12.927000,0 days 00:01:12.266000,0 days 00:01:11.849000
+2022,7,Monaco Grand Prix,2022-05-29,rus,mercedes,6.0,0 days 00:01:12.787000,0 days 00:01:12.617000,0 days 00:01:12.112000
+2022,7,Monaco Grand Prix,2022-05-29,alo,alpine,7.0,0 days 00:01:13.394000,0 days 00:01:12.688000,0 days 00:01:12.247000
+2022,7,Monaco Grand Prix,2022-05-29,ham,mercedes,8.0,0 days 00:01:13.444000,0 days 00:01:12.595000,0 days 00:01:12.560000
+2022,7,Monaco Grand Prix,2022-05-29,vet,aston_martin,9.0,0 days 00:01:13.313000,0 days 00:01:12.613000,0 days 00:01:12.732000
+2022,7,Monaco Grand Prix,2022-05-29,oco,alpine,10.0,0 days 00:01:12.848000,0 days 00:01:12.528000,0 days 00:01:13.047000
+2022,7,Monaco Grand Prix,2022-05-29,tsu,alphatauri,11.0,0 days 00:01:13.110000,0 days 00:01:12.797000,
+2022,7,Monaco Grand Prix,2022-05-29,bot,alfa_romeo,12.0,0 days 00:01:13.541000,0 days 00:01:12.909000,
+2022,7,Monaco Grand Prix,2022-05-29,mag,haas_f1_team,13.0,0 days 00:01:13.069000,0 days 00:01:12.921000,
+2022,7,Monaco Grand Prix,2022-05-29,ric,mclaren,14.0,0 days 00:01:13.338000,0 days 00:01:12.964000,
+2022,7,Monaco Grand Prix,2022-05-29,msc,haas_f1_team,15.0,0 days 00:01:13.469000,0 days 00:01:13.081000,
+2022,7,Monaco Grand Prix,2022-05-29,alb,williams,16.0,0 days 00:01:13.611000,,
+2022,7,Monaco Grand Prix,2022-05-29,gas,alphatauri,17.0,0 days 00:01:13.660000,,
+2022,7,Monaco Grand Prix,2022-05-29,str,aston_martin,18.0,0 days 00:01:13.678000,,
+2022,7,Monaco Grand Prix,2022-05-29,lat,williams,19.0,0 days 00:01:14.403000,,
+2022,7,Monaco Grand Prix,2022-05-29,zho,alfa_romeo,20.0,0 days 00:01:15.606000,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,lec,ferrari,1.0,0 days 00:01:42.865000,0 days 00:01:42.046000,0 days 00:01:41.359000
+2022,8,Azerbaijan Grand Prix,2022-06-12,per,red_bull_racing,2.0,0 days 00:01:42.733000,0 days 00:01:41.955000,0 days 00:01:41.641000
+2022,8,Azerbaijan Grand Prix,2022-06-12,ver,red_bull_racing,3.0,0 days 00:01:42.722000,0 days 00:01:42.227000,0 days 00:01:41.706000
+2022,8,Azerbaijan Grand Prix,2022-06-12,sai,ferrari,4.0,0 days 00:01:42.957000,0 days 00:01:42.088000,0 days 00:01:41.814000
+2022,8,Azerbaijan Grand Prix,2022-06-12,rus,mercedes,5.0,0 days 00:01:43.754000,0 days 00:01:43.281000,0 days 00:01:42.712000
+2022,8,Azerbaijan Grand Prix,2022-06-12,gas,alphatauri,6.0,0 days 00:01:43.268000,0 days 00:01:43.129000,0 days 00:01:42.845000
+2022,8,Azerbaijan Grand Prix,2022-06-12,ham,mercedes,7.0,0 days 00:01:43.939000,0 days 00:01:43.182000,0 days 00:01:42.924000
+2022,8,Azerbaijan Grand Prix,2022-06-12,tsu,alphatauri,8.0,0 days 00:01:43.595000,0 days 00:01:43.376000,0 days 00:01:43.056000
+2022,8,Azerbaijan Grand Prix,2022-06-12,vet,aston_martin,9.0,0 days 00:01:43.279000,0 days 00:01:43.268000,0 days 00:01:43.091000
+2022,8,Azerbaijan Grand Prix,2022-06-12,alo,alpine,10.0,0 days 00:01:44.083000,0 days 00:01:43.360000,0 days 00:01:43.173000
+2022,8,Azerbaijan Grand Prix,2022-06-12,nor,mclaren,11.0,0 days 00:01:44.237000,0 days 00:01:43.398000,
+2022,8,Azerbaijan Grand Prix,2022-06-12,ric,mclaren,12.0,0 days 00:01:44.437000,0 days 00:01:43.574000,
+2022,8,Azerbaijan Grand Prix,2022-06-12,oco,alpine,13.0,0 days 00:01:43.903000,0 days 00:01:43.585000,
+2022,8,Azerbaijan Grand Prix,2022-06-12,zho,alfa_romeo,14.0,0 days 00:01:43.777000,0 days 00:01:43.790000,
+2022,8,Azerbaijan Grand Prix,2022-06-12,bot,alfa_romeo,15.0,0 days 00:01:44.478000,0 days 00:01:44.444000,
+2022,8,Azerbaijan Grand Prix,2022-06-12,mag,haas_f1_team,16.0,0 days 00:01:44.643000,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,alb,williams,17.0,0 days 00:01:44.719000,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,lat,williams,18.0,0 days 00:01:45.367000,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,str,aston_martin,19.0,0 days 00:01:45.371000,,
+2022,8,Azerbaijan Grand Prix,2022-06-12,msc,haas_f1_team,20.0,0 days 00:01:45.775000,,
+2022,9,Canadian Grand Prix,2022-06-19,ver,red_bull_racing,1.0,0 days 00:01:32.219000,0 days 00:01:23.746000,0 days 00:01:21.299000
+2022,9,Canadian Grand Prix,2022-06-19,alo,alpine,2.0,0 days 00:01:32.277000,0 days 00:01:24.848000,0 days 00:01:21.944000
+2022,9,Canadian Grand Prix,2022-06-19,sai,ferrari,3.0,0 days 00:01:32.781000,0 days 00:01:25.197000,0 days 00:01:22.096000
+2022,9,Canadian Grand Prix,2022-06-19,ham,mercedes,4.0,0 days 00:01:33.841000,0 days 00:01:25.543000,0 days 00:01:22.891000
+2022,9,Canadian Grand Prix,2022-06-19,mag,haas_f1_team,5.0,0 days 00:01:32.957000,0 days 00:01:26.254000,0 days 00:01:22.960000
+2022,9,Canadian Grand Prix,2022-06-19,msc,haas_f1_team,6.0,0 days 00:01:33.707000,0 days 00:01:25.684000,0 days 00:01:23.356000
+2022,9,Canadian Grand Prix,2022-06-19,oco,alpine,7.0,0 days 00:01:33.012000,0 days 00:01:26.135000,0 days 00:01:23.529000
+2022,9,Canadian Grand Prix,2022-06-19,rus,mercedes,8.0,0 days 00:01:33.160000,0 days 00:01:24.950000,0 days 00:01:23.557000
+2022,9,Canadian Grand Prix,2022-06-19,ric,mclaren,9.0,0 days 00:01:33.636000,0 days 00:01:26.375000,0 days 00:01:23.749000
+2022,9,Canadian Grand Prix,2022-06-19,zho,alfa_romeo,10.0,0 days 00:01:33.692000,0 days 00:01:26.116000,0 days 00:01:24.030000
+2022,9,Canadian Grand Prix,2022-06-19,bot,alfa_romeo,11.0,0 days 00:01:33.689000,0 days 00:01:26.788000,
+2022,9,Canadian Grand Prix,2022-06-19,alb,williams,12.0,0 days 00:01:34.047000,0 days 00:01:26.858000,
+2022,9,Canadian Grand Prix,2022-06-19,per,red_bull_racing,13.0,0 days 00:01:33.929000,0 days 00:01:33.127000,
+2022,9,Canadian Grand Prix,2022-06-19,nor,mclaren,14.0,0 days 00:01:34.066000,,
+2022,9,Canadian Grand Prix,2022-06-19,lec,ferrari,15.0,0 days 00:01:33.008000,,
+2022,9,Canadian Grand Prix,2022-06-19,gas,alphatauri,16.0,0 days 00:01:34.492000,,
+2022,9,Canadian Grand Prix,2022-06-19,vet,aston_martin,17.0,0 days 00:01:34.512000,,
+2022,9,Canadian Grand Prix,2022-06-19,str,aston_martin,18.0,0 days 00:01:35.532000,,
+2022,9,Canadian Grand Prix,2022-06-19,lat,williams,19.0,0 days 00:01:35.660000,,
+2022,9,Canadian Grand Prix,2022-06-19,tsu,alphatauri,20.0,0 days 00:01:36.575000,,
+2022,10,British Grand Prix,2022-07-03,sai,ferrari,1.0,0 days 00:01:40.190000,0 days 00:01:41.602000,0 days 00:01:40.983000
+2022,10,British Grand Prix,2022-07-03,ver,red_bull_racing,2.0,0 days 00:01:39.129000,0 days 00:01:40.655000,0 days 00:01:41.055000
+2022,10,British Grand Prix,2022-07-03,lec,ferrari,3.0,0 days 00:01:39.846000,0 days 00:01:41.247000,0 days 00:01:41.298000
+2022,10,British Grand Prix,2022-07-03,per,red_bull_racing,4.0,0 days 00:01:40.521000,0 days 00:01:42.513000,0 days 00:01:41.616000
+2022,10,British Grand Prix,2022-07-03,ham,mercedes,5.0,0 days 00:01:40.428000,0 days 00:01:41.062000,0 days 00:01:41.995000
+2022,10,British Grand Prix,2022-07-03,nor,mclaren,6.0,0 days 00:01:41.515000,0 days 00:01:41.821000,0 days 00:01:42.084000
+2022,10,British Grand Prix,2022-07-03,alo,alpine,7.0,0 days 00:01:41.598000,0 days 00:01:42.209000,0 days 00:01:42.116000
+2022,10,British Grand Prix,2022-07-03,rus,mercedes,8.0,0 days 00:01:40.028000,0 days 00:01:41.725000,0 days 00:01:42.161000
+2022,10,British Grand Prix,2022-07-03,zho,alfa_romeo,9.0,0 days 00:01:40.791000,0 days 00:01:42.640000,0 days 00:01:42.719000
+2022,10,British Grand Prix,2022-07-03,lat,williams,10.0,0 days 00:01:41.998000,0 days 00:01:43.273000,0 days 00:02:03.095000
+2022,10,British Grand Prix,2022-07-03,gas,alphatauri,11.0,0 days 00:01:41.680000,0 days 00:01:43.702000,
+2022,10,British Grand Prix,2022-07-03,bot,alfa_romeo,12.0,0 days 00:01:41.396000,0 days 00:01:44.232000,
+2022,10,British Grand Prix,2022-07-03,tsu,alphatauri,13.0,0 days 00:01:41.893000,0 days 00:01:44.311000,
+2022,10,British Grand Prix,2022-07-03,ric,mclaren,14.0,0 days 00:01:41.933000,0 days 00:01:44.355000,
+2022,10,British Grand Prix,2022-07-03,oco,alpine,15.0,0 days 00:01:41.730000,0 days 00:01:45.190000,
+2022,10,British Grand Prix,2022-07-03,alb,williams,16.0,0 days 00:01:42.078000,,
+2022,10,British Grand Prix,2022-07-03,mag,haas_f1_team,17.0,0 days 00:01:42.159000,,
+2022,10,British Grand Prix,2022-07-03,vet,aston_martin,18.0,0 days 00:01:42.666000,,
+2022,10,British Grand Prix,2022-07-03,msc,haas_f1_team,19.0,0 days 00:01:42.708000,,
+2022,10,British Grand Prix,2022-07-03,str,aston_martin,20.0,0 days 00:01:43.430000,,
+2022,11,Austrian Grand Prix,2022-07-10,ver,red_bull_racing,1.0,0 days 00:01:05.852000,0 days 00:01:05.374000,0 days 00:01:04.984000
+2022,11,Austrian Grand Prix,2022-07-10,lec,ferrari,2.0,0 days 00:01:05.419000,0 days 00:01:05.287000,0 days 00:01:05.013000
+2022,11,Austrian Grand Prix,2022-07-10,sai,ferrari,3.0,0 days 00:01:05.660000,0 days 00:01:05.576000,0 days 00:01:05.066000
+2022,11,Austrian Grand Prix,2022-07-10,rus,mercedes,4.0,0 days 00:01:06.235000,0 days 00:01:05.697000,0 days 00:01:05.431000
+2022,11,Austrian Grand Prix,2022-07-10,oco,alpine,5.0,0 days 00:01:06.468000,0 days 00:01:05.993000,0 days 00:01:05.726000
+2022,11,Austrian Grand Prix,2022-07-10,mag,haas_f1_team,6.0,0 days 00:01:06.366000,0 days 00:01:05.894000,0 days 00:01:05.879000
+2022,11,Austrian Grand Prix,2022-07-10,msc,haas_f1_team,7.0,0 days 00:01:06.405000,0 days 00:01:06.151000,0 days 00:01:06.011000
+2022,11,Austrian Grand Prix,2022-07-10,alo,alpine,8.0,0 days 00:01:06.016000,0 days 00:01:06.082000,0 days 00:01:06.103000
+2022,11,Austrian Grand Prix,2022-07-10,ham,mercedes,9.0,0 days 00:01:06.079000,0 days 00:01:05.475000,0 days 00:01:13.151000
+2022,11,Austrian Grand Prix,2022-07-10,gas,alphatauri,10.0,0 days 00:01:06.589000,0 days 00:01:06.160000,
+2022,11,Austrian Grand Prix,2022-07-10,alb,williams,11.0,0 days 00:01:06.516000,0 days 00:01:06.230000,
+2022,11,Austrian Grand Prix,2022-07-10,bot,alfa_romeo,12.0,0 days 00:01:06.442000,0 days 00:01:06.319000,
+2022,11,Austrian Grand Prix,2022-07-10,per,red_bull_racing,13.0,0 days 00:01:06.143000,0 days 00:01:06.458000,
+2022,11,Austrian Grand Prix,2022-07-10,tsu,alphatauri,14.0,0 days 00:01:06.463000,0 days 00:01:06.851000,
+2022,11,Austrian Grand Prix,2022-07-10,nor,mclaren,15.0,0 days 00:01:06.330000,0 days 00:01:25.847000,
+2022,11,Austrian Grand Prix,2022-07-10,ric,mclaren,16.0,0 days 00:01:06.613000,,
+2022,11,Austrian Grand Prix,2022-07-10,str,aston_martin,17.0,0 days 00:01:06.847000,,
+2022,11,Austrian Grand Prix,2022-07-10,zho,alfa_romeo,18.0,0 days 00:01:06.901000,,
+2022,11,Austrian Grand Prix,2022-07-10,lat,williams,19.0,0 days 00:01:07.003000,,
+2022,11,Austrian Grand Prix,2022-07-10,vet,aston_martin,20.0,0 days 00:01:07.083000,,
+2022,12,French Grand Prix,2022-07-24,lec,ferrari,1.0,0 days 00:01:31.727000,0 days 00:01:31.216000,0 days 00:01:30.872000
+2022,12,French Grand Prix,2022-07-24,ver,red_bull_racing,2.0,0 days 00:01:31.891000,0 days 00:01:31.990000,0 days 00:01:31.176000
+2022,12,French Grand Prix,2022-07-24,per,red_bull_racing,3.0,0 days 00:01:32.354000,0 days 00:01:32.120000,0 days 00:01:31.335000
+2022,12,French Grand Prix,2022-07-24,ham,mercedes,4.0,0 days 00:01:33.041000,0 days 00:01:32.274000,0 days 00:01:31.765000
+2022,12,French Grand Prix,2022-07-24,nor,mclaren,5.0,0 days 00:01:32.672000,0 days 00:01:32.777000,0 days 00:01:32.032000
+2022,12,French Grand Prix,2022-07-24,rus,mercedes,6.0,0 days 00:01:33.109000,0 days 00:01:32.633000,0 days 00:01:32.131000
+2022,12,French Grand Prix,2022-07-24,alo,alpine,7.0,0 days 00:01:32.819000,0 days 00:01:32.631000,0 days 00:01:32.552000
+2022,12,French Grand Prix,2022-07-24,tsu,alphatauri,8.0,0 days 00:01:33.394000,0 days 00:01:32.836000,0 days 00:01:32.780000
+2022,12,French Grand Prix,2022-07-24,sai,ferrari,9.0,0 days 00:01:32.297000,0 days 00:01:31.081000,
+2022,12,French Grand Prix,2022-07-24,mag,haas_f1_team,10.0,0 days 00:01:32.756000,0 days 00:01:32.649000,
+2022,12,French Grand Prix,2022-07-24,ric,mclaren,11.0,0 days 00:01:33.404000,0 days 00:01:32.922000,
+2022,12,French Grand Prix,2022-07-24,oco,alpine,12.0,0 days 00:01:33.346000,0 days 00:01:33.048000,
+2022,12,French Grand Prix,2022-07-24,bot,alfa_romeo,13.0,0 days 00:01:33.034000,0 days 00:01:33.052000,
+2022,12,French Grand Prix,2022-07-24,vet,aston_martin,14.0,0 days 00:01:33.285000,0 days 00:01:33.276000,
+2022,12,French Grand Prix,2022-07-24,alb,williams,15.0,0 days 00:01:33.423000,0 days 00:01:33.307000,
+2022,12,French Grand Prix,2022-07-24,gas,alphatauri,16.0,0 days 00:01:33.439000,,
+2022,12,French Grand Prix,2022-07-24,str,aston_martin,17.0,0 days 00:01:33.439000,,
+2022,12,French Grand Prix,2022-07-24,zho,alfa_romeo,18.0,0 days 00:01:33.674000,,
+2022,12,French Grand Prix,2022-07-24,msc,haas_f1_team,19.0,0 days 00:01:33.701000,,
+2022,12,French Grand Prix,2022-07-24,lat,williams,20.0,0 days 00:01:33.794000,,
+2022,13,Hungarian Grand Prix,2022-07-31,rus,mercedes,1.0,0 days 00:01:18.407000,0 days 00:01:18.154000,0 days 00:01:17.377000
+2022,13,Hungarian Grand Prix,2022-07-31,sai,ferrari,2.0,0 days 00:01:18.434000,0 days 00:01:17.946000,0 days 00:01:17.421000
+2022,13,Hungarian Grand Prix,2022-07-31,lec,ferrari,3.0,0 days 00:01:18.806000,0 days 00:01:17.768000,0 days 00:01:17.567000
+2022,13,Hungarian Grand Prix,2022-07-31,nor,mclaren,4.0,0 days 00:01:18.653000,0 days 00:01:18.121000,0 days 00:01:17.769000
+2022,13,Hungarian Grand Prix,2022-07-31,oco,alpine,5.0,0 days 00:01:18.866000,0 days 00:01:18.216000,0 days 00:01:18.018000
+2022,13,Hungarian Grand Prix,2022-07-31,alo,alpine,6.0,0 days 00:01:18.716000,0 days 00:01:17.904000,0 days 00:01:18.078000
+2022,13,Hungarian Grand Prix,2022-07-31,ham,mercedes,7.0,0 days 00:01:18.374000,0 days 00:01:18.035000,0 days 00:01:18.142000
+2022,13,Hungarian Grand Prix,2022-07-31,bot,alfa_romeo,8.0,0 days 00:01:18.935000,0 days 00:01:18.445000,0 days 00:01:18.157000
+2022,13,Hungarian Grand Prix,2022-07-31,ric,mclaren,9.0,0 days 00:01:18.775000,0 days 00:01:18.198000,0 days 00:01:18.379000
+2022,13,Hungarian Grand Prix,2022-07-31,ver,red_bull_racing,10.0,0 days 00:01:18.509000,0 days 00:01:17.703000,0 days 00:01:18.823000
+2022,13,Hungarian Grand Prix,2022-07-31,per,red_bull_racing,11.0,0 days 00:01:19.118000,0 days 00:01:18.516000,
+2022,13,Hungarian Grand Prix,2022-07-31,zho,alfa_romeo,12.0,0 days 00:01:18.973000,0 days 00:01:18.573000,
+2022,13,Hungarian Grand Prix,2022-07-31,mag,haas_f1_team,13.0,0 days 00:01:18.993000,0 days 00:01:18.825000,
+2022,13,Hungarian Grand Prix,2022-07-31,str,aston_martin,14.0,0 days 00:01:19.205000,0 days 00:01:19.137000,
+2022,13,Hungarian Grand Prix,2022-07-31,msc,haas_f1_team,15.0,0 days 00:01:19.164000,0 days 00:01:19.202000,
+2022,13,Hungarian Grand Prix,2022-07-31,tsu,alphatauri,16.0,0 days 00:01:19.240000,,
+2022,13,Hungarian Grand Prix,2022-07-31,alb,williams,17.0,0 days 00:01:19.256000,,
+2022,13,Hungarian Grand Prix,2022-07-31,vet,aston_martin,18.0,0 days 00:01:19.273000,,
+2022,13,Hungarian Grand Prix,2022-07-31,gas,alphatauri,19.0,0 days 00:01:19.527000,,
+2022,13,Hungarian Grand Prix,2022-07-31,lat,williams,20.0,0 days 00:01:19.570000,,
+2022,14,Belgian Grand Prix,2022-08-28,ver,red_bull_racing,1.0,0 days 00:01:44.581000,0 days 00:01:44.723000,0 days 00:01:43.665000
+2022,14,Belgian Grand Prix,2022-08-28,sai,ferrari,2.0,0 days 00:01:45.050000,0 days 00:01:45.418000,0 days 00:01:44.297000
+2022,14,Belgian Grand Prix,2022-08-28,per,red_bull_racing,3.0,0 days 00:01:45.377000,0 days 00:01:44.794000,0 days 00:01:44.462000
+2022,14,Belgian Grand Prix,2022-08-28,lec,ferrari,4.0,0 days 00:01:45.572000,0 days 00:01:44.551000,0 days 00:01:44.553000
+2022,14,Belgian Grand Prix,2022-08-28,oco,alpine,5.0,0 days 00:01:46.039000,0 days 00:01:45.475000,0 days 00:01:45.180000
+2022,14,Belgian Grand Prix,2022-08-28,alo,alpine,6.0,0 days 00:01:46.075000,0 days 00:01:45.552000,0 days 00:01:45.368000
+2022,14,Belgian Grand Prix,2022-08-28,ham,mercedes,7.0,0 days 00:01:45.736000,0 days 00:01:45.420000,0 days 00:01:45.503000
+2022,14,Belgian Grand Prix,2022-08-28,rus,mercedes,8.0,0 days 00:01:45.650000,0 days 00:01:45.461000,0 days 00:01:45.776000
+2022,14,Belgian Grand Prix,2022-08-28,alb,williams,9.0,0 days 00:01:45.672000,0 days 00:01:45.675000,0 days 00:01:45.837000
+2022,14,Belgian Grand Prix,2022-08-28,nor,mclaren,10.0,0 days 00:01:45.745000,0 days 00:01:45.603000,0 days 00:01:46.178000
+2022,14,Belgian Grand Prix,2022-08-28,ric,mclaren,11.0,0 days 00:01:46.212000,0 days 00:01:45.767000,
+2022,14,Belgian Grand Prix,2022-08-28,gas,alphatauri,12.0,0 days 00:01:46.183000,0 days 00:01:45.827000,
+2022,14,Belgian Grand Prix,2022-08-28,zho,alfa_romeo,13.0,0 days 00:01:46.178000,0 days 00:01:46.085000,
+2022,14,Belgian Grand Prix,2022-08-28,str,aston_martin,14.0,0 days 00:01:46.256000,0 days 00:01:46.611000,
+2022,14,Belgian Grand Prix,2022-08-28,msc,haas_f1_team,15.0,0 days 00:01:46.342000,0 days 00:01:47.718000,
+2022,14,Belgian Grand Prix,2022-08-28,vet,aston_martin,16.0,0 days 00:01:46.344000,,
+2022,14,Belgian Grand Prix,2022-08-28,lat,williams,17.0,0 days 00:01:46.401000,,
+2022,14,Belgian Grand Prix,2022-08-28,mag,haas_f1_team,18.0,0 days 00:01:46.557000,,
+2022,14,Belgian Grand Prix,2022-08-28,tsu,alphatauri,19.0,0 days 00:01:46.692000,,
+2022,14,Belgian Grand Prix,2022-08-28,bot,alfa_romeo,20.0,0 days 00:01:47.866000,,
+2022,15,Dutch Grand Prix,2022-09-04,ver,red_bull_racing,1.0,0 days 00:01:11.317000,0 days 00:01:10.927000,0 days 00:01:10.342000
+2022,15,Dutch Grand Prix,2022-09-04,lec,ferrari,2.0,0 days 00:01:11.443000,0 days 00:01:10.988000,0 days 00:01:10.363000
+2022,15,Dutch Grand Prix,2022-09-04,sai,ferrari,3.0,0 days 00:01:11.767000,0 days 00:01:10.814000,0 days 00:01:10.434000
+2022,15,Dutch Grand Prix,2022-09-04,ham,mercedes,4.0,0 days 00:01:11.331000,0 days 00:01:11.075000,0 days 00:01:10.648000
+2022,15,Dutch Grand Prix,2022-09-04,per,red_bull_racing,5.0,0 days 00:01:11.641000,0 days 00:01:11.314000,0 days 00:01:11.077000
+2022,15,Dutch Grand Prix,2022-09-04,rus,mercedes,6.0,0 days 00:01:11.561000,0 days 00:01:10.824000,0 days 00:01:11.147000
+2022,15,Dutch Grand Prix,2022-09-04,nor,mclaren,7.0,0 days 00:01:11.556000,0 days 00:01:11.116000,0 days 00:01:11.174000
+2022,15,Dutch Grand Prix,2022-09-04,msc,haas_f1_team,8.0,0 days 00:01:11.741000,0 days 00:01:11.420000,0 days 00:01:11.442000
+2022,15,Dutch Grand Prix,2022-09-04,tsu,alphatauri,9.0,0 days 00:01:11.427000,0 days 00:01:11.428000,0 days 00:01:12.556000
+2022,15,Dutch Grand Prix,2022-09-04,str,aston_martin,10.0,0 days 00:01:11.568000,0 days 00:01:11.416000,
+2022,15,Dutch Grand Prix,2022-09-04,gas,alphatauri,11.0,0 days 00:01:11.705000,0 days 00:01:11.512000,
+2022,15,Dutch Grand Prix,2022-09-04,oco,alpine,12.0,0 days 00:01:11.748000,0 days 00:01:11.605000,
+2022,15,Dutch Grand Prix,2022-09-04,alo,alpine,13.0,0 days 00:01:11.667000,0 days 00:01:11.613000,
+2022,15,Dutch Grand Prix,2022-09-04,zho,alfa_romeo,14.0,0 days 00:01:11.826000,0 days 00:01:11.704000,
+2022,15,Dutch Grand Prix,2022-09-04,alb,williams,15.0,0 days 00:01:11.695000,0 days 00:01:11.802000,
+2022,15,Dutch Grand Prix,2022-09-04,bot,alfa_romeo,16.0,0 days 00:01:11.961000,,
+2022,15,Dutch Grand Prix,2022-09-04,ric,mclaren,17.0,0 days 00:01:12.081000,,
+2022,15,Dutch Grand Prix,2022-09-04,mag,haas_f1_team,18.0,0 days 00:01:12.319000,,
+2022,15,Dutch Grand Prix,2022-09-04,vet,aston_martin,19.0,0 days 00:01:12.391000,,
+2022,15,Dutch Grand Prix,2022-09-04,lat,williams,20.0,0 days 00:01:13.353000,,
+2022,16,Italian Grand Prix,2022-09-11,lec,ferrari,1.0,0 days 00:01:21.280000,0 days 00:01:21.208000,0 days 00:01:20.161000
+2022,16,Italian Grand Prix,2022-09-11,ver,red_bull_racing,2.0,0 days 00:01:20.922000,0 days 00:01:21.265000,0 days 00:01:20.306000
+2022,16,Italian Grand Prix,2022-09-11,sai,ferrari,3.0,0 days 00:01:21.348000,0 days 00:01:20.878000,0 days 00:01:20.429000
+2022,16,Italian Grand Prix,2022-09-11,per,red_bull_racing,4.0,0 days 00:01:21.495000,0 days 00:01:21.358000,0 days 00:01:21.206000
+2022,16,Italian Grand Prix,2022-09-11,ham,mercedes,5.0,0 days 00:01:22.048000,0 days 00:01:21.708000,0 days 00:01:21.524000
+2022,16,Italian Grand Prix,2022-09-11,rus,mercedes,6.0,0 days 00:01:21.785000,0 days 00:01:21.747000,0 days 00:01:21.542000
+2022,16,Italian Grand Prix,2022-09-11,nor,mclaren,7.0,0 days 00:01:22.130000,0 days 00:01:21.831000,0 days 00:01:21.584000
+2022,16,Italian Grand Prix,2022-09-11,ric,mclaren,8.0,0 days 00:01:22.139000,0 days 00:01:21.855000,0 days 00:01:21.925000
+2022,16,Italian Grand Prix,2022-09-11,gas,alphatauri,9.0,0 days 00:01:22.010000,0 days 00:01:22.062000,0 days 00:01:22.648000
+2022,16,Italian Grand Prix,2022-09-11,alo,alpine,10.0,0 days 00:01:22.089000,0 days 00:01:21.861000,
+2022,16,Italian Grand Prix,2022-09-11,oco,alpine,11.0,0 days 00:01:22.166000,0 days 00:01:22.130000,
+2022,16,Italian Grand Prix,2022-09-11,bot,alfa_romeo,12.0,0 days 00:01:22.254000,0 days 00:01:22.235000,
+2022,16,Italian Grand Prix,2022-09-11,dev,williams,13.0,0 days 00:01:22.567000,0 days 00:01:22.471000,
+2022,16,Italian Grand Prix,2022-09-11,zho,alfa_romeo,14.0,0 days 00:01:22.003000,0 days 00:01:22.577000,
+2022,16,Italian Grand Prix,2022-09-11,tsu,alphatauri,15.0,0 days 00:01:22.020000,,
+2022,16,Italian Grand Prix,2022-09-11,lat,williams,16.0,0 days 00:01:22.587000,,
+2022,16,Italian Grand Prix,2022-09-11,vet,aston_martin,17.0,0 days 00:01:22.636000,,
+2022,16,Italian Grand Prix,2022-09-11,str,aston_martin,18.0,0 days 00:01:22.748000,,
+2022,16,Italian Grand Prix,2022-09-11,mag,haas_f1_team,19.0,0 days 00:01:22.908000,,
+2022,16,Italian Grand Prix,2022-09-11,msc,haas_f1_team,20.0,0 days 00:01:23.005000,,
+2022,17,Singapore Grand Prix,2022-10-02,lec,ferrari,1.0,0 days 00:01:54.129000,0 days 00:01:52.343000,0 days 00:01:49.412000
+2022,17,Singapore Grand Prix,2022-10-02,per,red_bull_racing,2.0,0 days 00:01:54.404000,0 days 00:01:52.818000,0 days 00:01:49.434000
+2022,17,Singapore Grand Prix,2022-10-02,ham,mercedes,3.0,0 days 00:01:53.161000,0 days 00:01:52.691000,0 days 00:01:49.466000
+2022,17,Singapore Grand Prix,2022-10-02,sai,ferrari,4.0,0 days 00:01:54.559000,0 days 00:01:53.219000,0 days 00:01:49.583000
+2022,17,Singapore Grand Prix,2022-10-02,alo,alpine,5.0,0 days 00:01:55.360000,0 days 00:01:53.127000,0 days 00:01:49.966000
+2022,17,Singapore Grand Prix,2022-10-02,nor,mclaren,6.0,0 days 00:01:55.914000,0 days 00:01:53.942000,0 days 00:01:50.584000
+2022,17,Singapore Grand Prix,2022-10-02,gas,alphatauri,7.0,0 days 00:01:55.606000,0 days 00:01:53.546000,0 days 00:01:51.211000
+2022,17,Singapore Grand Prix,2022-10-02,ver,red_bull_racing,8.0,0 days 00:01:53.057000,0 days 00:01:52.723000,0 days 00:01:51.395000
+2022,17,Singapore Grand Prix,2022-10-02,mag,haas_f1_team,9.0,0 days 00:01:55.103000,0 days 00:01:54.006000,0 days 00:01:51.573000
+2022,17,Singapore Grand Prix,2022-10-02,tsu,alphatauri,10.0,0 days 00:01:55.314000,0 days 00:01:53.848000,0 days 00:01:51.983000
+2022,17,Singapore Grand Prix,2022-10-02,rus,mercedes,11.0,0 days 00:01:54.633000,0 days 00:01:54.012000,
+2022,17,Singapore Grand Prix,2022-10-02,str,aston_martin,12.0,0 days 00:01:55.629000,0 days 00:01:54.211000,
+2022,17,Singapore Grand Prix,2022-10-02,msc,haas_f1_team,13.0,0 days 00:01:55.736000,0 days 00:01:54.370000,
+2022,17,Singapore Grand Prix,2022-10-02,vet,aston_martin,14.0,0 days 00:01:55.602000,0 days 00:01:54.380000,
+2022,17,Singapore Grand Prix,2022-10-02,zho,alfa_romeo,15.0,0 days 00:01:55.375000,0 days 00:01:55.518000,
+2022,17,Singapore Grand Prix,2022-10-02,bot,alfa_romeo,16.0,0 days 00:01:56.083000,,
+2022,17,Singapore Grand Prix,2022-10-02,ric,mclaren,17.0,0 days 00:01:56.226000,,
+2022,17,Singapore Grand Prix,2022-10-02,oco,alpine,18.0,0 days 00:01:56.337000,,
+2022,17,Singapore Grand Prix,2022-10-02,alb,williams,19.0,0 days 00:01:56.985000,,
+2022,17,Singapore Grand Prix,2022-10-02,lat,williams,20.0,0 days 00:01:57.532000,,
+2022,18,Japanese Grand Prix,2022-10-09,ver,red_bull_racing,1.0,0 days 00:01:30.224000,0 days 00:01:30.346000,0 days 00:01:29.304000
+2022,18,Japanese Grand Prix,2022-10-09,lec,ferrari,2.0,0 days 00:01:30.402000,0 days 00:01:30.486000,0 days 00:01:29.314000
+2022,18,Japanese Grand Prix,2022-10-09,sai,ferrari,3.0,0 days 00:01:30.336000,0 days 00:01:30.444000,0 days 00:01:29.361000
+2022,18,Japanese Grand Prix,2022-10-09,per,red_bull_racing,4.0,0 days 00:01:30.622000,0 days 00:01:29.925000,0 days 00:01:29.709000
+2022,18,Japanese Grand Prix,2022-10-09,oco,alpine,5.0,0 days 00:01:30.696000,0 days 00:01:30.357000,0 days 00:01:30.165000
+2022,18,Japanese Grand Prix,2022-10-09,ham,mercedes,6.0,0 days 00:01:30.906000,0 days 00:01:30.443000,0 days 00:01:30.261000
+2022,18,Japanese Grand Prix,2022-10-09,alo,alpine,7.0,0 days 00:01:30.603000,0 days 00:01:30.343000,0 days 00:01:30.322000
+2022,18,Japanese Grand Prix,2022-10-09,rus,mercedes,8.0,0 days 00:01:30.865000,0 days 00:01:30.465000,0 days 00:01:30.389000
+2022,18,Japanese Grand Prix,2022-10-09,vet,aston_martin,9.0,0 days 00:01:31.256000,0 days 00:01:30.656000,0 days 00:01:30.554000
+2022,18,Japanese Grand Prix,2022-10-09,nor,mclaren,10.0,0 days 00:01:30.881000,0 days 00:01:30.473000,0 days 00:01:31.003000
+2022,18,Japanese Grand Prix,2022-10-09,ric,mclaren,11.0,0 days 00:01:30.880000,0 days 00:01:30.659000,
+2022,18,Japanese Grand Prix,2022-10-09,bot,alfa_romeo,12.0,0 days 00:01:31.226000,0 days 00:01:30.709000,
+2022,18,Japanese Grand Prix,2022-10-09,tsu,alphatauri,13.0,0 days 00:01:31.130000,0 days 00:01:30.808000,
+2022,18,Japanese Grand Prix,2022-10-09,zho,alfa_romeo,14.0,0 days 00:01:30.894000,0 days 00:01:30.953000,
+2022,18,Japanese Grand Prix,2022-10-09,msc,haas_f1_team,15.0,0 days 00:01:31.152000,0 days 00:01:31.439000,
+2022,18,Japanese Grand Prix,2022-10-09,alb,williams,16.0,0 days 00:01:31.311000,,
+2022,18,Japanese Grand Prix,2022-10-09,gas,alphatauri,17.0,0 days 00:01:31.322000,,
+2022,18,Japanese Grand Prix,2022-10-09,mag,haas_f1_team,18.0,0 days 00:01:31.352000,,
+2022,18,Japanese Grand Prix,2022-10-09,str,aston_martin,19.0,0 days 00:01:31.419000,,
+2022,18,Japanese Grand Prix,2022-10-09,lat,williams,20.0,0 days 00:01:31.511000,,
+2022,19,United States Grand Prix,2022-10-23,sai,ferrari,1.0,0 days 00:01:35.297000,0 days 00:01:35.590000,0 days 00:01:34.356000
+2022,19,United States Grand Prix,2022-10-23,lec,ferrari,2.0,0 days 00:01:35.795000,0 days 00:01:35.246000,0 days 00:01:34.421000
+2022,19,United States Grand Prix,2022-10-23,ver,red_bull_racing,3.0,0 days 00:01:35.864000,0 days 00:01:35.294000,0 days 00:01:34.448000
+2022,19,United States Grand Prix,2022-10-23,per,red_bull_racing,4.0,0 days 00:01:36.163000,0 days 00:01:35.864000,0 days 00:01:34.645000
+2022,19,United States Grand Prix,2022-10-23,ham,mercedes,5.0,0 days 00:01:36.148000,0 days 00:01:35.732000,0 days 00:01:34.947000
+2022,19,United States Grand Prix,2022-10-23,rus,mercedes,6.0,0 days 00:01:36.195000,0 days 00:01:35.692000,0 days 00:01:34.988000
+2022,19,United States Grand Prix,2022-10-23,str,aston_martin,7.0,0 days 00:01:36.860000,0 days 00:01:36.032000,0 days 00:01:35.598000
+2022,19,United States Grand Prix,2022-10-23,nor,mclaren,8.0,0 days 00:01:36.465000,0 days 00:01:36.341000,0 days 00:01:35.690000
+2022,19,United States Grand Prix,2022-10-23,alo,alpine,9.0,0 days 00:01:36.446000,0 days 00:01:35.988000,0 days 00:01:35.876000
+2022,19,United States Grand Prix,2022-10-23,bot,alfa_romeo,10.0,0 days 00:01:36.746000,0 days 00:01:36.321000,0 days 00:01:36.319000
+2022,19,United States Grand Prix,2022-10-23,alb,williams,11.0,0 days 00:01:36.932000,0 days 00:01:36.368000,
+2022,19,United States Grand Prix,2022-10-23,vet,aston_martin,12.0,0 days 00:01:36.695000,0 days 00:01:36.398000,
+2022,19,United States Grand Prix,2022-10-23,gas,alphatauri,13.0,0 days 00:01:36.577000,0 days 00:01:36.740000,
+2022,19,United States Grand Prix,2022-10-23,zho,alfa_romeo,14.0,0 days 00:01:36.656000,0 days 00:01:36.970000,
+2022,19,United States Grand Prix,2022-10-23,tsu,alphatauri,15.0,0 days 00:01:36.808000,0 days 00:01:37.147000,
+2022,19,United States Grand Prix,2022-10-23,mag,haas_f1_team,16.0,0 days 00:01:36.949000,,
+2022,19,United States Grand Prix,2022-10-23,ric,mclaren,17.0,0 days 00:01:37.046000,,
+2022,19,United States Grand Prix,2022-10-23,oco,alpine,18.0,0 days 00:01:37.068000,,
+2022,19,United States Grand Prix,2022-10-23,msc,haas_f1_team,19.0,0 days 00:01:37.111000,,
+2022,19,United States Grand Prix,2022-10-23,lat,williams,20.0,0 days 00:01:37.244000,,
+2022,20,Mexico City Grand Prix,2022-10-30,ver,red_bull_racing,1.0,0 days 00:01:19.222000,0 days 00:01:18.566000,0 days 00:01:17.775000
+2022,20,Mexico City Grand Prix,2022-10-30,rus,mercedes,2.0,0 days 00:01:19.583000,0 days 00:01:18.565000,0 days 00:01:18.079000
+2022,20,Mexico City Grand Prix,2022-10-30,ham,mercedes,3.0,0 days 00:01:19.169000,0 days 00:01:18.552000,0 days 00:01:18.084000
+2022,20,Mexico City Grand Prix,2022-10-30,per,red_bull_racing,4.0,0 days 00:01:19.706000,0 days 00:01:18.615000,0 days 00:01:18.128000
+2022,20,Mexico City Grand Prix,2022-10-30,sai,ferrari,5.0,0 days 00:01:19.566000,0 days 00:01:18.560000,0 days 00:01:18.351000
+2022,20,Mexico City Grand Prix,2022-10-30,bot,alfa_romeo,6.0,0 days 00:01:19.523000,0 days 00:01:18.762000,0 days 00:01:18.401000
+2022,20,Mexico City Grand Prix,2022-10-30,lec,ferrari,7.0,0 days 00:01:19.505000,0 days 00:01:19.109000,0 days 00:01:18.555000
+2022,20,Mexico City Grand Prix,2022-10-30,nor,mclaren,8.0,0 days 00:01:19.857000,0 days 00:01:19.119000,0 days 00:01:18.721000
+2022,20,Mexico City Grand Prix,2022-10-30,alo,alpine,9.0,0 days 00:01:20.006000,0 days 00:01:19.272000,0 days 00:01:18.939000
+2022,20,Mexico City Grand Prix,2022-10-30,oco,alpine,10.0,0 days 00:01:19.945000,0 days 00:01:19.081000,0 days 00:01:19.010000
+2022,20,Mexico City Grand Prix,2022-10-30,ric,mclaren,11.0,0 days 00:01:20.279000,0 days 00:01:19.325000,
+2022,20,Mexico City Grand Prix,2022-10-30,zho,alfa_romeo,12.0,0 days 00:01:20.283000,0 days 00:01:19.476000,
+2022,20,Mexico City Grand Prix,2022-10-30,tsu,alphatauri,13.0,0 days 00:01:19.907000,0 days 00:01:19.589000,
+2022,20,Mexico City Grand Prix,2022-10-30,gas,alphatauri,14.0,0 days 00:01:20.256000,0 days 00:01:19.672000,
+2022,20,Mexico City Grand Prix,2022-10-30,mag,haas_f1_team,15.0,0 days 00:01:20.293000,0 days 00:01:19.833000,
+2022,20,Mexico City Grand Prix,2022-10-30,msc,haas_f1_team,16.0,0 days 00:01:20.419000,,
+2022,20,Mexico City Grand Prix,2022-10-30,vet,aston_martin,17.0,0 days 00:01:20.419000,,
+2022,20,Mexico City Grand Prix,2022-10-30,str,aston_martin,18.0,0 days 00:01:20.520000,,
+2022,20,Mexico City Grand Prix,2022-10-30,alb,williams,19.0,0 days 00:01:20.859000,,
+2022,20,Mexico City Grand Prix,2022-10-30,lat,williams,20.0,0 days 00:01:21.167000,,
+2022,21,São Paulo Grand Prix,2022-11-13,mag,haas_f1_team,1.0,0 days 00:01:13.954000,0 days 00:01:11.410000,0 days 00:01:11.674000
+2022,21,São Paulo Grand Prix,2022-11-13,ver,red_bull_racing,2.0,0 days 00:01:13.625000,0 days 00:01:10.881000,0 days 00:01:11.877000
+2022,21,São Paulo Grand Prix,2022-11-13,rus,mercedes,3.0,0 days 00:01:14.427000,0 days 00:01:11.318000,0 days 00:01:12.059000
+2022,21,São Paulo Grand Prix,2022-11-13,nor,mclaren,4.0,0 days 00:01:13.106000,0 days 00:01:11.377000,0 days 00:01:12.263000
+2022,21,São Paulo Grand Prix,2022-11-13,sai,ferrari,5.0,0 days 00:01:14.680000,0 days 00:01:10.890000,0 days 00:01:12.357000
+2022,21,São Paulo Grand Prix,2022-11-13,oco,alpine,6.0,0 days 00:01:14.663000,0 days 00:01:11.587000,0 days 00:01:12.425000
+2022,21,São Paulo Grand Prix,2022-11-13,alo,alpine,7.0,0 days 00:01:13.542000,0 days 00:01:11.394000,0 days 00:01:12.504000
+2022,21,São Paulo Grand Prix,2022-11-13,ham,mercedes,8.0,0 days 00:01:13.403000,0 days 00:01:11.539000,0 days 00:01:12.611000
+2022,21,São Paulo Grand Prix,2022-11-13,per,red_bull_racing,9.0,0 days 00:01:13.613000,0 days 00:01:11.456000,0 days 00:01:15.601000
+2022,21,São Paulo Grand Prix,2022-11-13,lec,ferrari,10.0,0 days 00:01:14.486000,0 days 00:01:10.950000,
+2022,21,São Paulo Grand Prix,2022-11-13,alb,williams,11.0,0 days 00:01:14.324000,0 days 00:01:11.631000,
+2022,21,São Paulo Grand Prix,2022-11-13,gas,alphatauri,12.0,0 days 00:01:14.371000,0 days 00:01:11.675000,
+2022,21,São Paulo Grand Prix,2022-11-13,vet,aston_martin,13.0,0 days 00:01:13.597000,0 days 00:01:11.678000,
+2022,21,São Paulo Grand Prix,2022-11-13,ric,mclaren,14.0,0 days 00:01:14.931000,0 days 00:01:12.140000,
+2022,21,São Paulo Grand Prix,2022-11-13,str,aston_martin,15.0,0 days 00:01:14.398000,0 days 00:01:12.210000,
+2022,21,São Paulo Grand Prix,2022-11-13,lat,williams,16.0,0 days 00:01:15.095000,,
+2022,21,São Paulo Grand Prix,2022-11-13,zho,alfa_romeo,17.0,0 days 00:01:15.197000,,
+2022,21,São Paulo Grand Prix,2022-11-13,bot,alfa_romeo,18.0,0 days 00:01:15.486000,,
+2022,21,São Paulo Grand Prix,2022-11-13,tsu,alphatauri,19.0,0 days 00:01:16.264000,,
+2022,21,São Paulo Grand Prix,2022-11-13,msc,haas_f1_team,20.0,0 days 00:01:16.361000,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,ver,red_bull_racing,1.0,0 days 00:01:24.754000,0 days 00:01:24.622000,0 days 00:01:23.824000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,per,red_bull_racing,2.0,0 days 00:01:24.820000,0 days 00:01:24.419000,0 days 00:01:24.052000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,lec,ferrari,3.0,0 days 00:01:25.211000,0 days 00:01:24.517000,0 days 00:01:24.092000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,sai,ferrari,4.0,0 days 00:01:25.090000,0 days 00:01:24.521000,0 days 00:01:24.242000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,ham,mercedes,5.0,0 days 00:01:25.594000,0 days 00:01:24.774000,0 days 00:01:24.508000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,rus,mercedes,6.0,0 days 00:01:25.545000,0 days 00:01:24.940000,0 days 00:01:24.511000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,nor,mclaren,7.0,0 days 00:01:25.387000,0 days 00:01:24.903000,0 days 00:01:24.769000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,oco,alpine,8.0,0 days 00:01:25.735000,0 days 00:01:25.007000,0 days 00:01:24.830000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,vet,aston_martin,9.0,0 days 00:01:25.523000,0 days 00:01:24.974000,0 days 00:01:24.961000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,ric,mclaren,10.0,0 days 00:01:25.766000,0 days 00:01:25.068000,0 days 00:01:25.045000
+2022,22,Abu Dhabi Grand Prix,2022-11-20,alo,alpine,11.0,0 days 00:01:25.782000,0 days 00:01:25.096000,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,tsu,alphatauri,12.0,0 days 00:01:25.630000,0 days 00:01:25.219000,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,msc,haas_f1_team,13.0,0 days 00:01:25.711000,0 days 00:01:25.225000,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,str,aston_martin,14.0,0 days 00:01:25.741000,0 days 00:01:25.359000,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,zho,alfa_romeo,15.0,0 days 00:01:25.594000,0 days 00:01:25.408000,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,mag,haas_f1_team,16.0,0 days 00:01:25.834000,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,gas,alphatauri,17.0,0 days 00:01:25.859000,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,bot,alfa_romeo,18.0,0 days 00:01:25.892000,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,alb,williams,19.0,0 days 00:01:26.028000,,
+2022,22,Abu Dhabi Grand Prix,2022-11-20,lat,williams,20.0,0 days 00:01:26.054000,,
+2023,1,Bahrain Grand Prix,2023-03-05,ver,red_bull_racing,1.0,0 days 00:01:31.295000,0 days 00:01:30.503000,0 days 00:01:29.708000
+2023,1,Bahrain Grand Prix,2023-03-05,per,red_bull_racing,2.0,0 days 00:01:31.479000,0 days 00:01:30.746000,0 days 00:01:29.846000
+2023,1,Bahrain Grand Prix,2023-03-05,lec,ferrari,3.0,0 days 00:01:31.094000,0 days 00:01:30.282000,0 days 00:01:30
+2023,1,Bahrain Grand Prix,2023-03-05,sai,ferrari,4.0,0 days 00:01:30.993000,0 days 00:01:30.515000,0 days 00:01:30.154000
+2023,1,Bahrain Grand Prix,2023-03-05,alo,aston_martin,5.0,0 days 00:01:31.158000,0 days 00:01:30.645000,0 days 00:01:30.336000
+2023,1,Bahrain Grand Prix,2023-03-05,rus,mercedes,6.0,0 days 00:01:31.057000,0 days 00:01:30.507000,0 days 00:01:30.340000
+2023,1,Bahrain Grand Prix,2023-03-05,ham,mercedes,7.0,0 days 00:01:31.543000,0 days 00:01:30.513000,0 days 00:01:30.384000
+2023,1,Bahrain Grand Prix,2023-03-05,str,aston_martin,8.0,0 days 00:01:31.184000,0 days 00:01:31.127000,0 days 00:01:30.836000
+2023,1,Bahrain Grand Prix,2023-03-05,oco,alpine,9.0,0 days 00:01:31.508000,0 days 00:01:30.914000,0 days 00:01:30.984000
+2023,1,Bahrain Grand Prix,2023-03-05,hul,haas_f1_team,10.0,0 days 00:01:31.204000,0 days 00:01:30.809000,
+2023,1,Bahrain Grand Prix,2023-03-05,nor,mclaren,11.0,0 days 00:01:31.652000,0 days 00:01:31.381000,
+2023,1,Bahrain Grand Prix,2023-03-05,bot,alfa_romeo,12.0,0 days 00:01:31.504000,0 days 00:01:31.443000,
+2023,1,Bahrain Grand Prix,2023-03-05,zho,alfa_romeo,13.0,0 days 00:01:31.615000,0 days 00:01:31.473000,
+2023,1,Bahrain Grand Prix,2023-03-05,tsu,alphatauri,14.0,0 days 00:01:31.400000,0 days 00:01:32.510000,
+2023,1,Bahrain Grand Prix,2023-03-05,alb,williams,15.0,0 days 00:01:31.461000,,
+2023,1,Bahrain Grand Prix,2023-03-05,sar,williams,16.0,0 days 00:01:31.652000,,
+2023,1,Bahrain Grand Prix,2023-03-05,mag,haas_f1_team,17.0,0 days 00:01:31.892000,,
+2023,1,Bahrain Grand Prix,2023-03-05,pia,mclaren,18.0,0 days 00:01:32.101000,,
+2023,1,Bahrain Grand Prix,2023-03-05,dev,alphatauri,19.0,0 days 00:01:32.121000,,
+2023,1,Bahrain Grand Prix,2023-03-05,gas,alpine,20.0,0 days 00:01:32.181000,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,per,red_bull_racing,1.0,0 days 00:01:29.244000,0 days 00:01:28.635000,0 days 00:01:28.265000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,lec,ferrari,2.0,0 days 00:01:29.376000,0 days 00:01:28.903000,0 days 00:01:28.420000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,alo,aston_martin,3.0,0 days 00:01:29.298000,0 days 00:01:28.757000,0 days 00:01:28.730000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,rus,mercedes,4.0,0 days 00:01:29.592000,0 days 00:01:29.132000,0 days 00:01:28.857000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,sai,ferrari,5.0,0 days 00:01:29.411000,0 days 00:01:28.957000,0 days 00:01:28.931000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,str,aston_martin,6.0,0 days 00:01:29.335000,0 days 00:01:28.962000,0 days 00:01:28.945000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,oco,alpine,7.0,0 days 00:01:29.707000,0 days 00:01:29.255000,0 days 00:01:29.078000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,ham,mercedes,8.0,0 days 00:01:29.689000,0 days 00:01:29.374000,0 days 00:01:29.223000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,pia,mclaren,9.0,0 days 00:01:29.706000,0 days 00:01:29.378000,0 days 00:01:29.243000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,gas,alpine,10.0,0 days 00:01:29.890000,0 days 00:01:29.411000,0 days 00:01:29.357000
+2023,2,Saudi Arabian Grand Prix,2023-03-19,hul,haas_f1_team,11.0,0 days 00:01:29.547000,0 days 00:01:29.451000,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,zho,alfa_romeo,12.0,0 days 00:01:29.654000,0 days 00:01:29.461000,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,mag,haas_f1_team,13.0,0 days 00:01:29.744000,0 days 00:01:29.634000,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,bot,alfa_romeo,14.0,0 days 00:01:29.929000,0 days 00:01:29.668000,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,ver,red_bull_racing,15.0,0 days 00:01:28.761000,0 days 00:01:49.953000,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,tsu,alphatauri,16.0,0 days 00:01:29.939000,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,alb,williams,17.0,0 days 00:01:29.994000,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,dev,alphatauri,18.0,0 days 00:01:30.244000,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,nor,mclaren,19.0,0 days 00:01:30.447000,,
+2023,2,Saudi Arabian Grand Prix,2023-03-19,sar,williams,20.0,0 days 00:02:08.510000,,
+2023,3,Australian Grand Prix,2023-04-02,ver,red_bull_racing,1.0,0 days 00:01:17.384000,0 days 00:01:17.056000,0 days 00:01:16.732000
+2023,3,Australian Grand Prix,2023-04-02,rus,mercedes,2.0,0 days 00:01:17.654000,0 days 00:01:17.513000,0 days 00:01:16.968000
+2023,3,Australian Grand Prix,2023-04-02,ham,mercedes,3.0,0 days 00:01:17.689000,0 days 00:01:17.551000,0 days 00:01:17.104000
+2023,3,Australian Grand Prix,2023-04-02,alo,aston_martin,4.0,0 days 00:01:17.832000,0 days 00:01:17.283000,0 days 00:01:17.139000
+2023,3,Australian Grand Prix,2023-04-02,sai,ferrari,5.0,0 days 00:01:17.928000,0 days 00:01:17.349000,0 days 00:01:17.270000
+2023,3,Australian Grand Prix,2023-04-02,str,aston_martin,6.0,0 days 00:01:17.873000,0 days 00:01:17.616000,0 days 00:01:17.308000
+2023,3,Australian Grand Prix,2023-04-02,lec,ferrari,7.0,0 days 00:01:18.218000,0 days 00:01:17.390000,0 days 00:01:17.369000
+2023,3,Australian Grand Prix,2023-04-02,alb,williams,8.0,0 days 00:01:17.962000,0 days 00:01:17.761000,0 days 00:01:17.609000
+2023,3,Australian Grand Prix,2023-04-02,gas,alpine,9.0,0 days 00:01:18.312000,0 days 00:01:17.574000,0 days 00:01:17.675000
+2023,3,Australian Grand Prix,2023-04-02,hul,haas_f1_team,10.0,0 days 00:01:18.029000,0 days 00:01:17.412000,0 days 00:01:17.735000
+2023,3,Australian Grand Prix,2023-04-02,oco,alpine,11.0,0 days 00:01:17.770000,0 days 00:01:17.768000,
+2023,3,Australian Grand Prix,2023-04-02,tsu,alphatauri,12.0,0 days 00:01:18.471000,0 days 00:01:18.099000,
+2023,3,Australian Grand Prix,2023-04-02,nor,mclaren,13.0,0 days 00:01:18.243000,0 days 00:01:18.119000,
+2023,3,Australian Grand Prix,2023-04-02,mag,haas_f1_team,14.0,0 days 00:01:18.159000,0 days 00:01:18.129000,
+2023,3,Australian Grand Prix,2023-04-02,dev,alphatauri,15.0,0 days 00:01:18.450000,0 days 00:01:18.335000,
+2023,3,Australian Grand Prix,2023-04-02,pia,mclaren,16.0,0 days 00:01:18.517000,,
+2023,3,Australian Grand Prix,2023-04-02,zho,alfa_romeo,17.0,0 days 00:01:18.540000,,
+2023,3,Australian Grand Prix,2023-04-02,sar,williams,18.0,0 days 00:01:18.557000,,
+2023,3,Australian Grand Prix,2023-04-02,bot,alfa_romeo,19.0,0 days 00:01:18.714000,,
+2023,3,Australian Grand Prix,2023-04-02,per,red_bull_racing,20.0,,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,lec,ferrari,1.0,0 days 00:01:41.269000,0 days 00:01:41.037000,0 days 00:01:40.203000
+2023,4,Azerbaijan Grand Prix,2023-04-30,ver,red_bull_racing,2.0,0 days 00:01:41.398000,0 days 00:01:40.822000,0 days 00:01:40.391000
+2023,4,Azerbaijan Grand Prix,2023-04-30,per,red_bull_racing,3.0,0 days 00:01:41.131000,0 days 00:01:41.131000,0 days 00:01:40.495000
+2023,4,Azerbaijan Grand Prix,2023-04-30,sai,ferrari,4.0,0 days 00:01:42.197000,0 days 00:01:41.016000,0 days 00:01:41.016000
+2023,4,Azerbaijan Grand Prix,2023-04-30,ham,mercedes,5.0,0 days 00:01:42.113000,0 days 00:01:41.177000,0 days 00:01:41.177000
+2023,4,Azerbaijan Grand Prix,2023-04-30,alo,aston_martin,6.0,0 days 00:01:41.720000,0 days 00:01:41.370000,0 days 00:01:41.253000
+2023,4,Azerbaijan Grand Prix,2023-04-30,nor,mclaren,7.0,0 days 00:01:42.154000,0 days 00:01:41.485000,0 days 00:01:41.281000
+2023,4,Azerbaijan Grand Prix,2023-04-30,tsu,alphatauri,8.0,0 days 00:01:42.234000,0 days 00:01:41.569000,0 days 00:01:41.581000
+2023,4,Azerbaijan Grand Prix,2023-04-30,str,aston_martin,9.0,0 days 00:01:42.524000,0 days 00:01:41.576000,0 days 00:01:41.611000
+2023,4,Azerbaijan Grand Prix,2023-04-30,pia,mclaren,10.0,0 days 00:01:42.455000,0 days 00:01:41.636000,0 days 00:01:41.611000
+2023,4,Azerbaijan Grand Prix,2023-04-30,rus,mercedes,11.0,0 days 00:01:42.073000,0 days 00:01:41.654000,
+2023,4,Azerbaijan Grand Prix,2023-04-30,oco,alpine,12.0,0 days 00:01:42.622000,0 days 00:01:41.798000,
+2023,4,Azerbaijan Grand Prix,2023-04-30,alb,williams,13.0,0 days 00:01:42.171000,0 days 00:01:41.818000,
+2023,4,Azerbaijan Grand Prix,2023-04-30,bot,alfa_romeo,14.0,0 days 00:01:42.582000,0 days 00:01:42.259000,
+2023,4,Azerbaijan Grand Prix,2023-04-30,sar,williams,15.0,0 days 00:01:42.242000,0 days 00:01:42.395000,
+2023,4,Azerbaijan Grand Prix,2023-04-30,zho,alfa_romeo,16.0,0 days 00:01:42.642000,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,hul,haas_f1_team,17.0,0 days 00:01:42.755000,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,mag,haas_f1_team,18.0,0 days 00:01:43.417000,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,gas,alpine,19.0,0 days 00:01:44.853000,,
+2023,4,Azerbaijan Grand Prix,2023-04-30,dev,alphatauri,20.0,0 days 00:01:55.282000,,
+2023,5,Miami Grand Prix,2023-05-07,per,red_bull_racing,1.0,0 days 00:01:27.713000,0 days 00:01:27.328000,0 days 00:01:26.841000
+2023,5,Miami Grand Prix,2023-05-07,alo,aston_martin,2.0,0 days 00:01:28.179000,0 days 00:01:27.097000,0 days 00:01:27.202000
+2023,5,Miami Grand Prix,2023-05-07,sai,ferrari,3.0,0 days 00:01:27.686000,0 days 00:01:27.148000,0 days 00:01:27.349000
+2023,5,Miami Grand Prix,2023-05-07,mag,haas_f1_team,4.0,0 days 00:01:27.809000,0 days 00:01:27.673000,0 days 00:01:27.767000
+2023,5,Miami Grand Prix,2023-05-07,gas,alpine,5.0,0 days 00:01:28.061000,0 days 00:01:27.612000,0 days 00:01:27.786000
+2023,5,Miami Grand Prix,2023-05-07,rus,mercedes,6.0,0 days 00:01:28.086000,0 days 00:01:27.743000,0 days 00:01:27.804000
+2023,5,Miami Grand Prix,2023-05-07,lec,ferrari,7.0,0 days 00:01:27.713000,0 days 00:01:26.964000,0 days 00:01:27.861000
+2023,5,Miami Grand Prix,2023-05-07,oco,alpine,8.0,0 days 00:01:27.872000,0 days 00:01:27.444000,0 days 00:01:27.935000
+2023,5,Miami Grand Prix,2023-05-07,ver,red_bull_racing,9.0,0 days 00:01:27.363000,0 days 00:01:26.814000,
+2023,5,Miami Grand Prix,2023-05-07,bot,alfa_romeo,10.0,0 days 00:01:27.864000,0 days 00:01:27.564000,
+2023,5,Miami Grand Prix,2023-05-07,alb,williams,11.0,0 days 00:01:28.234000,0 days 00:01:27.795000,
+2023,5,Miami Grand Prix,2023-05-07,hul,haas_f1_team,12.0,0 days 00:01:27.945000,0 days 00:01:27.903000,
+2023,5,Miami Grand Prix,2023-05-07,ham,mercedes,13.0,0 days 00:01:27.846000,0 days 00:01:27.975000,
+2023,5,Miami Grand Prix,2023-05-07,zho,alfa_romeo,14.0,0 days 00:01:28.180000,0 days 00:01:28.091000,
+2023,5,Miami Grand Prix,2023-05-07,dev,alphatauri,15.0,0 days 00:01:28.325000,0 days 00:01:28.395000,
+2023,5,Miami Grand Prix,2023-05-07,nor,mclaren,16.0,0 days 00:01:28.394000,,
+2023,5,Miami Grand Prix,2023-05-07,tsu,alphatauri,17.0,0 days 00:01:28.429000,,
+2023,5,Miami Grand Prix,2023-05-07,str,aston_martin,18.0,0 days 00:01:28.476000,,
+2023,5,Miami Grand Prix,2023-05-07,pia,mclaren,19.0,0 days 00:01:28.484000,,
+2023,5,Miami Grand Prix,2023-05-07,sar,williams,20.0,0 days 00:01:28.577000,,
+2023,6,Monaco Grand Prix,2023-05-28,ver,red_bull_racing,1.0,0 days 00:01:12.386000,0 days 00:01:11.908000,0 days 00:01:11.365000
+2023,6,Monaco Grand Prix,2023-05-28,alo,aston_martin,2.0,0 days 00:01:12.886000,0 days 00:01:12.107000,0 days 00:01:11.449000
+2023,6,Monaco Grand Prix,2023-05-28,lec,ferrari,3.0,0 days 00:01:12.912000,0 days 00:01:12.103000,0 days 00:01:11.471000
+2023,6,Monaco Grand Prix,2023-05-28,oco,alpine,4.0,0 days 00:01:12.967000,0 days 00:01:12.248000,0 days 00:01:11.553000
+2023,6,Monaco Grand Prix,2023-05-28,sai,ferrari,5.0,0 days 00:01:12.717000,0 days 00:01:12.210000,0 days 00:01:11.630000
+2023,6,Monaco Grand Prix,2023-05-28,ham,mercedes,6.0,0 days 00:01:12.872000,0 days 00:01:12.156000,0 days 00:01:11.725000
+2023,6,Monaco Grand Prix,2023-05-28,gas,alpine,7.0,0 days 00:01:13.033000,0 days 00:01:12.169000,0 days 00:01:11.933000
+2023,6,Monaco Grand Prix,2023-05-28,rus,mercedes,8.0,0 days 00:01:12.769000,0 days 00:01:12.151000,0 days 00:01:11.964000
+2023,6,Monaco Grand Prix,2023-05-28,tsu,alphatauri,9.0,0 days 00:01:12.642000,0 days 00:01:12.249000,0 days 00:01:12.082000
+2023,6,Monaco Grand Prix,2023-05-28,nor,mclaren,10.0,0 days 00:01:12.877000,0 days 00:01:12.377000,0 days 00:01:12.254000
+2023,6,Monaco Grand Prix,2023-05-28,pia,mclaren,11.0,0 days 00:01:13.006000,0 days 00:01:12.395000,
+2023,6,Monaco Grand Prix,2023-05-28,dev,alphatauri,12.0,0 days 00:01:13.054000,0 days 00:01:12.428000,
+2023,6,Monaco Grand Prix,2023-05-28,alb,williams,13.0,0 days 00:01:12.706000,0 days 00:01:12.527000,
+2023,6,Monaco Grand Prix,2023-05-28,str,aston_martin,14.0,0 days 00:01:12.722000,0 days 00:01:12.623000,
+2023,6,Monaco Grand Prix,2023-05-28,bot,alfa_romeo,15.0,0 days 00:01:13.038000,0 days 00:01:12.625000,
+2023,6,Monaco Grand Prix,2023-05-28,sar,williams,16.0,0 days 00:01:13.113000,,
+2023,6,Monaco Grand Prix,2023-05-28,mag,haas_f1_team,17.0,0 days 00:01:13.270000,,
+2023,6,Monaco Grand Prix,2023-05-28,hul,haas_f1_team,18.0,0 days 00:01:13.279000,,
+2023,6,Monaco Grand Prix,2023-05-28,zho,alfa_romeo,19.0,0 days 00:01:13.523000,,
+2023,6,Monaco Grand Prix,2023-05-28,per,red_bull_racing,20.0,0 days 00:01:13.850000,,
+2023,7,Spanish Grand Prix,2023-06-04,ver,red_bull_racing,1.0,0 days 00:01:13.615000,0 days 00:01:12.760000,0 days 00:01:12.272000
+2023,7,Spanish Grand Prix,2023-06-04,sai,ferrari,2.0,0 days 00:01:13.411000,0 days 00:01:12.790000,0 days 00:01:12.734000
+2023,7,Spanish Grand Prix,2023-06-04,nor,mclaren,3.0,0 days 00:01:13.295000,0 days 00:01:12.776000,0 days 00:01:12.792000
+2023,7,Spanish Grand Prix,2023-06-04,gas,alpine,4.0,0 days 00:01:13.471000,0 days 00:01:13.186000,0 days 00:01:12.816000
+2023,7,Spanish Grand Prix,2023-06-04,ham,mercedes,5.0,0 days 00:01:12.937000,0 days 00:01:12.999000,0 days 00:01:12.818000
+2023,7,Spanish Grand Prix,2023-06-04,str,aston_martin,6.0,0 days 00:01:13.766000,0 days 00:01:13.082000,0 days 00:01:12.994000
+2023,7,Spanish Grand Prix,2023-06-04,oco,alpine,7.0,0 days 00:01:13.433000,0 days 00:01:13.001000,0 days 00:01:13.083000
+2023,7,Spanish Grand Prix,2023-06-04,hul,haas_f1_team,8.0,0 days 00:01:13.420000,0 days 00:01:13.283000,0 days 00:01:13.229000
+2023,7,Spanish Grand Prix,2023-06-04,alo,aston_martin,9.0,0 days 00:01:13.747000,0 days 00:01:13.098000,0 days 00:01:13.507000
+2023,7,Spanish Grand Prix,2023-06-04,pia,mclaren,10.0,0 days 00:01:13.691000,0 days 00:01:13.059000,0 days 00:01:13.682000
+2023,7,Spanish Grand Prix,2023-06-04,per,red_bull_racing,11.0,0 days 00:01:13.874000,0 days 00:01:13.334000,
+2023,7,Spanish Grand Prix,2023-06-04,rus,mercedes,12.0,0 days 00:01:13.326000,0 days 00:01:13.447000,
+2023,7,Spanish Grand Prix,2023-06-04,zho,alfa_romeo,13.0,0 days 00:01:13.677000,0 days 00:01:13.521000,
+2023,7,Spanish Grand Prix,2023-06-04,dev,alphatauri,14.0,0 days 00:01:13.581000,0 days 00:01:14.083000,
+2023,7,Spanish Grand Prix,2023-06-04,tsu,alphatauri,15.0,0 days 00:01:13.862000,0 days 00:01:14.477000,
+2023,7,Spanish Grand Prix,2023-06-04,bot,alfa_romeo,16.0,0 days 00:01:13.977000,,
+2023,7,Spanish Grand Prix,2023-06-04,mag,haas_f1_team,17.0,0 days 00:01:14.042000,,
+2023,7,Spanish Grand Prix,2023-06-04,alb,williams,18.0,0 days 00:01:14.063000,,
+2023,7,Spanish Grand Prix,2023-06-04,lec,ferrari,19.0,0 days 00:01:14.079000,,
+2023,7,Spanish Grand Prix,2023-06-04,sar,williams,20.0,0 days 00:01:14.699000,,
+2023,8,Canadian Grand Prix,2023-06-18,ver,red_bull_racing,1.0,0 days 00:01:20.851000,0 days 00:01:19.092000,0 days 00:01:25.858000
+2023,8,Canadian Grand Prix,2023-06-18,hul,haas_f1_team,2.0,0 days 00:01:22.730000,0 days 00:01:20.305000,0 days 00:01:27.102000
+2023,8,Canadian Grand Prix,2023-06-18,alo,aston_martin,3.0,0 days 00:01:21.481000,0 days 00:01:19.776000,0 days 00:01:27.286000
+2023,8,Canadian Grand Prix,2023-06-18,ham,mercedes,4.0,0 days 00:01:21.554000,0 days 00:01:20.426000,0 days 00:01:27.627000
+2023,8,Canadian Grand Prix,2023-06-18,rus,mercedes,5.0,0 days 00:01:21.798000,0 days 00:01:20.098000,0 days 00:01:27.893000
+2023,8,Canadian Grand Prix,2023-06-18,oco,alpine,6.0,0 days 00:01:22.114000,0 days 00:01:20.406000,0 days 00:01:27.945000
+2023,8,Canadian Grand Prix,2023-06-18,nor,mclaren,7.0,0 days 00:01:21.998000,0 days 00:01:19.347000,0 days 00:01:28.046000
+2023,8,Canadian Grand Prix,2023-06-18,sai,ferrari,8.0,0 days 00:01:22.248000,0 days 00:01:19.856000,0 days 00:01:29.294000
+2023,8,Canadian Grand Prix,2023-06-18,pia,mclaren,9.0,0 days 00:01:22.190000,0 days 00:01:19.659000,0 days 00:01:31.349000
+2023,8,Canadian Grand Prix,2023-06-18,alb,williams,10.0,0 days 00:01:21.938000,0 days 00:01:18.725000,
+2023,8,Canadian Grand Prix,2023-06-18,lec,ferrari,11.0,0 days 00:01:21.843000,0 days 00:01:20.615000,
+2023,8,Canadian Grand Prix,2023-06-18,per,red_bull_racing,12.0,0 days 00:01:22.151000,0 days 00:01:20.959000,
+2023,8,Canadian Grand Prix,2023-06-18,str,aston_martin,13.0,0 days 00:01:22.677000,0 days 00:01:21.484000,
+2023,8,Canadian Grand Prix,2023-06-18,mag,haas_f1_team,14.0,0 days 00:01:22.351000,0 days 00:01:21.678000,
+2023,8,Canadian Grand Prix,2023-06-18,bot,alfa_romeo,15.0,0 days 00:01:22.332000,0 days 00:01:21.821000,
+2023,8,Canadian Grand Prix,2023-06-18,tsu,alphatauri,16.0,0 days 00:01:22.746000,,
+2023,8,Canadian Grand Prix,2023-06-18,gas,alpine,17.0,0 days 00:01:22.886000,,
+2023,8,Canadian Grand Prix,2023-06-18,dev,alphatauri,18.0,0 days 00:01:23.137000,,
+2023,8,Canadian Grand Prix,2023-06-18,sar,williams,19.0,0 days 00:01:23.337000,,
+2023,8,Canadian Grand Prix,2023-06-18,zho,alfa_romeo,20.0,0 days 00:01:23.342000,,
+2023,9,Austrian Grand Prix,2023-07-02,ver,red_bull_racing,1.0,0 days 00:01:05.116000,0 days 00:01:04.951000,0 days 00:01:04.391000
+2023,9,Austrian Grand Prix,2023-07-02,lec,ferrari,2.0,0 days 00:01:05.577000,0 days 00:01:05.087000,0 days 00:01:04.439000
+2023,9,Austrian Grand Prix,2023-07-02,sai,ferrari,3.0,0 days 00:01:05.339000,0 days 00:01:04.975000,0 days 00:01:04.581000
+2023,9,Austrian Grand Prix,2023-07-02,nor,mclaren,4.0,0 days 00:01:05.617000,0 days 00:01:05.038000,0 days 00:01:04.658000
+2023,9,Austrian Grand Prix,2023-07-02,ham,mercedes,5.0,0 days 00:01:05.673000,0 days 00:01:05.188000,0 days 00:01:04.819000
+2023,9,Austrian Grand Prix,2023-07-02,str,aston_martin,6.0,0 days 00:01:05.710000,0 days 00:01:05.121000,0 days 00:01:04.893000
+2023,9,Austrian Grand Prix,2023-07-02,alo,aston_martin,7.0,0 days 00:01:05.655000,0 days 00:01:05.181000,0 days 00:01:04.911000
+2023,9,Austrian Grand Prix,2023-07-02,hul,haas_f1_team,8.0,0 days 00:01:05.740000,0 days 00:01:05.362000,0 days 00:01:05.090000
+2023,9,Austrian Grand Prix,2023-07-02,gas,alpine,9.0,0 days 00:01:05.515000,0 days 00:01:05.308000,0 days 00:01:05.170000
+2023,9,Austrian Grand Prix,2023-07-02,alb,williams,10.0,0 days 00:01:05.673000,0 days 00:01:05.387000,0 days 00:01:05.823000
+2023,9,Austrian Grand Prix,2023-07-02,rus,mercedes,11.0,0 days 00:01:05.686000,0 days 00:01:05.428000,
+2023,9,Austrian Grand Prix,2023-07-02,oco,alpine,12.0,0 days 00:01:05.729000,0 days 00:01:05.453000,
+2023,9,Austrian Grand Prix,2023-07-02,pia,mclaren,13.0,0 days 00:01:05.683000,0 days 00:01:05.605000,
+2023,9,Austrian Grand Prix,2023-07-02,bot,alfa_romeo,14.0,0 days 00:01:05.763000,0 days 00:01:05.680000,
+2023,9,Austrian Grand Prix,2023-07-02,per,red_bull_racing,15.0,0 days 00:01:05.177000,0 days 00:02:06.688000,
+2023,9,Austrian Grand Prix,2023-07-02,tsu,alphatauri,16.0,0 days 00:01:05.784000,,
+2023,9,Austrian Grand Prix,2023-07-02,zho,alfa_romeo,17.0,0 days 00:01:05.818000,,
+2023,9,Austrian Grand Prix,2023-07-02,sar,williams,18.0,0 days 00:01:05.948000,,
+2023,9,Austrian Grand Prix,2023-07-02,mag,haas_f1_team,19.0,0 days 00:01:05.971000,,
+2023,9,Austrian Grand Prix,2023-07-02,dev,alphatauri,20.0,0 days 00:01:05.974000,,
+2023,10,British Grand Prix,2023-07-09,ver,red_bull_racing,1.0,0 days 00:01:29.428000,0 days 00:01:27.702000,0 days 00:01:26.720000
+2023,10,British Grand Prix,2023-07-09,nor,mclaren,2.0,0 days 00:01:28.917000,0 days 00:01:28.042000,0 days 00:01:26.961000
+2023,10,British Grand Prix,2023-07-09,pia,mclaren,3.0,0 days 00:01:29.874000,0 days 00:01:27.845000,0 days 00:01:27.092000
+2023,10,British Grand Prix,2023-07-09,lec,ferrari,4.0,0 days 00:01:29.143000,0 days 00:01:28.361000,0 days 00:01:27.136000
+2023,10,British Grand Prix,2023-07-09,sai,ferrari,5.0,0 days 00:01:29.865000,0 days 00:01:28.265000,0 days 00:01:27.148000
+2023,10,British Grand Prix,2023-07-09,rus,mercedes,6.0,0 days 00:01:29.412000,0 days 00:01:28.782000,0 days 00:01:27.155000
+2023,10,British Grand Prix,2023-07-09,ham,mercedes,7.0,0 days 00:01:29.415000,0 days 00:01:28.545000,0 days 00:01:27.211000
+2023,10,British Grand Prix,2023-07-09,alb,williams,8.0,0 days 00:01:29.466000,0 days 00:01:28.067000,0 days 00:01:27.530000
+2023,10,British Grand Prix,2023-07-09,alo,aston_martin,9.0,0 days 00:01:29.949000,0 days 00:01:28.368000,0 days 00:01:27.659000
+2023,10,British Grand Prix,2023-07-09,gas,alpine,10.0,0 days 00:01:29.533000,0 days 00:01:28.751000,0 days 00:01:27.689000
+2023,10,British Grand Prix,2023-07-09,hul,haas_f1_team,11.0,0 days 00:01:29.603000,0 days 00:01:28.896000,
+2023,10,British Grand Prix,2023-07-09,str,aston_martin,12.0,0 days 00:01:29.448000,0 days 00:01:28.935000,
+2023,10,British Grand Prix,2023-07-09,oco,alpine,13.0,0 days 00:01:29.700000,0 days 00:01:28.956000,
+2023,10,British Grand Prix,2023-07-09,sar,williams,14.0,0 days 00:01:29.873000,0 days 00:01:29.031000,
+2023,10,British Grand Prix,2023-07-09,bot,alfa_romeo,15.0,0 days 00:01:29.798000,,
+2023,10,British Grand Prix,2023-07-09,per,red_bull_racing,15.0,0 days 00:01:29.968000,,
+2023,10,British Grand Prix,2023-07-09,tsu,alphatauri,16.0,0 days 00:01:30.025000,,
+2023,10,British Grand Prix,2023-07-09,zho,alfa_romeo,17.0,0 days 00:01:30.123000,,
+2023,10,British Grand Prix,2023-07-09,dev,alphatauri,18.0,0 days 00:01:30.513000,,
+2023,10,British Grand Prix,2023-07-09,mag,haas_f1_team,19.0,0 days 00:01:32.378000,,
+2023,11,Hungarian Grand Prix,2023-07-23,ham,mercedes,1.0,0 days 00:01:18.577000,0 days 00:01:17.427000,0 days 00:01:16.609000
+2023,11,Hungarian Grand Prix,2023-07-23,ver,red_bull_racing,2.0,0 days 00:01:18.318000,0 days 00:01:17.547000,0 days 00:01:16.612000
+2023,11,Hungarian Grand Prix,2023-07-23,nor,mclaren,3.0,0 days 00:01:18.697000,0 days 00:01:17.328000,0 days 00:01:16.694000
+2023,11,Hungarian Grand Prix,2023-07-23,pia,mclaren,4.0,0 days 00:01:18.464000,0 days 00:01:17.571000,0 days 00:01:16.905000
+2023,11,Hungarian Grand Prix,2023-07-23,zho,alfa_romeo,5.0,0 days 00:01:18.143000,0 days 00:01:17.700000,0 days 00:01:16.971000
+2023,11,Hungarian Grand Prix,2023-07-23,lec,ferrari,6.0,0 days 00:01:18.440000,0 days 00:01:17.580000,0 days 00:01:16.992000
+2023,11,Hungarian Grand Prix,2023-07-23,bot,alfa_romeo,7.0,0 days 00:01:18.775000,0 days 00:01:17.563000,0 days 00:01:17.034000
+2023,11,Hungarian Grand Prix,2023-07-23,alo,aston_martin,8.0,0 days 00:01:18.580000,0 days 00:01:17.701000,0 days 00:01:17.035000
+2023,11,Hungarian Grand Prix,2023-07-23,per,red_bull_racing,9.0,0 days 00:01:18.360000,0 days 00:01:17.675000,0 days 00:01:17.045000
+2023,11,Hungarian Grand Prix,2023-07-23,hul,haas_f1_team,10.0,0 days 00:01:18.695000,0 days 00:01:17.652000,0 days 00:01:17.186000
+2023,11,Hungarian Grand Prix,2023-07-23,sai,ferrari,11.0,0 days 00:01:18.393000,0 days 00:01:17.703000,
+2023,11,Hungarian Grand Prix,2023-07-23,oco,alpine,12.0,0 days 00:01:18.854000,0 days 00:01:17.841000,
+2023,11,Hungarian Grand Prix,2023-07-23,ric,alphatauri,13.0,0 days 00:01:18.906000,0 days 00:01:18.002000,
+2023,11,Hungarian Grand Prix,2023-07-23,str,aston_martin,14.0,0 days 00:01:18.782000,0 days 00:01:18.144000,
+2023,11,Hungarian Grand Prix,2023-07-23,gas,alpine,15.0,0 days 00:01:18.743000,0 days 00:01:18.217000,
+2023,11,Hungarian Grand Prix,2023-07-23,alb,williams,16.0,0 days 00:01:18.917000,,
+2023,11,Hungarian Grand Prix,2023-07-23,tsu,alphatauri,17.0,0 days 00:01:18.919000,,
+2023,11,Hungarian Grand Prix,2023-07-23,rus,mercedes,18.0,0 days 00:01:19.027000,,
+2023,11,Hungarian Grand Prix,2023-07-23,mag,haas_f1_team,19.0,0 days 00:01:19.206000,,
+2023,11,Hungarian Grand Prix,2023-07-23,sar,williams,20.0,0 days 00:01:19.248000,,
+2023,12,Belgian Grand Prix,2023-07-30,sai,ferrari,,,,
+2023,12,Belgian Grand Prix,2023-07-30,pia,mclaren,,,,
+2023,12,Belgian Grand Prix,2023-07-30,nor,mclaren,,,,
+2023,12,Belgian Grand Prix,2023-07-30,lec,ferrari,,,,
+2023,12,Belgian Grand Prix,2023-07-30,per,red_bull_racing,,,,
+2023,12,Belgian Grand Prix,2023-07-30,alb,williams,,,,
+2023,12,Belgian Grand Prix,2023-07-30,tsu,alphatauri,,,,
+2023,12,Belgian Grand Prix,2023-07-30,mag,haas_f1_team,,,,
+2023,12,Belgian Grand Prix,2023-07-30,ric,alphatauri,,,,
+2023,12,Belgian Grand Prix,2023-07-30,hul,haas_f1_team,,,,
+2023,12,Belgian Grand Prix,2023-07-30,alo,aston_martin,,,,
+2023,12,Belgian Grand Prix,2023-07-30,ham,mercedes,,,,
+2023,12,Belgian Grand Prix,2023-07-30,rus,mercedes,,,,
+2023,12,Belgian Grand Prix,2023-07-30,bot,alfa_romeo,,,,
+2023,12,Belgian Grand Prix,2023-07-30,zho,alfa_romeo,,,,
+2023,12,Belgian Grand Prix,2023-07-30,sar,williams,,,,
+2023,12,Belgian Grand Prix,2023-07-30,str,aston_martin,,,,
+2023,12,Belgian Grand Prix,2023-07-30,gas,alpine,,,,
+2023,12,Belgian Grand Prix,2023-07-30,oco,alpine,,,,
+2023,12,Belgian Grand Prix,2023-07-30,ver,red_bull_racing,,,,
+2023,13,Dutch Grand Prix,2023-08-27,ver,red_bull_racing,1.0,0 days 00:01:20.965000,0 days 00:01:18.856000,0 days 00:01:10.567000
+2023,13,Dutch Grand Prix,2023-08-27,nor,mclaren,2.0,0 days 00:01:21.276000,0 days 00:01:19.769000,0 days 00:01:11.104000
+2023,13,Dutch Grand Prix,2023-08-27,rus,mercedes,3.0,0 days 00:01:21.345000,0 days 00:01:19.620000,0 days 00:01:11.294000
+2023,13,Dutch Grand Prix,2023-08-27,alb,williams,4.0,0 days 00:01:20.939000,0 days 00:01:19.399000,0 days 00:01:11.419000
+2023,13,Dutch Grand Prix,2023-08-27,alo,aston_martin,5.0,0 days 00:01:21.840000,0 days 00:01:19.429000,0 days 00:01:11.506000
+2023,13,Dutch Grand Prix,2023-08-27,sai,ferrari,6.0,0 days 00:01:21.321000,0 days 00:01:19.929000,0 days 00:01:11.754000
+2023,13,Dutch Grand Prix,2023-08-27,per,red_bull_racing,7.0,0 days 00:01:21.972000,0 days 00:01:19.856000,0 days 00:01:11.880000
+2023,13,Dutch Grand Prix,2023-08-27,pia,mclaren,8.0,0 days 00:01:21.231000,0 days 00:01:19.392000,0 days 00:01:11.938000
+2023,13,Dutch Grand Prix,2023-08-27,lec,ferrari,9.0,0 days 00:01:22.019000,0 days 00:01:19.600000,0 days 00:01:12.665000
+2023,13,Dutch Grand Prix,2023-08-27,sar,williams,10.0,0 days 00:01:22.036000,0 days 00:01:20.067000,0 days 00:01:16.748000
+2023,13,Dutch Grand Prix,2023-08-27,str,aston_martin,11.0,0 days 00:01:21.570000,0 days 00:01:20.121000,
+2023,13,Dutch Grand Prix,2023-08-27,gas,alpine,12.0,0 days 00:01:21.735000,0 days 00:01:20.128000,
+2023,13,Dutch Grand Prix,2023-08-27,ham,mercedes,13.0,0 days 00:01:21.919000,0 days 00:01:20.151000,
+2023,13,Dutch Grand Prix,2023-08-27,tsu,alphatauri,14.0,0 days 00:01:21.781000,0 days 00:01:20.230000,
+2023,13,Dutch Grand Prix,2023-08-27,hul,haas_f1_team,15.0,0 days 00:01:21.891000,0 days 00:01:20.250000,
+2023,13,Dutch Grand Prix,2023-08-27,zho,alfa_romeo,16.0,0 days 00:01:22.067000,,
+2023,13,Dutch Grand Prix,2023-08-27,oco,alpine,17.0,0 days 00:01:22.110000,,
+2023,13,Dutch Grand Prix,2023-08-27,mag,haas_f1_team,18.0,0 days 00:01:22.192000,,
+2023,13,Dutch Grand Prix,2023-08-27,bot,alfa_romeo,19.0,0 days 00:01:22.260000,,
+2023,13,Dutch Grand Prix,2023-08-27,law,alphatauri,20.0,0 days 00:01:23.420000,,
+2023,14,Italian Grand Prix,2023-09-03,sai,ferrari,,,,
+2023,14,Italian Grand Prix,2023-09-03,ver,red_bull_racing,,,,
+2023,14,Italian Grand Prix,2023-09-03,ham,mercedes,,,,
+2023,14,Italian Grand Prix,2023-09-03,lec,ferrari,,,,
+2023,14,Italian Grand Prix,2023-09-03,alo,aston_martin,,,,
+2023,14,Italian Grand Prix,2023-09-03,rus,mercedes,,,,
+2023,14,Italian Grand Prix,2023-09-03,mag,haas_f1_team,,,,
+2023,14,Italian Grand Prix,2023-09-03,hul,haas_f1_team,,,,
+2023,14,Italian Grand Prix,2023-09-03,alb,williams,,,,
+2023,14,Italian Grand Prix,2023-09-03,per,red_bull_racing,,,,
+2023,14,Italian Grand Prix,2023-09-03,str,aston_martin,,,,
+2023,14,Italian Grand Prix,2023-09-03,law,alphatauri,,,,
+2023,14,Italian Grand Prix,2023-09-03,tsu,alphatauri,,,,
+2023,14,Italian Grand Prix,2023-09-03,pia,mclaren,,,,
+2023,14,Italian Grand Prix,2023-09-03,sar,williams,,,,
+2023,14,Italian Grand Prix,2023-09-03,bot,alfa_romeo,,,,
+2023,14,Italian Grand Prix,2023-09-03,nor,mclaren,,,,
+2023,14,Italian Grand Prix,2023-09-03,oco,alpine,,,,
+2023,14,Italian Grand Prix,2023-09-03,zho,alfa_romeo,,,,
+2023,14,Italian Grand Prix,2023-09-03,gas,alpine,,,,
+2023,15,Singapore Grand Prix,2023-09-17,sai,ferrari,1.0,0 days 00:01:32.339000,0 days 00:01:31.439000,0 days 00:01:30.984000
+2023,15,Singapore Grand Prix,2023-09-17,rus,mercedes,2.0,0 days 00:01:32.331000,0 days 00:01:31.743000,0 days 00:01:31.056000
+2023,15,Singapore Grand Prix,2023-09-17,lec,ferrari,3.0,0 days 00:01:32.406000,0 days 00:01:32.012000,0 days 00:01:31.063000
+2023,15,Singapore Grand Prix,2023-09-17,nor,mclaren,4.0,0 days 00:01:32.483000,0 days 00:01:31.951000,0 days 00:01:31.270000
+2023,15,Singapore Grand Prix,2023-09-17,ham,mercedes,5.0,0 days 00:01:32.651000,0 days 00:01:32.019000,0 days 00:01:31.485000
+2023,15,Singapore Grand Prix,2023-09-17,mag,haas_f1_team,6.0,0 days 00:01:32.242000,0 days 00:01:31.892000,0 days 00:01:31.575000
+2023,15,Singapore Grand Prix,2023-09-17,alo,aston_martin,7.0,0 days 00:01:32.584000,0 days 00:01:31.835000,0 days 00:01:31.615000
+2023,15,Singapore Grand Prix,2023-09-17,oco,alpine,8.0,0 days 00:01:32.369000,0 days 00:01:32.089000,0 days 00:01:31.673000
+2023,15,Singapore Grand Prix,2023-09-17,hul,haas_f1_team,9.0,0 days 00:01:32.100000,0 days 00:01:31.994000,0 days 00:01:31.808000
+2023,15,Singapore Grand Prix,2023-09-17,law,alphatauri,10.0,0 days 00:01:32.215000,0 days 00:01:32.166000,0 days 00:01:32.268000
+2023,15,Singapore Grand Prix,2023-09-17,ver,red_bull_racing,11.0,0 days 00:01:32.398000,0 days 00:01:32.173000,
+2023,15,Singapore Grand Prix,2023-09-17,gas,alpine,12.0,0 days 00:01:32.452000,0 days 00:01:32.274000,
+2023,15,Singapore Grand Prix,2023-09-17,per,red_bull_racing,13.0,0 days 00:01:32.099000,0 days 00:01:32.310000,
+2023,15,Singapore Grand Prix,2023-09-17,alb,williams,14.0,0 days 00:01:32.668000,0 days 00:01:33.719000,
+2023,15,Singapore Grand Prix,2023-09-17,tsu,alphatauri,15.0,0 days 00:01:31.991000,,
+2023,15,Singapore Grand Prix,2023-09-17,bot,alfa_romeo,16.0,0 days 00:01:32.809000,,
+2023,15,Singapore Grand Prix,2023-09-17,pia,mclaren,17.0,0 days 00:01:32.902000,,
+2023,15,Singapore Grand Prix,2023-09-17,sar,williams,18.0,0 days 00:01:33.252000,,
+2023,15,Singapore Grand Prix,2023-09-17,zho,alfa_romeo,19.0,0 days 00:01:33.258000,,
+2023,15,Singapore Grand Prix,2023-09-17,str,aston_martin,20.0,0 days 00:01:33.397000,,
+2023,16,Japanese Grand Prix,2023-09-24,ver,red_bull_racing,,,,
+2023,16,Japanese Grand Prix,2023-09-24,nor,mclaren,,,,
+2023,16,Japanese Grand Prix,2023-09-24,pia,mclaren,,,,
+2023,16,Japanese Grand Prix,2023-09-24,per,red_bull_racing,,,,
+2023,16,Japanese Grand Prix,2023-09-24,lec,ferrari,,,,
+2023,16,Japanese Grand Prix,2023-09-24,sai,ferrari,,,,
+2023,16,Japanese Grand Prix,2023-09-24,ham,mercedes,,,,
+2023,16,Japanese Grand Prix,2023-09-24,rus,mercedes,,,,
+2023,16,Japanese Grand Prix,2023-09-24,alo,aston_martin,,,,
+2023,16,Japanese Grand Prix,2023-09-24,zho,alfa_romeo,,,,
+2023,16,Japanese Grand Prix,2023-09-24,bot,alfa_romeo,,,,
+2023,16,Japanese Grand Prix,2023-09-24,mag,haas_f1_team,,,,
+2023,16,Japanese Grand Prix,2023-09-24,oco,alpine,,,,
+2023,16,Japanese Grand Prix,2023-09-24,tsu,alphatauri,,,,
+2023,16,Japanese Grand Prix,2023-09-24,hul,haas_f1_team,,,,
+2023,16,Japanese Grand Prix,2023-09-24,sar,williams,,,,
+2023,16,Japanese Grand Prix,2023-09-24,law,alphatauri,,,,
+2023,16,Japanese Grand Prix,2023-09-24,alb,williams,,,,
+2023,16,Japanese Grand Prix,2023-09-24,str,aston_martin,,,,
+2023,16,Japanese Grand Prix,2023-09-24,gas,alpine,,,,
+2023,17,Qatar Grand Prix,2023-10-08,ver,red_bull_racing,1.0,0 days 00:01:25.007000,0 days 00:01:24.483000,0 days 00:01:23.778000
+2023,17,Qatar Grand Prix,2023-10-08,rus,mercedes,2.0,0 days 00:01:25.334000,0 days 00:01:24.827000,0 days 00:01:24.219000
+2023,17,Qatar Grand Prix,2023-10-08,ham,mercedes,3.0,0 days 00:01:26.076000,0 days 00:01:24.381000,0 days 00:01:24.305000
+2023,17,Qatar Grand Prix,2023-10-08,alo,aston_martin,4.0,0 days 00:01:25.223000,0 days 00:01:25.241000,0 days 00:01:24.369000
+2023,17,Qatar Grand Prix,2023-10-08,lec,ferrari,5.0,0 days 00:01:25.452000,0 days 00:01:25.079000,0 days 00:01:24.424000
+2023,17,Qatar Grand Prix,2023-10-08,pia,mclaren,6.0,0 days 00:01:25.266000,0 days 00:01:24.724000,0 days 00:01:24.540000
+2023,17,Qatar Grand Prix,2023-10-08,gas,alpine,7.0,0 days 00:01:25.566000,0 days 00:01:24.918000,0 days 00:01:24.553000
+2023,17,Qatar Grand Prix,2023-10-08,oco,alpine,8.0,0 days 00:01:25.711000,0 days 00:01:24.928000,0 days 00:01:24.763000
+2023,17,Qatar Grand Prix,2023-10-08,bot,alfa_romeo,9.0,0 days 00:01:26.038000,0 days 00:01:25.297000,0 days 00:01:25.058000
+2023,17,Qatar Grand Prix,2023-10-08,nor,mclaren,10.0,0 days 00:01:25.131000,0 days 00:01:24.685000,
+2023,17,Qatar Grand Prix,2023-10-08,tsu,alphatauri,11.0,0 days 00:01:26.058000,0 days 00:01:25.301000,
+2023,17,Qatar Grand Prix,2023-10-08,sai,ferrari,12.0,0 days 00:01:25.808000,0 days 00:01:25.328000,
+2023,17,Qatar Grand Prix,2023-10-08,per,red_bull_racing,13.0,0 days 00:01:25.991000,0 days 00:01:25.462000,
+2023,17,Qatar Grand Prix,2023-10-08,alb,williams,14.0,0 days 00:01:26.118000,0 days 00:01:25.707000,
+2023,17,Qatar Grand Prix,2023-10-08,hul,haas_f1_team,15.0,0 days 00:01:25.904000,0 days 00:01:25.783000,
+2023,17,Qatar Grand Prix,2023-10-08,sar,williams,16.0,0 days 00:01:26.210000,,
+2023,17,Qatar Grand Prix,2023-10-08,str,aston_martin,17.0,0 days 00:01:26.345000,,
+2023,17,Qatar Grand Prix,2023-10-08,law,alphatauri,18.0,0 days 00:01:26.635000,,
+2023,17,Qatar Grand Prix,2023-10-08,mag,haas_f1_team,19.0,0 days 00:01:27.046000,,
+2023,17,Qatar Grand Prix,2023-10-08,zho,alfa_romeo,20.0,0 days 00:01:27.432000,,
+2023,18,United States Grand Prix,2023-10-22,ver,red_bull_racing,,,,
+2023,18,United States Grand Prix,2023-10-22,lec,ferrari,,,,
+2023,18,United States Grand Prix,2023-10-22,ham,mercedes,,,,
+2023,18,United States Grand Prix,2023-10-22,per,red_bull_racing,,,,
+2023,18,United States Grand Prix,2023-10-22,mag,haas_f1_team,,,,
+2023,18,United States Grand Prix,2023-10-22,rus,mercedes,,,,
+2023,18,United States Grand Prix,2023-10-22,alb,williams,,,,
+2023,18,United States Grand Prix,2023-10-22,sai,ferrari,,,,
+2023,18,United States Grand Prix,2023-10-22,hul,haas_f1_team,,,,
+2023,18,United States Grand Prix,2023-10-22,gas,alpine,,,,
+2023,18,United States Grand Prix,2023-10-22,sar,williams,,,,
+2023,18,United States Grand Prix,2023-10-22,oco,alpine,,,,
+2023,18,United States Grand Prix,2023-10-22,tsu,alphatauri,,,,
+2023,18,United States Grand Prix,2023-10-22,ric,alphatauri,,,,
+2023,18,United States Grand Prix,2023-10-22,nor,mclaren,,,,
+2023,18,United States Grand Prix,2023-10-22,zho,alfa_romeo,,,,
+2023,18,United States Grand Prix,2023-10-22,bot,alfa_romeo,,,,
+2023,18,United States Grand Prix,2023-10-22,alo,aston_martin,,,,
+2023,18,United States Grand Prix,2023-10-22,pia,mclaren,,,,
+2023,18,United States Grand Prix,2023-10-22,str,aston_martin,,,,
+2023,19,Mexico City Grand Prix,2023-10-29,lec,ferrari,1.0,0 days 00:01:18.401000,0 days 00:01:17.901000,0 days 00:01:17.166000
+2023,19,Mexico City Grand Prix,2023-10-29,sai,ferrari,2.0,0 days 00:01:18.755000,0 days 00:01:18.382000,0 days 00:01:17.233000
+2023,19,Mexico City Grand Prix,2023-10-29,ver,red_bull_racing,3.0,0 days 00:01:18.099000,0 days 00:01:17.625000,0 days 00:01:17.263000
+2023,19,Mexico City Grand Prix,2023-10-29,ric,alphatauri,4.0,0 days 00:01:18.341000,0 days 00:01:17.706000,0 days 00:01:17.382000
+2023,19,Mexico City Grand Prix,2023-10-29,per,red_bull_racing,5.0,0 days 00:01:18.553000,0 days 00:01:18.124000,0 days 00:01:17.423000
+2023,19,Mexico City Grand Prix,2023-10-29,ham,mercedes,6.0,0 days 00:01:18.677000,0 days 00:01:17.571000,0 days 00:01:17.454000
+2023,19,Mexico City Grand Prix,2023-10-29,pia,mclaren,7.0,0 days 00:01:18.241000,0 days 00:01:17.874000,0 days 00:01:17.623000
+2023,19,Mexico City Grand Prix,2023-10-29,rus,mercedes,8.0,0 days 00:01:18.893000,0 days 00:01:17.673000,0 days 00:01:17.674000
+2023,19,Mexico City Grand Prix,2023-10-29,bot,alfa_romeo,9.0,0 days 00:01:18.429000,0 days 00:01:18.016000,0 days 00:01:18.032000
+2023,19,Mexico City Grand Prix,2023-10-29,zho,alfa_romeo,10.0,0 days 00:01:19.016000,0 days 00:01:18.440000,0 days 00:01:18.050000
+2023,19,Mexico City Grand Prix,2023-10-29,gas,alpine,11.0,0 days 00:01:18.945000,0 days 00:01:18.521000,
+2023,19,Mexico City Grand Prix,2023-10-29,hul,haas_f1_team,12.0,0 days 00:01:18.969000,0 days 00:01:18.524000,
+2023,19,Mexico City Grand Prix,2023-10-29,alo,aston_martin,13.0,0 days 00:01:18.848000,0 days 00:01:18.738000,
+2023,19,Mexico City Grand Prix,2023-10-29,alb,williams,14.0,0 days 00:01:18.828000,0 days 00:01:19.147000,
+2023,19,Mexico City Grand Prix,2023-10-29,tsu,alphatauri,15.0,0 days 00:01:18.890000,,
+2023,19,Mexico City Grand Prix,2023-10-29,oco,alpine,16.0,0 days 00:01:19.080000,,
+2023,19,Mexico City Grand Prix,2023-10-29,mag,haas_f1_team,17.0,0 days 00:01:19.163000,,
+2023,19,Mexico City Grand Prix,2023-10-29,str,aston_martin,18.0,0 days 00:01:19.227000,,
+2023,19,Mexico City Grand Prix,2023-10-29,nor,mclaren,19.0,0 days 00:01:21.554000,,
+2023,19,Mexico City Grand Prix,2023-10-29,sar,williams,20.0,,,
+2023,20,São Paulo Grand Prix,2023-11-05,ver,red_bull_racing,1.0,0 days 00:01:10.436000,0 days 00:01:10.162000,0 days 00:01:10.727000
+2023,20,São Paulo Grand Prix,2023-11-05,lec,ferrari,2.0,0 days 00:01:10.472000,0 days 00:01:10.303000,0 days 00:01:11.021000
+2023,20,São Paulo Grand Prix,2023-11-05,str,aston_martin,3.0,0 days 00:01:10.551000,0 days 00:01:10.375000,0 days 00:01:11.344000
+2023,20,São Paulo Grand Prix,2023-11-05,alo,aston_martin,4.0,0 days 00:01:10.557000,0 days 00:01:10.237000,0 days 00:01:11.387000
+2023,20,São Paulo Grand Prix,2023-11-05,ham,mercedes,5.0,0 days 00:01:10.604000,0 days 00:01:10.266000,0 days 00:01:11.469000
+2023,20,São Paulo Grand Prix,2023-11-05,rus,mercedes,6.0,0 days 00:01:10.340000,0 days 00:01:10.316000,0 days 00:01:11.590000
+2023,20,São Paulo Grand Prix,2023-11-05,nor,mclaren,7.0,0 days 00:01:10.623000,0 days 00:01:10.021000,0 days 00:01:11.987000
+2023,20,São Paulo Grand Prix,2023-11-05,sai,ferrari,8.0,0 days 00:01:10.624000,0 days 00:01:10.254000,0 days 00:01:11.989000
+2023,20,São Paulo Grand Prix,2023-11-05,per,red_bull_racing,9.0,0 days 00:01:10.668000,0 days 00:01:10.219000,0 days 00:01:12.321000
+2023,20,São Paulo Grand Prix,2023-11-05,pia,mclaren,10.0,0 days 00:01:10.519000,0 days 00:01:10.330000,
+2023,20,São Paulo Grand Prix,2023-11-05,hul,haas_f1_team,11.0,0 days 00:01:10.475000,0 days 00:01:10.547000,
+2023,20,São Paulo Grand Prix,2023-11-05,oco,alpine,12.0,0 days 00:01:10.763000,0 days 00:01:10.562000,
+2023,20,São Paulo Grand Prix,2023-11-05,gas,alpine,13.0,0 days 00:01:10.793000,0 days 00:01:10.567000,
+2023,20,São Paulo Grand Prix,2023-11-05,mag,haas_f1_team,14.0,0 days 00:01:10.602000,0 days 00:01:10.723000,
+2023,20,São Paulo Grand Prix,2023-11-05,alb,williams,15.0,0 days 00:01:10.621000,0 days 00:01:10.840000,
+2023,20,São Paulo Grand Prix,2023-11-05,tsu,alphatauri,16.0,0 days 00:01:10.837000,,
+2023,20,São Paulo Grand Prix,2023-11-05,ric,alphatauri,17.0,0 days 00:01:10.843000,,
+2023,20,São Paulo Grand Prix,2023-11-05,bot,alfa_romeo,18.0,0 days 00:01:10.955000,,
+2023,20,São Paulo Grand Prix,2023-11-05,sar,williams,19.0,0 days 00:01:11.035000,,
+2023,20,São Paulo Grand Prix,2023-11-05,zho,alfa_romeo,20.0,0 days 00:01:11.275000,,
+2023,21,Las Vegas Grand Prix,2023-11-18,lec,ferrari,1.0,0 days 00:01:33.617000,0 days 00:01:32.775000,0 days 00:01:32.726000
+2023,21,Las Vegas Grand Prix,2023-11-18,sai,ferrari,2.0,0 days 00:01:33.851000,0 days 00:01:33.338000,0 days 00:01:32.770000
+2023,21,Las Vegas Grand Prix,2023-11-18,ver,red_bull_racing,3.0,0 days 00:01:34.190000,0 days 00:01:33.572000,0 days 00:01:33.104000
+2023,21,Las Vegas Grand Prix,2023-11-18,rus,mercedes,4.0,0 days 00:01:34.137000,0 days 00:01:33.351000,0 days 00:01:33.112000
+2023,21,Las Vegas Grand Prix,2023-11-18,gas,alpine,5.0,0 days 00:01:34.272000,0 days 00:01:33.494000,0 days 00:01:33.239000
+2023,21,Las Vegas Grand Prix,2023-11-18,alb,williams,6.0,0 days 00:01:34.634000,0 days 00:01:33.588000,0 days 00:01:33.323000
+2023,21,Las Vegas Grand Prix,2023-11-18,sar,williams,7.0,0 days 00:01:34.525000,0 days 00:01:33.733000,0 days 00:01:33.513000
+2023,21,Las Vegas Grand Prix,2023-11-18,bot,alfa_romeo,8.0,0 days 00:01:34.305000,0 days 00:01:33.809000,0 days 00:01:33.525000
+2023,21,Las Vegas Grand Prix,2023-11-18,mag,haas_f1_team,9.0,0 days 00:01:34.337000,0 days 00:01:33.664000,0 days 00:01:33.537000
+2023,21,Las Vegas Grand Prix,2023-11-18,alo,aston_martin,10.0,0 days 00:01:34.422000,0 days 00:01:33.617000,0 days 00:01:33.555000
+2023,21,Las Vegas Grand Prix,2023-11-18,ham,mercedes,11.0,0 days 00:01:34.307000,0 days 00:01:33.837000,
+2023,21,Las Vegas Grand Prix,2023-11-18,per,red_bull_racing,12.0,0 days 00:01:34.574000,0 days 00:01:33.855000,
+2023,21,Las Vegas Grand Prix,2023-11-18,hul,haas_f1_team,13.0,0 days 00:01:34.265000,0 days 00:01:33.979000,
+2023,21,Las Vegas Grand Prix,2023-11-18,str,aston_martin,14.0,0 days 00:01:34.504000,0 days 00:01:34.199000,
+2023,21,Las Vegas Grand Prix,2023-11-18,ric,alphatauri,15.0,0 days 00:01:34.683000,0 days 00:01:34.308000,
+2023,21,Las Vegas Grand Prix,2023-11-18,nor,mclaren,16.0,0 days 00:01:34.703000,,
+2023,21,Las Vegas Grand Prix,2023-11-18,oco,alpine,17.0,0 days 00:01:34.834000,,
+2023,21,Las Vegas Grand Prix,2023-11-18,zho,alfa_romeo,18.0,0 days 00:01:34.849000,,
+2023,21,Las Vegas Grand Prix,2023-11-18,pia,mclaren,19.0,0 days 00:01:34.850000,,
+2023,21,Las Vegas Grand Prix,2023-11-18,tsu,alphatauri,20.0,0 days 00:01:36.447000,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,rus,mercedes,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,nor,mclaren,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,pia,mclaren,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,alb,williams,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,lec,ferrari,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,ver,red_bull_racing,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,oco,alpine,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,sar,williams,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,tsu,alphatauri,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,zho,alfa_romeo,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,per,red_bull_racing,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,ham,mercedes,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,gas,alpine,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,alo,aston_martin,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,str,aston_martin,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,bot,alfa_romeo,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,hul,haas_f1_team,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,ric,alphatauri,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,mag,haas_f1_team,,,,
+2023,22,Abu Dhabi Grand Prix,2023-11-26,sai,ferrari,,,,
+2024,1,Bahrain Grand Prix,2024-03-02,ver,red_bull_racing,1.0,0 days 00:01:30.031000,0 days 00:01:29.374000,0 days 00:01:29.179000
+2024,1,Bahrain Grand Prix,2024-03-02,lec,ferrari,2.0,0 days 00:01:30.243000,0 days 00:01:29.165000,0 days 00:01:29.407000
+2024,1,Bahrain Grand Prix,2024-03-02,rus,mercedes,3.0,0 days 00:01:30.350000,0 days 00:01:29.922000,0 days 00:01:29.485000
+2024,1,Bahrain Grand Prix,2024-03-02,sai,ferrari,4.0,0 days 00:01:29.909000,0 days 00:01:29.573000,0 days 00:01:29.507000
+2024,1,Bahrain Grand Prix,2024-03-02,per,red_bull_racing,5.0,0 days 00:01:30.221000,0 days 00:01:29.932000,0 days 00:01:29.537000
+2024,1,Bahrain Grand Prix,2024-03-02,alo,aston_martin,6.0,0 days 00:01:30.179000,0 days 00:01:29.801000,0 days 00:01:29.542000
+2024,1,Bahrain Grand Prix,2024-03-02,nor,mclaren,7.0,0 days 00:01:30.143000,0 days 00:01:29.941000,0 days 00:01:29.614000
+2024,1,Bahrain Grand Prix,2024-03-02,pia,mclaren,8.0,0 days 00:01:30.531000,0 days 00:01:30.122000,0 days 00:01:29.683000
+2024,1,Bahrain Grand Prix,2024-03-02,ham,mercedes,9.0,0 days 00:01:30.451000,0 days 00:01:29.718000,0 days 00:01:29.710000
+2024,1,Bahrain Grand Prix,2024-03-02,hul,haas_f1_team,10.0,0 days 00:01:30.566000,0 days 00:01:29.851000,0 days 00:01:30.502000
+2024,1,Bahrain Grand Prix,2024-03-02,tsu,rb,11.0,0 days 00:01:30.481000,0 days 00:01:30.129000,
+2024,1,Bahrain Grand Prix,2024-03-02,str,aston_martin,12.0,0 days 00:01:29.965000,0 days 00:01:30.200000,
+2024,1,Bahrain Grand Prix,2024-03-02,alb,williams,13.0,0 days 00:01:30.397000,0 days 00:01:30.221000,
+2024,1,Bahrain Grand Prix,2024-03-02,ric,rb,14.0,0 days 00:01:30.562000,0 days 00:01:30.278000,
+2024,1,Bahrain Grand Prix,2024-03-02,mag,haas_f1_team,15.0,0 days 00:01:30.646000,0 days 00:01:30.529000,
+2024,1,Bahrain Grand Prix,2024-03-02,bot,kick_sauber,16.0,0 days 00:01:30.756000,,
+2024,1,Bahrain Grand Prix,2024-03-02,zho,kick_sauber,17.0,0 days 00:01:30.757000,,
+2024,1,Bahrain Grand Prix,2024-03-02,sar,williams,18.0,0 days 00:01:30.770000,,
+2024,1,Bahrain Grand Prix,2024-03-02,oco,alpine,19.0,0 days 00:01:30.793000,,
+2024,1,Bahrain Grand Prix,2024-03-02,gas,alpine,20.0,0 days 00:01:30.948000,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,ver,red_bull_racing,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,lec,ferrari,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,per,red_bull_racing,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,rus,mercedes,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,nor,mclaren,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,alo,aston_martin,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,str,aston_martin,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,pia,mclaren,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,ham,mercedes,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,bea,ferrari,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,mag,haas_f1_team,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,gas,alpine,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,tsu,rb,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,oco,alpine,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,hul,haas_f1_team,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,ric,rb,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,alb,williams,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,bot,kick_sauber,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,zho,kick_sauber,,,,
+2024,2,Saudi Arabian Grand Prix,2024-03-09,sar,williams,,,,
+2024,3,Australian Grand Prix,2024-03-24,ver,red_bull_racing,1.0,0 days 00:01:16.819000,0 days 00:01:16.387000,0 days 00:01:15.915000
+2024,3,Australian Grand Prix,2024-03-24,sai,ferrari,2.0,0 days 00:01:16.731000,0 days 00:01:16.189000,0 days 00:01:16.185000
+2024,3,Australian Grand Prix,2024-03-24,per,red_bull_racing,3.0,0 days 00:01:16.805000,0 days 00:01:16.631000,0 days 00:01:16.274000
+2024,3,Australian Grand Prix,2024-03-24,nor,mclaren,4.0,0 days 00:01:17.430000,0 days 00:01:16.750000,0 days 00:01:16.315000
+2024,3,Australian Grand Prix,2024-03-24,lec,ferrari,5.0,0 days 00:01:16.984000,0 days 00:01:16.304000,0 days 00:01:16.435000
+2024,3,Australian Grand Prix,2024-03-24,pia,mclaren,6.0,0 days 00:01:17.369000,0 days 00:01:16.601000,0 days 00:01:16.572000
+2024,3,Australian Grand Prix,2024-03-24,rus,mercedes,7.0,0 days 00:01:17.062000,0 days 00:01:16.901000,0 days 00:01:16.724000
+2024,3,Australian Grand Prix,2024-03-24,tsu,rb,8.0,0 days 00:01:17.356000,0 days 00:01:16.791000,0 days 00:01:16.788000
+2024,3,Australian Grand Prix,2024-03-24,str,aston_martin,9.0,0 days 00:01:17.376000,0 days 00:01:16.780000,0 days 00:01:17.072000
+2024,3,Australian Grand Prix,2024-03-24,alo,aston_martin,10.0,0 days 00:01:16.991000,0 days 00:01:16.710000,0 days 00:01:17.552000
+2024,3,Australian Grand Prix,2024-03-24,ham,mercedes,11.0,0 days 00:01:17.499000,0 days 00:01:16.960000,
+2024,3,Australian Grand Prix,2024-03-24,alb,williams,12.0,0 days 00:01:17.130000,0 days 00:01:17.167000,
+2024,3,Australian Grand Prix,2024-03-24,bot,kick_sauber,13.0,0 days 00:01:17.543000,0 days 00:01:17.340000,
+2024,3,Australian Grand Prix,2024-03-24,mag,haas_f1_team,14.0,0 days 00:01:17.709000,0 days 00:01:17.427000,
+2024,3,Australian Grand Prix,2024-03-24,oco,alpine,15.0,0 days 00:01:17.617000,0 days 00:01:17.697000,
+2024,3,Australian Grand Prix,2024-03-24,hul,haas_f1_team,16.0,0 days 00:01:17.976000,,
+2024,3,Australian Grand Prix,2024-03-24,gas,alpine,17.0,0 days 00:01:17.982000,,
+2024,3,Australian Grand Prix,2024-03-24,ric,rb,18.0,0 days 00:01:18.085000,,
+2024,3,Australian Grand Prix,2024-03-24,zho,kick_sauber,19.0,0 days 00:01:18.188000,,
+2024,4,Japanese Grand Prix,2024-04-07,ver,red_bull_racing,,,,
+2024,4,Japanese Grand Prix,2024-04-07,per,red_bull_racing,,,,
+2024,4,Japanese Grand Prix,2024-04-07,rus,mercedes,,,,
+2024,4,Japanese Grand Prix,2024-04-07,ham,mercedes,,,,
+2024,4,Japanese Grand Prix,2024-04-07,alo,aston_martin,,,,
+2024,4,Japanese Grand Prix,2024-04-07,nor,mclaren,,,,
+2024,4,Japanese Grand Prix,2024-04-07,sai,ferrari,,,,
+2024,4,Japanese Grand Prix,2024-04-07,pia,mclaren,,,,
+2024,4,Japanese Grand Prix,2024-04-07,tsu,rb,,,,
+2024,4,Japanese Grand Prix,2024-04-07,lec,ferrari,,,,
+2024,4,Japanese Grand Prix,2024-04-07,alb,williams,,,,
+2024,4,Japanese Grand Prix,2024-04-07,bot,kick_sauber,,,,
+2024,4,Japanese Grand Prix,2024-04-07,ric,rb,,,,
+2024,4,Japanese Grand Prix,2024-04-07,oco,alpine,,,,
+2024,4,Japanese Grand Prix,2024-04-07,zho,kick_sauber,,,,
+2024,4,Japanese Grand Prix,2024-04-07,hul,haas_f1_team,,,,
+2024,4,Japanese Grand Prix,2024-04-07,gas,alpine,,,,
+2024,4,Japanese Grand Prix,2024-04-07,str,aston_martin,,,,
+2024,4,Japanese Grand Prix,2024-04-07,sar,williams,,,,
+2024,4,Japanese Grand Prix,2024-04-07,mag,haas_f1_team,,,,
+2024,5,Chinese Grand Prix,2024-04-21,ver,red_bull_racing,1.0,0 days 00:01:34.742000,0 days 00:01:33.794000,0 days 00:01:33.660000
+2024,5,Chinese Grand Prix,2024-04-21,per,red_bull_racing,2.0,0 days 00:01:35.457000,0 days 00:01:34.026000,0 days 00:01:33.982000
+2024,5,Chinese Grand Prix,2024-04-21,alo,aston_martin,3.0,0 days 00:01:35.116000,0 days 00:01:34.652000,0 days 00:01:34.148000
+2024,5,Chinese Grand Prix,2024-04-21,nor,mclaren,4.0,0 days 00:01:34.842000,0 days 00:01:34.460000,0 days 00:01:34.165000
+2024,5,Chinese Grand Prix,2024-04-21,pia,mclaren,5.0,0 days 00:01:35.014000,0 days 00:01:34.659000,0 days 00:01:34.273000
+2024,5,Chinese Grand Prix,2024-04-21,lec,ferrari,6.0,0 days 00:01:34.797000,0 days 00:01:34.399000,0 days 00:01:34.289000
+2024,5,Chinese Grand Prix,2024-04-21,sai,ferrari,7.0,0 days 00:01:34.970000,0 days 00:01:34.368000,0 days 00:01:34.297000
+2024,5,Chinese Grand Prix,2024-04-21,rus,mercedes,8.0,0 days 00:01:35.084000,0 days 00:01:34.609000,0 days 00:01:34.433000
+2024,5,Chinese Grand Prix,2024-04-21,hul,haas_f1_team,9.0,0 days 00:01:35.068000,0 days 00:01:34.667000,0 days 00:01:34.604000
+2024,5,Chinese Grand Prix,2024-04-21,bot,kick_sauber,10.0,0 days 00:01:35.169000,0 days 00:01:34.769000,0 days 00:01:34.665000
+2024,5,Chinese Grand Prix,2024-04-21,str,aston_martin,11.0,0 days 00:01:35.334000,0 days 00:01:34.838000,
+2024,5,Chinese Grand Prix,2024-04-21,ric,rb,12.0,0 days 00:01:35.443000,0 days 00:01:34.934000,
+2024,5,Chinese Grand Prix,2024-04-21,oco,alpine,13.0,0 days 00:01:35.356000,0 days 00:01:35.223000,
+2024,5,Chinese Grand Prix,2024-04-21,alb,williams,14.0,0 days 00:01:35.384000,0 days 00:01:35.241000,
+2024,5,Chinese Grand Prix,2024-04-21,gas,alpine,15.0,0 days 00:01:35.287000,0 days 00:01:35.463000,
+2024,5,Chinese Grand Prix,2024-04-21,zho,kick_sauber,16.0,0 days 00:01:35.505000,,
+2024,5,Chinese Grand Prix,2024-04-21,mag,haas_f1_team,17.0,0 days 00:01:35.516000,,
+2024,5,Chinese Grand Prix,2024-04-21,ham,mercedes,18.0,0 days 00:01:35.573000,,
+2024,5,Chinese Grand Prix,2024-04-21,tsu,rb,19.0,0 days 00:01:35.746000,,
+2024,5,Chinese Grand Prix,2024-04-21,sar,williams,20.0,0 days 00:01:36.358000,,
+2024,6,Miami Grand Prix,2024-05-05,ver,red_bull_racing,,,,
+2024,6,Miami Grand Prix,2024-05-05,sar,williams,,,,
+2024,6,Miami Grand Prix,2024-05-05,ric,rb,,,,
+2024,6,Miami Grand Prix,2024-05-05,nor,mclaren,,,,
+2024,6,Miami Grand Prix,2024-05-05,gas,alpine,,,,
+2024,6,Miami Grand Prix,2024-05-05,per,red_bull_racing,,,,
+2024,6,Miami Grand Prix,2024-05-05,alo,aston_martin,,,,
+2024,6,Miami Grand Prix,2024-05-05,lec,ferrari,,,,
+2024,6,Miami Grand Prix,2024-05-05,str,aston_martin,,,,
+2024,6,Miami Grand Prix,2024-05-05,mag,haas_f1_team,,,,
+2024,6,Miami Grand Prix,2024-05-05,tsu,rb,,,,
+2024,6,Miami Grand Prix,2024-05-05,alb,williams,,,,
+2024,6,Miami Grand Prix,2024-05-05,zho,kick_sauber,,,,
+2024,6,Miami Grand Prix,2024-05-05,hul,haas_f1_team,,,,
+2024,6,Miami Grand Prix,2024-05-05,oco,alpine,,,,
+2024,6,Miami Grand Prix,2024-05-05,ham,mercedes,,,,
+2024,6,Miami Grand Prix,2024-05-05,sai,ferrari,,,,
+2024,6,Miami Grand Prix,2024-05-05,rus,mercedes,,,,
+2024,6,Miami Grand Prix,2024-05-05,bot,kick_sauber,,,,
+2024,6,Miami Grand Prix,2024-05-05,pia,mclaren,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,pia,mclaren,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,nor,mclaren,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,sai,ferrari,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,lec,ferrari,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,rus,mercedes,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,ver,red_bull_racing,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,alb,williams,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,oco,alpine,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,str,aston_martin,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,hul,haas_f1_team,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,ric,rb,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,per,red_bull_racing,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,tsu,rb,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,bot,kick_sauber,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,sar,williams,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,mag,haas_f1_team,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,ham,mercedes,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,alo,aston_martin,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,gas,alpine,,,,
+2024,7,Emilia Romagna Grand Prix,2024-05-19,zho,kick_sauber,,,,
+2024,8,Monaco Grand Prix,2024-05-26,lec,ferrari,,,,
+2024,8,Monaco Grand Prix,2024-05-26,ver,red_bull_racing,,,,
+2024,8,Monaco Grand Prix,2024-05-26,ham,mercedes,,,,
+2024,8,Monaco Grand Prix,2024-05-26,pia,mclaren,,,,
+2024,8,Monaco Grand Prix,2024-05-26,per,red_bull_racing,,,,
+2024,8,Monaco Grand Prix,2024-05-26,rus,mercedes,,,,
+2024,8,Monaco Grand Prix,2024-05-26,sai,ferrari,,,,
+2024,8,Monaco Grand Prix,2024-05-26,nor,mclaren,,,,
+2024,8,Monaco Grand Prix,2024-05-26,tsu,rb,,,,
+2024,8,Monaco Grand Prix,2024-05-26,alo,aston_martin,,,,
+2024,8,Monaco Grand Prix,2024-05-26,gas,alpine,,,,
+2024,8,Monaco Grand Prix,2024-05-26,alb,williams,,,,
+2024,8,Monaco Grand Prix,2024-05-26,hul,haas_f1_team,,,,
+2024,8,Monaco Grand Prix,2024-05-26,mag,haas_f1_team,,,,
+2024,8,Monaco Grand Prix,2024-05-26,str,aston_martin,,,,
+2024,8,Monaco Grand Prix,2024-05-26,oco,alpine,,,,
+2024,8,Monaco Grand Prix,2024-05-26,sar,williams,,,,
+2024,8,Monaco Grand Prix,2024-05-26,ric,rb,,,,
+2024,8,Monaco Grand Prix,2024-05-26,zho,kick_sauber,,,,
+2024,8,Monaco Grand Prix,2024-05-26,bot,kick_sauber,,,,
+2024,9,Canadian Grand Prix,2024-06-09,rus,mercedes,1.0,0 days 00:01:13.013000,0 days 00:01:11.742000,0 days 00:01:12
+2024,9,Canadian Grand Prix,2024-06-09,ver,red_bull_racing,2.0,0 days 00:01:12.360000,0 days 00:01:12.549000,0 days 00:01:12
+2024,9,Canadian Grand Prix,2024-06-09,nor,mclaren,3.0,0 days 00:01:12.959000,0 days 00:01:12.201000,0 days 00:01:12.021000
+2024,9,Canadian Grand Prix,2024-06-09,pia,mclaren,4.0,0 days 00:01:12.907000,0 days 00:01:12.462000,0 days 00:01:12.103000
+2024,9,Canadian Grand Prix,2024-06-09,ric,rb,5.0,0 days 00:01:13.240000,0 days 00:01:12.572000,0 days 00:01:12.178000
+2024,9,Canadian Grand Prix,2024-06-09,alo,aston_martin,6.0,0 days 00:01:13.117000,0 days 00:01:12.635000,0 days 00:01:12.228000
+2024,9,Canadian Grand Prix,2024-06-09,ham,mercedes,7.0,0 days 00:01:12.851000,0 days 00:01:11.979000,0 days 00:01:12.280000
+2024,9,Canadian Grand Prix,2024-06-09,tsu,rb,8.0,0 days 00:01:12.748000,0 days 00:01:12.303000,0 days 00:01:12.414000
+2024,9,Canadian Grand Prix,2024-06-09,str,aston_martin,9.0,0 days 00:01:13.088000,0 days 00:01:12.659000,0 days 00:01:12.701000
+2024,9,Canadian Grand Prix,2024-06-09,alb,williams,10.0,0 days 00:01:12.896000,0 days 00:01:12.485000,0 days 00:01:12.796000
+2024,9,Canadian Grand Prix,2024-06-09,lec,ferrari,11.0,0 days 00:01:13.107000,0 days 00:01:12.691000,
+2024,9,Canadian Grand Prix,2024-06-09,sai,ferrari,12.0,0 days 00:01:13.038000,0 days 00:01:12.728000,
+2024,9,Canadian Grand Prix,2024-06-09,sar,williams,13.0,0 days 00:01:13.063000,0 days 00:01:12.736000,
+2024,9,Canadian Grand Prix,2024-06-09,mag,haas_f1_team,14.0,0 days 00:01:13.217000,0 days 00:01:12.916000,
+2024,9,Canadian Grand Prix,2024-06-09,gas,alpine,15.0,0 days 00:01:13.289000,0 days 00:01:12.940000,
+2024,9,Canadian Grand Prix,2024-06-09,per,red_bull_racing,16.0,0 days 00:01:13.326000,,
+2024,9,Canadian Grand Prix,2024-06-09,bot,kick_sauber,17.0,0 days 00:01:13.366000,,
+2024,9,Canadian Grand Prix,2024-06-09,oco,alpine,18.0,0 days 00:01:13.435000,,
+2024,9,Canadian Grand Prix,2024-06-09,hul,haas_f1_team,19.0,0 days 00:01:13.978000,,
+2024,9,Canadian Grand Prix,2024-06-09,zho,kick_sauber,20.0,0 days 00:01:14.292000,,
+2024,10,Spanish Grand Prix,2024-06-23,ver,red_bull_racing,,,,
+2024,10,Spanish Grand Prix,2024-06-23,sar,williams,,,,
+2024,10,Spanish Grand Prix,2024-06-23,ric,rb,,,,
+2024,10,Spanish Grand Prix,2024-06-23,nor,mclaren,,,,
+2024,10,Spanish Grand Prix,2024-06-23,gas,alpine,,,,
+2024,10,Spanish Grand Prix,2024-06-23,per,red_bull_racing,,,,
+2024,10,Spanish Grand Prix,2024-06-23,alo,aston_martin,,,,
+2024,10,Spanish Grand Prix,2024-06-23,lec,ferrari,,,,
+2024,10,Spanish Grand Prix,2024-06-23,str,aston_martin,,,,
+2024,10,Spanish Grand Prix,2024-06-23,mag,haas_f1_team,,,,
+2024,10,Spanish Grand Prix,2024-06-23,tsu,rb,,,,
+2024,10,Spanish Grand Prix,2024-06-23,alb,williams,,,,
+2024,10,Spanish Grand Prix,2024-06-23,zho,kick_sauber,,,,
+2024,10,Spanish Grand Prix,2024-06-23,hul,haas_f1_team,,,,
+2024,10,Spanish Grand Prix,2024-06-23,oco,alpine,,,,
+2024,10,Spanish Grand Prix,2024-06-23,ham,mercedes,,,,
+2024,10,Spanish Grand Prix,2024-06-23,sai,ferrari,,,,
+2024,10,Spanish Grand Prix,2024-06-23,rus,mercedes,,,,
+2024,10,Spanish Grand Prix,2024-06-23,bot,kick_sauber,,,,
+2024,10,Spanish Grand Prix,2024-06-23,pia,mclaren,,,,
+2024,11,Austrian Grand Prix,2024-06-30,ver,red_bull_racing,,,,
+2024,11,Austrian Grand Prix,2024-06-30,pia,mclaren,,,,
+2024,11,Austrian Grand Prix,2024-06-30,lec,ferrari,,,,
+2024,11,Austrian Grand Prix,2024-06-30,sai,ferrari,,,,
+2024,11,Austrian Grand Prix,2024-06-30,ham,mercedes,,,,
+2024,11,Austrian Grand Prix,2024-06-30,oco,alpine,,,,
+2024,11,Austrian Grand Prix,2024-06-30,str,aston_martin,,,,
+2024,11,Austrian Grand Prix,2024-06-30,rus,mercedes,,,,
+2024,11,Austrian Grand Prix,2024-06-30,tsu,rb,,,,
+2024,11,Austrian Grand Prix,2024-06-30,alo,aston_martin,,,,
+2024,11,Austrian Grand Prix,2024-06-30,gas,alpine,,,,
+2024,11,Austrian Grand Prix,2024-06-30,per,red_bull_racing,,,,
+2024,11,Austrian Grand Prix,2024-06-30,nor,mclaren,,,,
+2024,11,Austrian Grand Prix,2024-06-30,zho,kick_sauber,,,,
+2024,11,Austrian Grand Prix,2024-06-30,bot,kick_sauber,,,,
+2024,11,Austrian Grand Prix,2024-06-30,ric,rb,,,,
+2024,11,Austrian Grand Prix,2024-06-30,hul,haas_f1_team,,,,
+2024,11,Austrian Grand Prix,2024-06-30,alb,williams,,,,
+2024,11,Austrian Grand Prix,2024-06-30,mag,haas_f1_team,,,,
+2024,11,Austrian Grand Prix,2024-06-30,sar,williams,,,,
+2024,12,British Grand Prix,2024-07-07,ver,red_bull_racing,,,,
+2024,12,British Grand Prix,2024-07-07,sar,williams,,,,
+2024,12,British Grand Prix,2024-07-07,ric,rb,,,,
+2024,12,British Grand Prix,2024-07-07,nor,mclaren,,,,
+2024,12,British Grand Prix,2024-07-07,gas,alpine,,,,
+2024,12,British Grand Prix,2024-07-07,per,red_bull_racing,,,,
+2024,12,British Grand Prix,2024-07-07,alo,aston_martin,,,,
+2024,12,British Grand Prix,2024-07-07,lec,ferrari,,,,
+2024,12,British Grand Prix,2024-07-07,str,aston_martin,,,,
+2024,12,British Grand Prix,2024-07-07,mag,haas_f1_team,,,,
+2024,12,British Grand Prix,2024-07-07,tsu,rb,,,,
+2024,12,British Grand Prix,2024-07-07,alb,williams,,,,
+2024,12,British Grand Prix,2024-07-07,zho,kick_sauber,,,,
+2024,12,British Grand Prix,2024-07-07,hul,haas_f1_team,,,,
+2024,12,British Grand Prix,2024-07-07,oco,alpine,,,,
+2024,12,British Grand Prix,2024-07-07,ham,mercedes,,,,
+2024,12,British Grand Prix,2024-07-07,sai,ferrari,,,,
+2024,12,British Grand Prix,2024-07-07,rus,mercedes,,,,
+2024,12,British Grand Prix,2024-07-07,bot,kick_sauber,,,,
+2024,12,British Grand Prix,2024-07-07,pia,mclaren,,,,
+2024,13,Hungarian Grand Prix,2024-07-21,nor,mclaren,1.0,0 days 00:01:17.755000,0 days 00:01:15.540000,0 days 00:01:15.227000
+2024,13,Hungarian Grand Prix,2024-07-21,pia,mclaren,2.0,0 days 00:01:17.504000,0 days 00:01:15.785000,0 days 00:01:15.249000
+2024,13,Hungarian Grand Prix,2024-07-21,ver,red_bull_racing,3.0,0 days 00:01:17.087000,0 days 00:01:15.770000,0 days 00:01:15.273000
+2024,13,Hungarian Grand Prix,2024-07-21,sai,ferrari,4.0,0 days 00:01:17.244000,0 days 00:01:15.885000,0 days 00:01:15.696000
+2024,13,Hungarian Grand Prix,2024-07-21,ham,mercedes,5.0,0 days 00:01:17.087000,0 days 00:01:16.307000,0 days 00:01:15.854000
+2024,13,Hungarian Grand Prix,2024-07-21,lec,ferrari,6.0,0 days 00:01:17.437000,0 days 00:01:15.891000,0 days 00:01:15.905000
+2024,13,Hungarian Grand Prix,2024-07-21,alo,aston_martin,7.0,0 days 00:01:17.624000,0 days 00:01:16.117000,0 days 00:01:16.043000
+2024,13,Hungarian Grand Prix,2024-07-21,str,aston_martin,8.0,0 days 00:01:17.405000,0 days 00:01:16.075000,0 days 00:01:16.244000
+2024,13,Hungarian Grand Prix,2024-07-21,ric,rb,9.0,0 days 00:01:17.050000,0 days 00:01:16.202000,0 days 00:01:16.447000
+2024,13,Hungarian Grand Prix,2024-07-21,tsu,rb,10.0,0 days 00:01:17.436000,0 days 00:01:16.121000,0 days 00:01:16.477000
+2024,13,Hungarian Grand Prix,2024-07-21,hul,haas_f1_team,11.0,0 days 00:01:17.362000,0 days 00:01:16.317000,
+2024,13,Hungarian Grand Prix,2024-07-21,bot,kick_sauber,12.0,0 days 00:01:17.487000,0 days 00:01:16.384000,
+2024,13,Hungarian Grand Prix,2024-07-21,alb,williams,13.0,0 days 00:01:17.280000,0 days 00:01:16.429000,
+2024,13,Hungarian Grand Prix,2024-07-21,sar,williams,14.0,0 days 00:01:17.770000,0 days 00:01:16.543000,
+2024,13,Hungarian Grand Prix,2024-07-21,mag,haas_f1_team,15.0,0 days 00:01:17.851000,0 days 00:01:16.548000,
+2024,13,Hungarian Grand Prix,2024-07-21,per,red_bull_racing,16.0,0 days 00:01:17.886000,,
+2024,13,Hungarian Grand Prix,2024-07-21,rus,mercedes,17.0,0 days 00:01:17.968000,,
+2024,13,Hungarian Grand Prix,2024-07-21,zho,kick_sauber,18.0,0 days 00:01:18.037000,,
+2024,13,Hungarian Grand Prix,2024-07-21,oco,alpine,19.0,0 days 00:01:18.049000,,
+2024,13,Hungarian Grand Prix,2024-07-21,gas,alpine,20.0,0 days 00:01:18.166000,,
+2024,14,Belgian Grand Prix,2024-07-28,ver,red_bull_racing,,,,
+2024,14,Belgian Grand Prix,2024-07-28,pia,mclaren,,,,
+2024,14,Belgian Grand Prix,2024-07-28,gas,alpine,,,,
+2024,14,Belgian Grand Prix,2024-07-28,nor,mclaren,,,,
+2024,14,Belgian Grand Prix,2024-07-28,oco,alpine,,,,
+2024,14,Belgian Grand Prix,2024-07-28,lec,ferrari,,,,
+2024,14,Belgian Grand Prix,2024-07-28,str,aston_martin,,,,
+2024,14,Belgian Grand Prix,2024-07-28,bot,kick_sauber,,,,
+2024,14,Belgian Grand Prix,2024-07-28,ham,mercedes,,,,
+2024,14,Belgian Grand Prix,2024-07-28,per,red_bull_racing,,,,
+2024,14,Belgian Grand Prix,2024-07-28,alb,williams,,,,
+2024,14,Belgian Grand Prix,2024-07-28,hul,haas_f1_team,,,,
+2024,14,Belgian Grand Prix,2024-07-28,alo,aston_martin,,,,
+2024,14,Belgian Grand Prix,2024-07-28,ric,rb,,,,
+2024,14,Belgian Grand Prix,2024-07-28,tsu,rb,,,,
+2024,14,Belgian Grand Prix,2024-07-28,zho,kick_sauber,,,,
+2024,14,Belgian Grand Prix,2024-07-28,sar,williams,,,,
+2024,14,Belgian Grand Prix,2024-07-28,rus,mercedes,,,,
+2024,14,Belgian Grand Prix,2024-07-28,sai,ferrari,,,,
+2024,14,Belgian Grand Prix,2024-07-28,mag,haas_f1_team,,,,
+2024,15,Dutch Grand Prix,2024-08-25,nor,mclaren,1.0,0 days 00:01:11.377000,0 days 00:01:10.496000,0 days 00:01:09.673000
+2024,15,Dutch Grand Prix,2024-08-25,ver,red_bull_racing,2.0,0 days 00:01:11.393000,0 days 00:01:10.811000,0 days 00:01:10.029000
+2024,15,Dutch Grand Prix,2024-08-25,pia,mclaren,3.0,0 days 00:01:11.541000,0 days 00:01:10.505000,0 days 00:01:10.172000
+2024,15,Dutch Grand Prix,2024-08-25,rus,mercedes,4.0,0 days 00:01:11.049000,0 days 00:01:10.552000,0 days 00:01:10.244000
+2024,15,Dutch Grand Prix,2024-08-25,per,red_bull_racing,5.0,0 days 00:01:11.006000,0 days 00:01:10.678000,0 days 00:01:10.416000
+2024,15,Dutch Grand Prix,2024-08-25,lec,ferrari,6.0,0 days 00:01:11.370000,0 days 00:01:10.689000,0 days 00:01:10.582000
+2024,15,Dutch Grand Prix,2024-08-25,alo,aston_martin,7.0,0 days 00:01:11.493000,0 days 00:01:10.845000,0 days 00:01:10.633000
+2024,15,Dutch Grand Prix,2024-08-25,str,aston_martin,8.0,0 days 00:01:11.518000,0 days 00:01:10.661000,0 days 00:01:10.857000
+2024,15,Dutch Grand Prix,2024-08-25,gas,alpine,9.0,0 days 00:01:11.718000,0 days 00:01:10.815000,0 days 00:01:10.977000
+2024,15,Dutch Grand Prix,2024-08-25,sai,ferrari,10.0,0 days 00:01:11.327000,0 days 00:01:10.914000,
+2024,15,Dutch Grand Prix,2024-08-25,alb,williams,10.0,,0 days 00:01:10.768000,0 days 00:01:10.653000
+2024,15,Dutch Grand Prix,2024-08-25,ham,mercedes,11.0,0 days 00:01:11.375000,0 days 00:01:10.948000,
+2024,15,Dutch Grand Prix,2024-08-25,tsu,rb,12.0,0 days 00:01:11.603000,0 days 00:01:10.955000,
+2024,15,Dutch Grand Prix,2024-08-25,hul,haas_f1_team,13.0,0 days 00:01:11.832000,0 days 00:01:11.215000,
+2024,15,Dutch Grand Prix,2024-08-25,mag,haas_f1_team,14.0,0 days 00:01:11.630000,0 days 00:01:11.295000,
+2024,15,Dutch Grand Prix,2024-08-25,ric,rb,15.0,0 days 00:01:11.943000,,
+2024,15,Dutch Grand Prix,2024-08-25,oco,alpine,16.0,0 days 00:01:11.995000,,
+2024,15,Dutch Grand Prix,2024-08-25,bot,kick_sauber,17.0,0 days 00:01:12.168000,,
+2024,15,Dutch Grand Prix,2024-08-25,zho,kick_sauber,18.0,0 days 00:01:13.261000,,
+2024,15,Dutch Grand Prix,2024-08-25,sar,williams,20.0,,,
+2024,16,Italian Grand Prix,2024-09-01,ham,mercedes,,,,
+2024,16,Italian Grand Prix,2024-09-01,rus,mercedes,,,,
+2024,16,Italian Grand Prix,2024-09-01,lec,ferrari,,,,
+2024,16,Italian Grand Prix,2024-09-01,pia,mclaren,,,,
+2024,16,Italian Grand Prix,2024-09-01,nor,mclaren,,,,
+2024,16,Italian Grand Prix,2024-09-01,ver,red_bull_racing,,,,
+2024,16,Italian Grand Prix,2024-09-01,sai,ferrari,,,,
+2024,16,Italian Grand Prix,2024-09-01,alb,williams,,,,
+2024,16,Italian Grand Prix,2024-09-01,col,williams,,,,
+2024,16,Italian Grand Prix,2024-09-01,hul,haas_f1_team,,,,
+2024,16,Italian Grand Prix,2024-09-01,alo,aston_martin,,,,
+2024,16,Italian Grand Prix,2024-09-01,ric,rb,,,,
+2024,16,Italian Grand Prix,2024-09-01,tsu,rb,,,,
+2024,16,Italian Grand Prix,2024-09-01,gas,alpine,,,,
+2024,16,Italian Grand Prix,2024-09-01,str,aston_martin,,,,
+2024,16,Italian Grand Prix,2024-09-01,mag,haas_f1_team,,,,
+2024,16,Italian Grand Prix,2024-09-01,oco,alpine,,,,
+2024,16,Italian Grand Prix,2024-09-01,per,red_bull_racing,,,,
+2024,16,Italian Grand Prix,2024-09-01,bot,kick_sauber,,,,
+2024,16,Italian Grand Prix,2024-09-01,zho,kick_sauber,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,ver,red_bull_racing,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,ric,rb,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,nor,mclaren,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,gas,alpine,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,per,red_bull_racing,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,alo,aston_martin,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,lec,ferrari,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,str,aston_martin,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,tsu,rb,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,alb,williams,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,zho,kick_sauber,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,hul,haas_f1_team,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,oco,alpine,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,col,williams,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,ham,mercedes,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,bea,haas_f1_team,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,sai,ferrari,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,rus,mercedes,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,bot,kick_sauber,,,,
+2024,17,Azerbaijan Grand Prix,2024-09-15,pia,mclaren,,,,
+2024,18,Singapore Grand Prix,2024-09-22,nor,mclaren,,,,
+2024,18,Singapore Grand Prix,2024-09-22,rus,mercedes,,,,
+2024,18,Singapore Grand Prix,2024-09-22,pia,mclaren,,,,
+2024,18,Singapore Grand Prix,2024-09-22,ver,red_bull_racing,,,,
+2024,18,Singapore Grand Prix,2024-09-22,lec,ferrari,,,,
+2024,18,Singapore Grand Prix,2024-09-22,sai,ferrari,,,,
+2024,18,Singapore Grand Prix,2024-09-22,ham,mercedes,,,,
+2024,18,Singapore Grand Prix,2024-09-22,alb,williams,,,,
+2024,18,Singapore Grand Prix,2024-09-22,col,williams,,,,
+2024,18,Singapore Grand Prix,2024-09-22,alo,aston_martin,,,,
+2024,18,Singapore Grand Prix,2024-09-22,tsu,rb,,,,
+2024,18,Singapore Grand Prix,2024-09-22,hul,haas_f1_team,,,,
+2024,18,Singapore Grand Prix,2024-09-22,mag,haas_f1_team,,,,
+2024,18,Singapore Grand Prix,2024-09-22,gas,alpine,,,,
+2024,18,Singapore Grand Prix,2024-09-22,per,red_bull_racing,,,,
+2024,18,Singapore Grand Prix,2024-09-22,oco,alpine,,,,
+2024,18,Singapore Grand Prix,2024-09-22,ric,rb,,,,
+2024,18,Singapore Grand Prix,2024-09-22,str,aston_martin,,,,
+2024,18,Singapore Grand Prix,2024-09-22,bot,kick_sauber,,,,
+2024,18,Singapore Grand Prix,2024-09-22,zho,kick_sauber,,,,
+2024,19,United States Grand Prix,2024-10-20,sai,ferrari,,,,
+2024,19,United States Grand Prix,2024-10-20,lec,ferrari,,,,
+2024,19,United States Grand Prix,2024-10-20,ver,red_bull_racing,,,,
+2024,19,United States Grand Prix,2024-10-20,nor,mclaren,,,,
+2024,19,United States Grand Prix,2024-10-20,pia,mclaren,,,,
+2024,19,United States Grand Prix,2024-10-20,ham,mercedes,,,,
+2024,19,United States Grand Prix,2024-10-20,rus,mercedes,,,,
+2024,19,United States Grand Prix,2024-10-20,mag,haas_f1_team,,,,
+2024,19,United States Grand Prix,2024-10-20,alo,aston_martin,,,,
+2024,19,United States Grand Prix,2024-10-20,tsu,rb,,,,
+2024,19,United States Grand Prix,2024-10-20,hul,haas_f1_team,,,,
+2024,19,United States Grand Prix,2024-10-20,gas,alpine,,,,
+2024,19,United States Grand Prix,2024-10-20,law,rb,,,,
+2024,19,United States Grand Prix,2024-10-20,alb,williams,,,,
+2024,19,United States Grand Prix,2024-10-20,str,aston_martin,,,,
+2024,19,United States Grand Prix,2024-10-20,per,red_bull_racing,,,,
+2024,19,United States Grand Prix,2024-10-20,oco,alpine,,,,
+2024,19,United States Grand Prix,2024-10-20,bot,kick_sauber,,,,
+2024,19,United States Grand Prix,2024-10-20,col,williams,,,,
+2024,19,United States Grand Prix,2024-10-20,zho,kick_sauber,,,,
+2024,20,Mexico City Grand Prix,2024-10-27,sai,ferrari,1.0,0 days 00:01:16.778000,0 days 00:01:16.515000,0 days 00:01:15.946000
+2024,20,Mexico City Grand Prix,2024-10-27,ver,red_bull_racing,2.0,0 days 00:01:16.803000,0 days 00:01:16.514000,0 days 00:01:16.171000
+2024,20,Mexico City Grand Prix,2024-10-27,nor,mclaren,3.0,0 days 00:01:16.505000,0 days 00:01:16.301000,0 days 00:01:16.260000
+2024,20,Mexico City Grand Prix,2024-10-27,lec,ferrari,4.0,0 days 00:01:16.972000,0 days 00:01:16.641000,0 days 00:01:16.265000
+2024,20,Mexico City Grand Prix,2024-10-27,rus,mercedes,5.0,0 days 00:01:17.194000,0 days 00:01:16.937000,0 days 00:01:16.356000
+2024,20,Mexico City Grand Prix,2024-10-27,ham,mercedes,6.0,0 days 00:01:17.306000,0 days 00:01:16.973000,0 days 00:01:16.651000
+2024,20,Mexico City Grand Prix,2024-10-27,mag,haas_f1_team,7.0,0 days 00:01:17.125000,0 days 00:01:17.003000,0 days 00:01:16.886000
+2024,20,Mexico City Grand Prix,2024-10-27,gas,alpine,8.0,0 days 00:01:17.149000,0 days 00:01:17.048000,0 days 00:01:16.892000
+2024,20,Mexico City Grand Prix,2024-10-27,alb,williams,9.0,0 days 00:01:17.189000,0 days 00:01:16.988000,0 days 00:01:17.065000
+2024,20,Mexico City Grand Prix,2024-10-27,hul,haas_f1_team,10.0,0 days 00:01:17.186000,0 days 00:01:16.995000,0 days 00:01:17.365000
+2024,20,Mexico City Grand Prix,2024-10-27,tsu,rb,11.0,0 days 00:01:17.182000,0 days 00:01:17.129000,
+2024,20,Mexico City Grand Prix,2024-10-27,law,rb,12.0,0 days 00:01:17.380000,0 days 00:01:17.162000,
+2024,20,Mexico City Grand Prix,2024-10-27,alo,aston_martin,13.0,0 days 00:01:17.307000,0 days 00:01:17.168000,
+2024,20,Mexico City Grand Prix,2024-10-27,str,aston_martin,14.0,0 days 00:01:17.407000,0 days 00:01:17.294000,
+2024,20,Mexico City Grand Prix,2024-10-27,bot,kick_sauber,15.0,0 days 00:01:17.393000,0 days 00:01:17.817000,
+2024,20,Mexico City Grand Prix,2024-10-27,col,williams,16.0,0 days 00:01:17.558000,,
+2024,20,Mexico City Grand Prix,2024-10-27,pia,mclaren,17.0,0 days 00:01:17.597000,,
+2024,20,Mexico City Grand Prix,2024-10-27,per,red_bull_racing,18.0,0 days 00:01:17.611000,,
+2024,20,Mexico City Grand Prix,2024-10-27,oco,alpine,19.0,0 days 00:01:17.617000,,
+2024,20,Mexico City Grand Prix,2024-10-27,zho,kick_sauber,20.0,0 days 00:01:18.072000,,
+2024,21,São Paulo Grand Prix,2024-11-03,nor,mclaren,1.0,0 days 00:01:30.944000,0 days 00:01:24.844000,0 days 00:01:23.405000
+2024,21,São Paulo Grand Prix,2024-11-03,rus,mercedes,2.0,0 days 00:01:29.121000,0 days 00:01:26.307000,0 days 00:01:23.578000
+2024,21,São Paulo Grand Prix,2024-11-03,tsu,rb,3.0,0 days 00:01:29.172000,0 days 00:01:26.464000,0 days 00:01:24.111000
+2024,21,São Paulo Grand Prix,2024-11-03,oco,alpine,4.0,0 days 00:01:29.171000,0 days 00:01:26.206000,0 days 00:01:24.475000
+2024,21,São Paulo Grand Prix,2024-11-03,law,rb,5.0,0 days 00:01:30.758000,0 days 00:01:25.654000,0 days 00:01:24.484000
+2024,21,São Paulo Grand Prix,2024-11-03,lec,ferrari,6.0,0 days 00:01:29.839000,0 days 00:01:26.097000,0 days 00:01:24.525000
+2024,21,São Paulo Grand Prix,2024-11-03,alb,williams,7.0,0 days 00:01:29.072000,0 days 00:01:24.657000,0 days 00:01:24.657000
+2024,21,São Paulo Grand Prix,2024-11-03,pia,mclaren,8.0,0 days 00:01:30.114000,0 days 00:01:24.686000,0 days 00:01:24.686000
+2024,21,São Paulo Grand Prix,2024-11-03,alo,aston_martin,9.0,0 days 00:01:30.207000,0 days 00:01:28.998000,0 days 00:01:28.998000
+2024,21,São Paulo Grand Prix,2024-11-03,str,aston_martin,10.0,0 days 00:01:30.580000,0 days 00:01:26.334000,
+2024,21,São Paulo Grand Prix,2024-11-03,bot,kick_sauber,11.0,0 days 00:01:30.633000,0 days 00:01:26.472000,
+2024,21,São Paulo Grand Prix,2024-11-03,ver,red_bull_racing,12.0,0 days 00:01:28.522000,0 days 00:01:27.771000,
+2024,21,São Paulo Grand Prix,2024-11-03,per,red_bull_racing,13.0,0 days 00:01:30.035000,0 days 00:01:28.158000,
+2024,21,São Paulo Grand Prix,2024-11-03,sai,ferrari,14.0,0 days 00:01:30.303000,0 days 00:01:29.406000,
+2024,21,São Paulo Grand Prix,2024-11-03,gas,alpine,15.0,0 days 00:01:29.420000,0 days 00:01:29.614000,
+2024,21,São Paulo Grand Prix,2024-11-03,ham,mercedes,16.0,0 days 00:01:31.150000,,
+2024,21,São Paulo Grand Prix,2024-11-03,bea,haas_f1_team,17.0,0 days 00:01:31.229000,,
+2024,21,São Paulo Grand Prix,2024-11-03,col,williams,18.0,0 days 00:01:31.270000,,
+2024,21,São Paulo Grand Prix,2024-11-03,hul,haas_f1_team,19.0,0 days 00:01:31.623000,,
+2024,21,São Paulo Grand Prix,2024-11-03,zho,kick_sauber,20.0,0 days 00:01:32.263000,,
+2024,22,Las Vegas Grand Prix,2024-11-23,rus,mercedes,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,pia,mclaren,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,sai,ferrari,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,nor,mclaren,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,ver,red_bull_racing,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,ham,mercedes,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,alb,williams,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,col,williams,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,mag,haas_f1_team,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,gas,alpine,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,hul,haas_f1_team,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,lec,ferrari,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,per,red_bull_racing,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,oco,alpine,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,alo,aston_martin,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,tsu,rb,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,bot,kick_sauber,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,law,rb,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,str,aston_martin,,,,
+2024,22,Las Vegas Grand Prix,2024-11-23,zho,kick_sauber,,,,
+2024,23,Qatar Grand Prix,2024-12-01,lec,ferrari,,,,
+2024,23,Qatar Grand Prix,2024-12-01,nor,mclaren,,,,
+2024,23,Qatar Grand Prix,2024-12-01,pia,mclaren,,,,
+2024,23,Qatar Grand Prix,2024-12-01,sai,ferrari,,,,
+2024,23,Qatar Grand Prix,2024-12-01,tsu,rb,,,,
+2024,23,Qatar Grand Prix,2024-12-01,bot,kick_sauber,,,,
+2024,23,Qatar Grand Prix,2024-12-01,str,aston_martin,,,,
+2024,23,Qatar Grand Prix,2024-12-01,rus,mercedes,,,,
+2024,23,Qatar Grand Prix,2024-12-01,alb,williams,,,,
+2024,23,Qatar Grand Prix,2024-12-01,ham,mercedes,,,,
+2024,23,Qatar Grand Prix,2024-12-01,ver,red_bull_racing,,,,
+2024,23,Qatar Grand Prix,2024-12-01,alo,aston_martin,,,,
+2024,23,Qatar Grand Prix,2024-12-01,hul,haas_f1_team,,,,
+2024,23,Qatar Grand Prix,2024-12-01,law,rb,,,,
+2024,23,Qatar Grand Prix,2024-12-01,gas,alpine,,,,
+2024,23,Qatar Grand Prix,2024-12-01,mag,haas_f1_team,,,,
+2024,23,Qatar Grand Prix,2024-12-01,zho,kick_sauber,,,,
+2024,23,Qatar Grand Prix,2024-12-01,per,red_bull_racing,,,,
+2024,23,Qatar Grand Prix,2024-12-01,col,williams,,,,
+2024,23,Qatar Grand Prix,2024-12-01,oco,alpine,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,pia,mclaren,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,nor,mclaren,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,ham,mercedes,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,ver,red_bull_racing,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,sai,ferrari,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,rus,mercedes,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,hul,haas_f1_team,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,mag,haas_f1_team,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,lec,ferrari,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,per,red_bull_racing,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,tsu,rb,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,alb,williams,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,gas,alpine,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,doo,alpine,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,alo,aston_martin,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,bot,kick_sauber,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,law,rb,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,str,aston_martin,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,zho,kick_sauber,,,,
+2024,24,Abu Dhabi Grand Prix,2024-12-08,col,williams,,,,
+2025,1,Australian Grand Prix,2025-03-16,pia,mclaren,,,,
+2025,1,Australian Grand Prix,2025-03-16,rus,mercedes,,,,
+2025,1,Australian Grand Prix,2025-03-16,ver,red_bull_racing,,,,
+2025,1,Australian Grand Prix,2025-03-16,lec,ferrari,,,,
+2025,1,Australian Grand Prix,2025-03-16,ant,mercedes,,,,
+2025,1,Australian Grand Prix,2025-03-16,sai,williams,,,,
+2025,1,Australian Grand Prix,2025-03-16,alb,williams,,,,
+2025,1,Australian Grand Prix,2025-03-16,ham,ferrari,,,,
+2025,1,Australian Grand Prix,2025-03-16,tsu,racing_bulls,,,,
+2025,1,Australian Grand Prix,2025-03-16,nor,mclaren,,,,
+2025,1,Australian Grand Prix,2025-03-16,bor,kick_sauber,,,,
+2025,1,Australian Grand Prix,2025-03-16,gas,alpine,,,,
+2025,1,Australian Grand Prix,2025-03-16,had,racing_bulls,,,,
+2025,1,Australian Grand Prix,2025-03-16,str,aston_martin,,,,
+2025,1,Australian Grand Prix,2025-03-16,doo,alpine,,,,
+2025,1,Australian Grand Prix,2025-03-16,hul,kick_sauber,,,,
+2025,1,Australian Grand Prix,2025-03-16,alo,aston_martin,,,,
+2025,1,Australian Grand Prix,2025-03-16,oco,haas_f1_team,,,,
+2025,1,Australian Grand Prix,2025-03-16,bea,haas_f1_team,,,,
+2025,1,Australian Grand Prix,2025-03-16,law,red_bull_racing,,,,
+2025,2,Chinese Grand Prix,2025-03-23,nor,mclaren,,,,
+2025,2,Chinese Grand Prix,2025-03-23,lec,ferrari,,,,
+2025,2,Chinese Grand Prix,2025-03-23,pia,mclaren,,,,
+2025,2,Chinese Grand Prix,2025-03-23,ham,ferrari,,,,
+2025,2,Chinese Grand Prix,2025-03-23,rus,mercedes,,,,
+2025,2,Chinese Grand Prix,2025-03-23,hul,kick_sauber,,,,
+2025,2,Chinese Grand Prix,2025-03-23,alb,williams,,,,
+2025,2,Chinese Grand Prix,2025-03-23,alo,aston_martin,,,,
+2025,2,Chinese Grand Prix,2025-03-23,ant,mercedes,,,,
+2025,2,Chinese Grand Prix,2025-03-23,tsu,racing_bulls,,,,
+2025,2,Chinese Grand Prix,2025-03-23,bea,haas_f1_team,,,,
+2025,2,Chinese Grand Prix,2025-03-23,str,aston_martin,,,,
+2025,2,Chinese Grand Prix,2025-03-23,oco,haas_f1_team,,,,
+2025,2,Chinese Grand Prix,2025-03-23,gas,alpine,,,,
+2025,2,Chinese Grand Prix,2025-03-23,sai,williams,,,,
+2025,2,Chinese Grand Prix,2025-03-23,ver,red_bull_racing,,,,
+2025,2,Chinese Grand Prix,2025-03-23,had,racing_bulls,,,,
+2025,2,Chinese Grand Prix,2025-03-23,law,red_bull_racing,,,,
+2025,2,Chinese Grand Prix,2025-03-23,bor,kick_sauber,,,,
+2025,2,Chinese Grand Prix,2025-03-23,doo,alpine,,,,
+2025,3,Japanese Grand Prix,2025-04-06,nor,mclaren,,,,
+2025,3,Japanese Grand Prix,2025-04-06,pia,mclaren,,,,
+2025,3,Japanese Grand Prix,2025-04-06,rus,mercedes,,,,
+2025,3,Japanese Grand Prix,2025-04-06,lec,ferrari,,,,
+2025,3,Japanese Grand Prix,2025-04-06,ver,red_bull_racing,,,,
+2025,3,Japanese Grand Prix,2025-04-06,ham,ferrari,,,,
+2025,3,Japanese Grand Prix,2025-04-06,alb,williams,,,,
+2025,3,Japanese Grand Prix,2025-04-06,gas,alpine,,,,
+2025,3,Japanese Grand Prix,2025-04-06,tsu,red_bull_racing,,,,
+2025,3,Japanese Grand Prix,2025-04-06,had,racing_bulls,,,,
+2025,3,Japanese Grand Prix,2025-04-06,sai,williams,,,,
+2025,3,Japanese Grand Prix,2025-04-06,law,racing_bulls,,,,
+2025,3,Japanese Grand Prix,2025-04-06,ant,mercedes,,,,
+2025,3,Japanese Grand Prix,2025-04-06,doo,alpine,,,,
+2025,3,Japanese Grand Prix,2025-04-06,alo,aston_martin,,,,
+2025,3,Japanese Grand Prix,2025-04-06,bea,haas_f1_team,,,,
+2025,3,Japanese Grand Prix,2025-04-06,bor,kick_sauber,,,,
+2025,3,Japanese Grand Prix,2025-04-06,oco,haas_f1_team,,,,
+2025,3,Japanese Grand Prix,2025-04-06,str,aston_martin,,,,
+2025,3,Japanese Grand Prix,2025-04-06,hul,kick_sauber,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,pia,mclaren,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,nor,mclaren,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,lec,ferrari,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,rus,mercedes,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,ant,mercedes,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,gas,alpine,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,had,racing_bulls,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,ver,red_bull_racing,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,sai,williams,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,ham,ferrari,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,oco,haas_f1_team,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,doo,alpine,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,law,racing_bulls,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,alo,aston_martin,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,alb,williams,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,bea,haas_f1_team,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,str,aston_martin,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,bor,kick_sauber,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,hul,kick_sauber,,,,
+2025,4,Bahrain Grand Prix,2025-04-13,tsu,red_bull_racing,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,nor,mclaren,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,pia,mclaren,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,rus,mercedes,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,ver,red_bull_racing,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,lec,ferrari,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,alb,williams,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,sai,williams,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,gas,alpine,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,tsu,red_bull_racing,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,ant,mercedes,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,had,racing_bulls,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,ham,ferrari,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,law,racing_bulls,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,alo,aston_martin,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,doo,alpine,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,bea,haas_f1_team,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,hul,kick_sauber,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,oco,haas_f1_team,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,bor,kick_sauber,,,,
+2025,5,Saudi Arabian Grand Prix,2025-04-20,str,aston_martin,,,,
+2025,6,Miami Grand Prix,2025-05-04,pia,mclaren,,,,
+2025,6,Miami Grand Prix,2025-05-04,lec,ferrari,,,,
+2025,6,Miami Grand Prix,2025-05-04,ver,red_bull_racing,,,,
+2025,6,Miami Grand Prix,2025-05-04,sai,williams,,,,
+2025,6,Miami Grand Prix,2025-05-04,alb,williams,,,,
+2025,6,Miami Grand Prix,2025-05-04,had,racing_bulls,,,,
+2025,6,Miami Grand Prix,2025-05-04,rus,mercedes,,,,
+2025,6,Miami Grand Prix,2025-05-04,tsu,red_bull_racing,,,,
+2025,6,Miami Grand Prix,2025-05-04,ant,mercedes,,,,
+2025,6,Miami Grand Prix,2025-05-04,alo,aston_martin,,,,
+2025,6,Miami Grand Prix,2025-05-04,law,racing_bulls,,,,
+2025,6,Miami Grand Prix,2025-05-04,nor,mclaren,,,,
+2025,6,Miami Grand Prix,2025-05-04,ham,ferrari,,,,
+2025,6,Miami Grand Prix,2025-05-04,hul,kick_sauber,,,,
+2025,6,Miami Grand Prix,2025-05-04,bor,kick_sauber,,,,
+2025,6,Miami Grand Prix,2025-05-04,bea,haas_f1_team,,,,
+2025,6,Miami Grand Prix,2025-05-04,gas,alpine,,,,
+2025,6,Miami Grand Prix,2025-05-04,oco,haas_f1_team,,,,
+2025,6,Miami Grand Prix,2025-05-04,doo,alpine,,,,
+2025,6,Miami Grand Prix,2025-05-04,str,aston_martin,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,nor,mclaren,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,pia,mclaren,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,ver,red_bull_racing,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,ant,mercedes,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,lec,ferrari,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,sai,williams,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,had,racing_bulls,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,rus,mercedes,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,alb,williams,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,ham,ferrari,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,alo,aston_martin,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,bea,haas_f1_team,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,str,aston_martin,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,law,racing_bulls,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,gas,alpine,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,bor,kick_sauber,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,tsu,red_bull_racing,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,col,alpine,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,hul,kick_sauber,,,,
+2025,7,Emilia Romagna Grand Prix,2025-05-18,oco,haas_f1_team,,,,
+2025,8,Monaco Grand Prix,2025-05-25,lec,ferrari,,,,
+2025,8,Monaco Grand Prix,2025-05-25,ver,red_bull_racing,,,,
+2025,8,Monaco Grand Prix,2025-05-25,nor,mclaren,,,,
+2025,8,Monaco Grand Prix,2025-05-25,pia,mclaren,,,,
+2025,8,Monaco Grand Prix,2025-05-25,ham,ferrari,,,,
+2025,8,Monaco Grand Prix,2025-05-25,alb,williams,,,,
+2025,8,Monaco Grand Prix,2025-05-25,law,racing_bulls,,,,
+2025,8,Monaco Grand Prix,2025-05-25,sai,williams,,,,
+2025,8,Monaco Grand Prix,2025-05-25,tsu,red_bull_racing,,,,
+2025,8,Monaco Grand Prix,2025-05-25,ant,mercedes,,,,
+2025,8,Monaco Grand Prix,2025-05-25,rus,mercedes,,,,
+2025,8,Monaco Grand Prix,2025-05-25,alo,aston_martin,,,,
+2025,8,Monaco Grand Prix,2025-05-25,hul,kick_sauber,,,,
+2025,8,Monaco Grand Prix,2025-05-25,gas,alpine,,,,
+2025,8,Monaco Grand Prix,2025-05-25,str,aston_martin,,,,
+2025,8,Monaco Grand Prix,2025-05-25,bea,haas_f1_team,,,,
+2025,8,Monaco Grand Prix,2025-05-25,had,racing_bulls,,,,
+2025,8,Monaco Grand Prix,2025-05-25,oco,haas_f1_team,,,,
+2025,8,Monaco Grand Prix,2025-05-25,bor,kick_sauber,,,,
+2025,8,Monaco Grand Prix,2025-05-25,col,alpine,,,,
+2025,9,Spanish Grand Prix,2025-06-01,pia,mclaren,,,,
+2025,9,Spanish Grand Prix,2025-06-01,nor,mclaren,,,,
+2025,9,Spanish Grand Prix,2025-06-01,lec,ferrari,,,,
+2025,9,Spanish Grand Prix,2025-06-01,rus,mercedes,,,,
+2025,9,Spanish Grand Prix,2025-06-01,ver,red_bull_racing,,,,
+2025,9,Spanish Grand Prix,2025-06-01,had,racing_bulls,,,,
+2025,9,Spanish Grand Prix,2025-06-01,ant,mercedes,,,,
+2025,9,Spanish Grand Prix,2025-06-01,alo,aston_martin,,,,
+2025,9,Spanish Grand Prix,2025-06-01,ham,ferrari,,,,
+2025,9,Spanish Grand Prix,2025-06-01,law,racing_bulls,,,,
+2025,9,Spanish Grand Prix,2025-06-01,bor,kick_sauber,,,,
+2025,9,Spanish Grand Prix,2025-06-01,hul,kick_sauber,,,,
+2025,9,Spanish Grand Prix,2025-06-01,sai,williams,,,,
+2025,9,Spanish Grand Prix,2025-06-01,tsu,red_bull_racing,,,,
+2025,9,Spanish Grand Prix,2025-06-01,str,aston_martin,,,,
+2025,9,Spanish Grand Prix,2025-06-01,gas,alpine,,,,
+2025,9,Spanish Grand Prix,2025-06-01,col,alpine,,,,
+2025,9,Spanish Grand Prix,2025-06-01,oco,haas_f1_team,,,,
+2025,9,Spanish Grand Prix,2025-06-01,alb,williams,,,,
+2025,9,Spanish Grand Prix,2025-06-01,bea,haas_f1_team,,,,
+2025,10,Canadian Grand Prix,2025-06-15,nor,mclaren,,,,
+2025,10,Canadian Grand Prix,2025-06-15,lec,ferrari,,,,
+2025,10,Canadian Grand Prix,2025-06-15,rus,mercedes,,,,
+2025,10,Canadian Grand Prix,2025-06-15,ham,ferrari,,,,
+2025,10,Canadian Grand Prix,2025-06-15,ver,red_bull_racing,,,,
+2025,10,Canadian Grand Prix,2025-06-15,alo,aston_martin,,,,
+2025,10,Canadian Grand Prix,2025-06-15,ant,mercedes,,,,
+2025,10,Canadian Grand Prix,2025-06-15,pia,mclaren,,,,
+2025,10,Canadian Grand Prix,2025-06-15,sai,williams,,,,
+2025,10,Canadian Grand Prix,2025-06-15,alb,williams,,,,
+2025,10,Canadian Grand Prix,2025-06-15,had,racing_bulls,,,,
+2025,10,Canadian Grand Prix,2025-06-15,gas,alpine,,,,
+2025,10,Canadian Grand Prix,2025-06-15,law,racing_bulls,,,,
+2025,10,Canadian Grand Prix,2025-06-15,str,aston_martin,,,,
+2025,10,Canadian Grand Prix,2025-06-15,bea,haas_f1_team,,,,
+2025,10,Canadian Grand Prix,2025-06-15,oco,haas_f1_team,,,,
+2025,10,Canadian Grand Prix,2025-06-15,col,alpine,,,,
+2025,10,Canadian Grand Prix,2025-06-15,hul,kick_sauber,,,,
+2025,10,Canadian Grand Prix,2025-06-15,bor,kick_sauber,,,,
+2025,10,Canadian Grand Prix,2025-06-15,tsu,red_bull_racing,,,,
+2025,11,Austrian Grand Prix,2025-06-29,nor,mclaren,,,,
+2025,11,Austrian Grand Prix,2025-06-29,pia,mclaren,,,,
+2025,11,Austrian Grand Prix,2025-06-29,ver,red_bull_racing,,,,
+2025,11,Austrian Grand Prix,2025-06-29,lec,ferrari,,,,
+2025,11,Austrian Grand Prix,2025-06-29,ham,ferrari,,,,
+2025,11,Austrian Grand Prix,2025-06-29,rus,mercedes,,,,
+2025,11,Austrian Grand Prix,2025-06-29,ant,mercedes,,,,
+2025,11,Austrian Grand Prix,2025-06-29,str,aston_martin,,,,
+2025,11,Austrian Grand Prix,2025-06-29,tsu,red_bull_racing,,,,
+2025,11,Austrian Grand Prix,2025-06-29,bor,kick_sauber,,,,
+2025,11,Austrian Grand Prix,2025-06-29,law,racing_bulls,,,,
+2025,11,Austrian Grand Prix,2025-06-29,alo,aston_martin,,,,
+2025,11,Austrian Grand Prix,2025-06-29,hul,kick_sauber,,,,
+2025,11,Austrian Grand Prix,2025-06-29,alb,williams,,,,
+2025,11,Austrian Grand Prix,2025-06-29,sai,williams,,,,
+2025,11,Austrian Grand Prix,2025-06-29,bea,haas_f1_team,,,,
+2025,11,Austrian Grand Prix,2025-06-29,gas,alpine,,,,
+2025,11,Austrian Grand Prix,2025-06-29,oco,haas_f1_team,,,,
+2025,11,Austrian Grand Prix,2025-06-29,col,alpine,,,,
+2025,11,Austrian Grand Prix,2025-06-29,had,racing_bulls,,,,
+2025,12,British Grand Prix,2025-07-06,lec,ferrari,,,,
+2025,12,British Grand Prix,2025-07-06,pia,mclaren,,,,
+2025,12,British Grand Prix,2025-07-06,ver,red_bull_racing,,,,
+2025,12,British Grand Prix,2025-07-06,nor,mclaren,,,,
+2025,12,British Grand Prix,2025-07-06,tsu,red_bull_racing,,,,
+2025,12,British Grand Prix,2025-07-06,bea,haas_f1_team,,,,
+2025,12,British Grand Prix,2025-07-06,alb,williams,,,,
+2025,12,British Grand Prix,2025-07-06,rus,mercedes,,,,
+2025,12,British Grand Prix,2025-07-06,had,racing_bulls,,,,
+2025,12,British Grand Prix,2025-07-06,law,racing_bulls,,,,
+2025,12,British Grand Prix,2025-07-06,ham,ferrari,,,,
+2025,12,British Grand Prix,2025-07-06,sai,williams,,,,
+2025,12,British Grand Prix,2025-07-06,oco,haas_f1_team,,,,
+2025,12,British Grand Prix,2025-07-06,ant,mercedes,,,,
+2025,12,British Grand Prix,2025-07-06,hul,kick_sauber,,,,
+2025,12,British Grand Prix,2025-07-06,bor,kick_sauber,,,,
+2025,12,British Grand Prix,2025-07-06,alo,aston_martin,,,,
+2025,12,British Grand Prix,2025-07-06,col,alpine,,,,
+2025,12,British Grand Prix,2025-07-06,str,aston_martin,,,,
+2025,12,British Grand Prix,2025-07-06,gas,alpine,,,,
+2025,13,Belgian Grand Prix,2025-07-27,pia,mclaren,,,,
+2025,13,Belgian Grand Prix,2025-07-27,ver,red_bull_racing,,,,
+2025,13,Belgian Grand Prix,2025-07-27,nor,mclaren,,,,
+2025,13,Belgian Grand Prix,2025-07-27,rus,mercedes,,,,
+2025,13,Belgian Grand Prix,2025-07-27,lec,ferrari,,,,
+2025,13,Belgian Grand Prix,2025-07-27,ant,mercedes,,,,
+2025,13,Belgian Grand Prix,2025-07-27,ham,ferrari,,,,
+2025,13,Belgian Grand Prix,2025-07-27,str,aston_martin,,,,
+2025,13,Belgian Grand Prix,2025-07-27,alo,aston_martin,,,,
+2025,13,Belgian Grand Prix,2025-07-27,had,racing_bulls,,,,
+2025,13,Belgian Grand Prix,2025-07-27,sai,williams,,,,
+2025,13,Belgian Grand Prix,2025-07-27,alb,williams,,,,
+2025,13,Belgian Grand Prix,2025-07-27,bor,kick_sauber,,,,
+2025,13,Belgian Grand Prix,2025-07-27,hul,kick_sauber,,,,
+2025,13,Belgian Grand Prix,2025-07-27,law,racing_bulls,,,,
+2025,13,Belgian Grand Prix,2025-07-27,oco,haas_f1_team,,,,
+2025,13,Belgian Grand Prix,2025-07-27,gas,alpine,,,,
+2025,13,Belgian Grand Prix,2025-07-27,tsu,red_bull_racing,,,,
+2025,13,Belgian Grand Prix,2025-07-27,col,alpine,,,,
+2025,13,Belgian Grand Prix,2025-07-27,bea,haas_f1_team,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,pia,mclaren,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,nor,mclaren,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,lec,ferrari,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,ham,ferrari,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,ant,mercedes,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,alo,aston_martin,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,str,aston_martin,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,rus,mercedes,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,bor,kick_sauber,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,hul,kick_sauber,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,bea,haas_f1_team,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,ver,red_bull_racing,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,col,alpine,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,law,racing_bulls,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,sai,williams,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,alb,williams,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,oco,haas_f1_team,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,gas,alpine,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,tsu,red_bull_racing,,,,
+2025,14,Hungarian Grand Prix,2025-08-03,had,racing_bulls,,,,

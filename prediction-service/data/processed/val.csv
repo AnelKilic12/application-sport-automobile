@@ -1,0 +1,441 @@
+season,round,date,raceName,driverId,constructorId,podium,grid,drv_avg_finish_5,drv_avg_points_5,drv_dnf_rate_5,con_avg_points_5,drv_circuit_avg_finish
+2022,1,2022-03-20,Bahrain Grand Prix,alb,williams,0,14,15.2,1.4,0.0,0.0,12.0
+2022,1,2022-03-20,Bahrain Grand Prix,alo,alpine,0,8,8.4,4.6,0.0,5.6,19.0
+2022,1,2022-03-20,Bahrain Grand Prix,bot,alfa_romeo,0,6,9.4,7.6,0.0,1.4,3.0
+2022,1,2022-03-20,Bahrain Grand Prix,gas,alphatauri,0,10,6.6,7.2,0.0,6.0,17.0
+2022,1,2022-03-20,Bahrain Grand Prix,ham,mercedes,1,5,1.4,22.4,0.0,18.4,1.0
+2022,1,2022-03-20,Bahrain Grand Prix,hul,aston_martin,0,17,15.2,1.4,0.0,0.2,12.0
+2022,1,2022-03-20,Bahrain Grand Prix,lat,williams,0,20,16.0,0.0,0.0,0.0,18.0
+2022,1,2022-03-20,Bahrain Grand Prix,lec,ferrari,1,1,7.0,6.2,0.0,6.4,6.0
+2022,1,2022-03-20,Bahrain Grand Prix,mag,haas_f1_team,0,7,15.2,1.4,0.0,0.0,12.0
+2022,1,2022-03-20,Bahrain Grand Prix,msc,haas_f1_team,0,12,17.4,0.0,0.0,2.0,16.0
+2022,1,2022-03-20,Bahrain Grand Prix,nor,mclaren,0,13,9.2,2.2,0.0,3.4,4.0
+2022,1,2022-03-20,Bahrain Grand Prix,oco,alpine,0,11,7.8,5.6,0.0,4.0,13.0
+2022,1,2022-03-20,Bahrain Grand Prix,per,red_bull_racing,0,4,8.6,8.0,0.0,12.6,5.0
+2022,1,2022-03-20,Bahrain Grand Prix,ric,mclaren,0,18,12.0,2.0,0.0,3.4,7.0
+2022,1,2022-03-20,Bahrain Grand Prix,rus,mercedes,0,9,16.6,0.0,0.0,16.4,14.0
+2022,1,2022-03-20,Bahrain Grand Prix,sai,ferrari,1,3,6.0,8.2,0.0,10.4,8.0
+2022,1,2022-03-20,Bahrain Grand Prix,str,aston_martin,0,19,12.8,1.6,0.0,0.0,10.0
+2022,1,2022-03-20,Bahrain Grand Prix,tsu,alphatauri,0,16,13.2,2.4,0.0,6.0,9.0
+2022,1,2022-03-20,Bahrain Grand Prix,ver,red_bull_racing,0,2,1.6,21.2,0.0,8.8,2.0
+2022,1,2022-03-20,Bahrain Grand Prix,zho,alfa_romeo,0,15,15.2,1.4,0.0,8.0,12.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,alb,williams,0,16,13.0,0.0,0.0,0.0,12.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,alo,alpine,0,7,8.4,4.6,0.0,5.2,13.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,bot,alfa_romeo,0,8,7.6,9.2,0.0,4.5,3.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,gas,alphatauri,0,9,9.8,4.8,0.0,5.2,6.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,ham,mercedes,0,15,1.6,21.8,0.0,15.8,1.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,hul,aston_martin,0,17,17.0,0.0,0.0,0.0,12.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,lat,williams,0,18,15.8,0.0,0.0,0.0,12.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,lec,ferrari,1,2,6.2,9.4,0.0,12.8,7.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,mag,haas_f1_team,0,10,5.0,10.0,0.0,2.0,12.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,msc,haas_f1_team,0,0,15.8,0.0,0.0,2.4,20.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,nor,mclaren,0,11,10.2,2.0,0.0,3.2,10.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,oco,alpine,0,5,6.6,6.8,0.0,2.8,4.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,per,red_bull_racing,0,1,11.6,5.0,0.0,8.8,17.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,ric,mclaren,0,14,12.4,2.0,0.0,2.4,5.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,rus,mercedes,0,6,14.2,2.4,0.0,10.8,19.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,sai,ferrari,1,3,5.2,10.2,0.0,15.8,8.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,str,aston_martin,0,13,12.4,1.6,0.0,0.0,11.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,tsu,alphatauri,0,19,10.8,3.2,0.0,6.0,14.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,ver,red_bull_racing,1,4,5.2,16.2,0.0,7.6,2.0
+2022,2,2022-03-27,Saudi Arabian Grand Prix,zho,alfa_romeo,0,12,10.0,1.0,0.0,3.0,12.0
+2022,3,2022-04-10,Australian Grand Prix,alb,williams,0,20,13.5,0.0,0.0,0.0,12.0
+2022,3,2022-04-10,Australian Grand Prix,alo,alpine,0,10,9.8,4.2,0.0,3.6,12.0
+2022,3,2022-04-10,Australian Grand Prix,bot,alfa_romeo,0,12,10.0,6.2,0.0,2.25,12.0
+2022,3,2022-04-10,Australian Grand Prix,gas,alphatauri,0,11,10.0,4.4,0.0,4.0,12.0
+2022,3,2022-04-10,Australian Grand Prix,ham,mercedes,0,5,3.4,17.0,0.0,11.2,12.0
+2022,3,2022-04-10,Australian Grand Prix,lat,williams,0,18,16.2,0.0,0.0,0.2,12.0
+2022,3,2022-04-10,Australian Grand Prix,lec,ferrari,1,1,5.6,11.2,0.0,18.6,12.0
+2022,3,2022-04-10,Australian Grand Prix,mag,haas_f1_team,0,16,7.0,6.0,0.0,2.4,12.0
+2022,3,2022-04-10,Australian Grand Prix,msc,haas_f1_team,0,15,18.2,0.0,0.2,2.4,12.0
+2022,3,2022-04-10,Australian Grand Prix,nor,mclaren,0,4,9.6,3.0,0.0,1.2,12.0
+2022,3,2022-04-10,Australian Grand Prix,oco,alpine,0,8,6.2,7.6,0.0,3.2,12.0
+2022,3,2022-04-10,Australian Grand Prix,per,red_bull_racing,1,3,11.6,4.8,0.0,12.6,12.0
+2022,3,2022-04-10,Australian Grand Prix,ric,mclaren,0,7,12.0,2.0,0.0,3.2,12.0
+2022,3,2022-04-10,Australian Grand Prix,rus,mercedes,1,6,12.6,4.4,0.0,10.0,12.0
+2022,3,2022-04-10,Australian Grand Prix,sai,ferrari,0,9,4.6,11.6,0.0,20.8,12.0
+2022,3,2022-04-10,Australian Grand Prix,str,aston_martin,0,19,11.0,1.6,0.0,0.0,12.0
+2022,3,2022-04-10,Australian Grand Prix,tsu,alphatauri,0,13,11.6,3.2,0.0,2.0,12.0
+2022,3,2022-04-10,Australian Grand Prix,ver,red_bull_racing,0,2,5.0,17.6,0.0,11.0,12.0
+2022,3,2022-04-10,Australian Grand Prix,vet,aston_martin,0,17,11.0,1.4,0.0,0.0,12.0
+2022,3,2022-04-10,Australian Grand Prix,zho,alfa_romeo,0,14,10.5,0.5,0.0,2.6,12.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,alb,williams,0,18,12.333333333333334,0.3333333333333333,0.0,0.2,12.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,alo,alpine,0,9,12.6,1.2,0.0,4.0,10.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,bot,alfa_romeo,0,7,7.6,7.0,0.0,1.0,18.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,gas,alphatauri,0,17,9.6,4.8,0.0,2.0,7.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,ham,mercedes,0,14,4.0,14.4,0.0,10.0,2.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,lat,williams,0,19,15.6,0.0,0.0,0.2,20.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,lec,ferrari,0,2,4.2,15.6,0.0,15.6,4.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,mag,haas_f1_team,0,8,9.333333333333334,4.0,0.0,0.4,12.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,msc,haas_f1_team,0,10,17.6,0.0,0.2,0.8,16.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,nor,mclaren,1,5,8.8,4.6,0.0,4.8,3.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,oco,alpine,0,16,6.6,6.8,0.0,2.8,9.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,per,red_bull_racing,1,3,11.2,6.0,0.0,11.0,11.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,ric,mclaren,0,6,10.8,3.6,0.0,7.8,6.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,rus,mercedes,0,11,9.8,7.4,0.0,7.6,19.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,sai,ferrari,0,4,7.2,10.4,0.0,13.6,5.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,str,aston_martin,0,15,12.2,0.0,0.0,0.0,8.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,tsu,alphatauri,0,12,12.0,3.2,0.0,1.2,12.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,ver,red_bull_racing,1,1,8.2,13.8,0.0,14.6,1.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,vet,aston_martin,0,13,13.4,0.2,0.0,0.2,15.0
+2022,4,2022-04-24,Emilia Romagna Grand Prix,zho,alfa_romeo,0,0,10.666666666666666,0.3333333333333333,0.0,2.8,12.0
+2022,5,2022-05-08,Miami Grand Prix,alb,williams,0,18,12.0,0.25,0.0,0.2,12.0
+2022,5,2022-05-08,Miami Grand Prix,alo,alpine,0,11,13.8,1.2,0.0,2.8,12.0
+2022,5,2022-05-08,Miami Grand Prix,bot,alfa_romeo,0,5,8.0,6.0,0.0,2.8,12.0
+2022,5,2022-05-08,Miami Grand Prix,gas,alphatauri,0,7,10.8,3.2,0.0,1.6,12.0
+2022,5,2022-05-08,Miami Grand Prix,ham,mercedes,0,6,6.4,9.2,0.0,9.8,12.0
+2022,5,2022-05-08,Miami Grand Prix,lat,williams,0,19,16.4,0.0,0.0,0.6,12.0
+2022,5,2022-05-08,Miami Grand Prix,lec,ferrari,1,1,4.0,16.0,0.0,9.8,12.0
+2022,5,2022-05-08,Miami Grand Prix,mag,haas_f1_team,0,16,9.25,3.5,0.0,0.4,12.0
+2022,5,2022-05-08,Miami Grand Prix,msc,haas_f1_team,0,15,17.0,0.0,0.2,0.4,12.0
+2022,5,2022-05-08,Miami Grand Prix,nor,mclaren,0,8,7.4,7.4,0.0,6.6,12.0
+2022,5,2022-05-08,Miami Grand Prix,oco,alpine,0,20,8.6,4.4,0.0,1.2,12.0
+2022,5,2022-05-08,Miami Grand Prix,per,red_bull_racing,0,4,8.2,9.6,0.0,17.4,12.0
+2022,5,2022-05-08,Miami Grand Prix,ric,mclaren,0,14,13.4,1.6,0.0,6.6,12.0
+2022,5,2022-05-08,Miami Grand Prix,rus,mercedes,0,12,6.8,9.8,0.0,9.4,12.0
+2022,5,2022-05-08,Miami Grand Prix,sai,ferrari,1,2,9.6,9.6,0.0,10.4,12.0
+2022,5,2022-05-08,Miami Grand Prix,str,aston_martin,0,0,12.0,0.2,0.0,1.0,12.0
+2022,5,2022-05-08,Miami Grand Prix,tsu,alphatauri,0,9,10.6,4.4,0.0,1.6,12.0
+2022,5,2022-05-08,Miami Grand Prix,ver,red_bull_racing,1,3,8.0,15.4,0.0,14.8,12.0
+2022,5,2022-05-08,Miami Grand Prix,vet,aston_martin,0,0,12.8,1.0,0.0,1.2,12.0
+2022,5,2022-05-08,Miami Grand Prix,zho,alfa_romeo,0,17,11.75,0.25,0.0,4.0,12.0
+2022,6,2022-05-22,Spanish Grand Prix,alb,williams,0,18,11.4,0.6,0.0,0.4,12.0
+2022,6,2022-05-22,Spanish Grand Prix,alo,alpine,0,20,14.4,0.4,0.0,2.0,17.0
+2022,6,2022-05-22,Spanish Grand Prix,bot,alfa_romeo,0,7,8.2,5.6,0.0,3.2,3.0
+2022,6,2022-05-22,Spanish Grand Prix,gas,alphatauri,0,14,13.4,1.2,0.0,1.2,10.0
+2022,6,2022-05-22,Spanish Grand Prix,ham,mercedes,0,6,7.2,7.2,0.0,9.0,1.0
+2022,6,2022-05-22,Spanish Grand Prix,lat,williams,0,19,16.0,0.0,0.0,0.4,16.0
+2022,6,2022-05-22,Spanish Grand Prix,lec,ferrari,0,1,2.4,19.4,0.0,8.2,4.0
+2022,6,2022-05-22,Spanish Grand Prix,mag,haas_f1_team,0,8,10.6,2.8,0.0,0.4,12.0
+2022,6,2022-05-22,Spanish Grand Prix,msc,haas_f1_team,0,10,17.2,0.0,0.2,0.4,18.0
+2022,6,2022-05-22,Spanish Grand Prix,nor,mclaren,0,11,9.8,6.2,0.0,4.6,8.0
+2022,6,2022-05-22,Spanish Grand Prix,oco,alpine,0,12,8.4,4.8,0.0,1.2,9.0
+2022,6,2022-05-22,Spanish Grand Prix,per,red_bull_racing,1,5,6.0,12.0,0.0,16.4,5.0
+2022,6,2022-05-22,Spanish Grand Prix,ric,mclaren,0,9,13.6,1.6,0.0,3.8,6.0
+2022,6,2022-05-22,Spanish Grand Prix,rus,mercedes,1,4,4.2,11.8,0.0,8.0,14.0
+2022,6,2022-05-22,Spanish Grand Prix,sai,ferrari,0,3,9.6,9.6,0.0,8.2,7.0
+2022,6,2022-05-22,Spanish Grand Prix,str,aston_martin,0,17,11.4,0.4,0.0,1.2,11.0
+2022,6,2022-05-22,Spanish Grand Prix,tsu,alphatauri,0,13,12.2,2.0,0.0,1.2,20.0
+2022,6,2022-05-22,Spanish Grand Prix,ver,red_bull_racing,1,2,8.0,15.4,0.0,20.2,2.0
+2022,6,2022-05-22,Spanish Grand Prix,vet,aston_martin,0,16,14.2,0.8,0.0,1.2,13.0
+2022,6,2022-05-22,Spanish Grand Prix,zho,alfa_romeo,0,15,13.4,0.2,0.0,4.8,12.0
+2022,7,2022-05-29,Monaco Grand Prix,alb,williams,0,16,12.4,0.6,0.0,0.4,12.0
+2022,7,2022-05-29,Monaco Grand Prix,alo,alpine,0,7,14.4,0.4,0.0,2.4,13.0
+2022,7,2022-05-29,Monaco Grand Prix,bot,alfa_romeo,0,12,8.2,5.6,0.0,2.8,19.0
+2022,7,2022-05-29,Monaco Grand Prix,gas,alphatauri,0,17,12.0,1.2,0.0,1.4,6.0
+2022,7,2022-05-29,Monaco Grand Prix,ham,mercedes,0,8,7.6,6.2,0.0,11.0,7.0
+2022,7,2022-05-29,Monaco Grand Prix,lat,williams,0,19,16.0,0.0,0.0,0.4,15.0
+2022,7,2022-05-29,Monaco Grand Prix,lec,ferrari,0,1,6.2,14.2,0.0,9.0,20.0
+2022,7,2022-05-29,Monaco Grand Prix,mag,haas_f1_team,0,13,13.0,0.8,0.0,0.0,12.0
+2022,7,2022-05-29,Monaco Grand Prix,msc,haas_f1_team,0,15,17.8,0.0,0.2,0.0,18.0
+2022,7,2022-05-29,Monaco Grand Prix,nor,mclaren,0,5,8.4,7.0,0.0,0.8,3.0
+2022,7,2022-05-29,Monaco Grand Prix,oco,alpine,0,10,8.4,4.8,0.0,3.6,9.0
+2022,7,2022-05-29,Monaco Grand Prix,per,red_bull_racing,1,3,2.8,15.8,0.0,21.6,4.0
+2022,7,2022-05-29,Monaco Grand Prix,ric,mclaren,0,14,13.2,1.6,0.0,2.6,12.0
+2022,7,2022-05-29,Monaco Grand Prix,rus,mercedes,0,6,4.0,12.4,0.0,9.4,14.0
+2022,7,2022-05-29,Monaco Grand Prix,sai,ferrari,1,2,10.0,8.4,0.0,11.4,2.0
+2022,7,2022-05-29,Monaco Grand Prix,str,aston_martin,0,18,12.0,0.4,0.0,1.0,8.0
+2022,7,2022-05-29,Monaco Grand Prix,tsu,alphatauri,0,11,12.6,1.4,0.0,0.2,16.0
+2022,7,2022-05-29,Monaco Grand Prix,ver,red_bull_racing,1,4,4.4,20.4,0.0,21.4,1.0
+2022,7,2022-05-29,Monaco Grand Prix,vet,aston_martin,0,9,13.2,0.8,0.0,0.2,5.0
+2022,7,2022-05-29,Monaco Grand Prix,zho,alfa_romeo,0,20,15.2,0.0,0.0,3.2,12.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,alb,williams,0,17,13.2,0.6,0.0,0.0,12.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,alo,alpine,0,10,12.6,1.6,0.0,3.6,6.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,bot,alfa_romeo,0,15,7.0,6.0,0.0,2.0,12.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,gas,alphatauri,0,6,12.6,0.4,0.0,0.2,3.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,ham,mercedes,0,7,7.2,6.8,0.0,9.8,15.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,lat,williams,0,18,15.4,0.0,0.0,0.0,16.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,lec,ferrari,0,1,6.6,12.8,0.0,11.4,4.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,mag,haas_f1_team,0,16,15.2,0.4,0.0,0.0,12.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,msc,haas_f1_team,0,20,15.6,0.0,0.0,0.0,13.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,nor,mclaren,0,11,8.2,7.6,0.0,2.6,5.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,oco,alpine,0,13,9.6,3.2,0.0,4.0,20.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,per,red_bull_racing,1,2,2.2,18.4,0.0,22.0,1.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,ric,mclaren,0,12,12.4,1.6,0.0,3.0,9.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,rus,mercedes,1,5,4.0,12.4,0.0,10.2,17.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,sai,ferrari,0,4,9.8,9.0,0.0,8.4,8.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,str,aston_martin,0,19,12.2,0.4,0.0,0.2,19.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,tsu,alphatauri,0,8,12.2,1.4,0.0,2.2,7.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,ver,red_bull_racing,1,3,4.8,18.4,0.0,20.6,18.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,vet,aston_martin,0,9,13.0,1.0,0.0,0.2,2.0
+2022,8,2022-06-12,Azerbaijan Grand Prix,zho,alfa_romeo,0,14,16.2,0.0,0.0,2.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,alb,williams,0,12,13.6,0.4,0.0,0.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,alo,alpine,0,2,10.6,2.8,0.0,3.8,12.0
+2022,9,2022-06-19,Canadian Grand Prix,bot,alfa_romeo,0,11,7.6,5.2,0.0,0.4,12.0
+2022,9,2022-06-19,Canadian Grand Prix,gas,alphatauri,0,15,11.8,2.0,0.0,2.2,12.0
+2022,9,2022-06-19,Canadian Grand Prix,ham,mercedes,1,4,7.2,6.8,0.0,11.2,12.0
+2022,9,2022-06-19,Canadian Grand Prix,lat,williams,0,18,15.2,0.0,0.0,0.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,lec,ferrari,0,19,10.2,7.6,0.0,8.4,12.0
+2022,9,2022-06-19,Canadian Grand Prix,mag,haas_f1_team,0,5,15.8,0.4,0.0,0.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,msc,haas_f1_team,0,6,15.8,0.0,0.0,0.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,nor,mclaren,0,14,9.0,6.0,0.0,3.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,oco,alpine,0,7,10.2,2.2,0.0,3.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,per,red_bull_racing,0,13,2.2,18.6,0.0,21.8,12.0
+2022,9,2022-06-19,Canadian Grand Prix,ric,mclaren,0,9,12.8,0.8,0.0,3.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,rus,mercedes,0,8,4.0,12.4,0.0,11.2,12.0
+2022,9,2022-06-19,Canadian Grand Prix,sai,ferrari,1,3,9.8,9.0,0.0,8.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,str,aston_martin,0,17,13.0,0.4,0.0,1.8,12.0
+2022,9,2022-06-19,Canadian Grand Prix,tsu,alphatauri,0,20,11.8,1.4,0.0,2.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,ver,red_bull_racing,1,1,1.4,23.4,0.0,16.8,12.0
+2022,9,2022-06-19,Canadian Grand Prix,vet,aston_martin,0,16,10.4,2.6,0.0,2.0,12.0
+2022,9,2022-06-19,Canadian Grand Prix,zho,alfa_romeo,0,10,17.6,0.0,0.0,1.6,12.0
+2022,10,2022-07-03,British Grand Prix,alb,williams,0,16,14.0,0.4,0.0,0.0,12.0
+2022,10,2022-07-03,British Grand Prix,alo,alpine,0,7,8.6,3.2,0.0,3.4,7.0
+2022,10,2022-07-03,British Grand Prix,bot,alfa_romeo,0,12,8.0,4.4,0.0,2.0,3.0
+2022,10,2022-07-03,British Grand Prix,gas,alphatauri,0,11,12.2,2.0,0.0,2.0,11.0
+2022,10,2022-07-03,British Grand Prix,ham,mercedes,1,5,5.2,9.8,0.0,12.8,1.0
+2022,10,2022-07-03,British Grand Prix,lat,williams,0,10,15.2,0.0,0.0,0.0,14.0
+2022,10,2022-07-03,British Grand Prix,lec,ferrari,0,3,10.0,8.0,0.0,9.4,2.0
+2022,10,2022-07-03,British Grand Prix,mag,haas_f1_team,0,17,17.4,0.0,0.0,0.0,12.0
+2022,10,2022-07-03,British Grand Prix,msc,haas_f1_team,0,19,16.2,0.0,0.0,0.2,18.0
+2022,10,2022-07-03,British Grand Prix,nor,mclaren,0,6,11.4,3.0,0.0,1.2,4.0
+2022,10,2022-07-03,British Grand Prix,oco,alpine,0,15,8.6,3.8,0.0,5.4,9.0
+2022,10,2022-07-03,British Grand Prix,per,red_bull_racing,1,4,5.8,15.0,0.0,16.8,16.0
+2022,10,2022-07-03,British Grand Prix,ric,mclaren,0,14,11.4,0.8,0.0,2.8,5.0
+2022,10,2022-07-03,British Grand Prix,rus,mercedes,0,8,4.0,12.4,0.0,14.0,12.0
+2022,10,2022-07-03,British Grand Prix,sai,ferrari,1,1,6.2,12.8,0.0,8.2,6.0
+2022,10,2022-07-03,British Grand Prix,str,aston_martin,0,20,13.0,0.4,0.0,2.0,8.0
+2022,10,2022-07-03,British Grand Prix,tsu,alphatauri,0,13,14.0,0.2,0.0,2.0,10.0
+2022,10,2022-07-03,British Grand Prix,ver,red_bull_racing,0,2,1.4,23.2,0.0,17.4,20.0
+2022,10,2022-07-03,British Grand Prix,vet,aston_martin,0,18,11.2,1.8,0.0,1.8,19.0
+2022,10,2022-07-03,British Grand Prix,zho,alfa_romeo,0,9,16.2,0.8,0.0,2.0,12.0
+2022,11,2022-07-10,Austrian Grand Prix,alb,williams,0,15,16.2,0.0,0.0,0.0,12.0
+2022,11,2022-07-10,Austrian Grand Prix,alo,alpine,0,19,7.4,5.2,0.0,4.2,10.0
+2022,11,2022-07-10,Austrian Grand Prix,bot,alfa_romeo,0,0,10.0,3.2,0.0,2.0,2.0
+2022,11,2022-07-10,Austrian Grand Prix,gas,alphatauri,0,14,11.8,2.0,0.0,0.0,9.0
+2022,11,2022-07-10,Austrian Grand Prix,ham,mercedes,1,8,4.6,11.4,0.0,11.6,4.0
+2022,11,2022-07-10,Austrian Grand Prix,lat,williams,0,17,14.8,0.0,0.0,0.0,16.0
+2022,11,2022-07-10,Austrian Grand Prix,lec,ferrari,1,2,10.4,6.8,0.0,13.2,8.0
+2022,11,2022-07-10,Austrian Grand Prix,mag,haas_f1_team,0,7,16.2,0.2,0.0,1.0,12.0
+2022,11,2022-07-10,Austrian Grand Prix,msc,haas_f1_team,0,9,14.8,0.8,0.0,1.8,18.0
+2022,11,2022-07-10,Austrian Grand Prix,nor,mclaren,0,10,8.8,4.6,0.0,2.4,3.0
+2022,11,2022-07-10,Austrian Grand Prix,oco,alpine,0,6,10.0,3.0,0.0,4.2,20.0
+2022,11,2022-07-10,Austrian Grand Prix,per,red_bull_racing,0,5,5.4,16.2,0.0,14.8,6.0
+2022,11,2022-07-10,Austrian Grand Prix,ric,mclaren,0,11,11.4,0.8,0.0,2.8,7.0
+2022,11,2022-07-10,Austrian Grand Prix,rus,mercedes,0,4,6.6,10.4,0.0,11.6,11.0
+2022,11,2022-07-10,Austrian Grand Prix,sai,ferrari,0,3,5.8,14.8,0.0,18.2,5.0
+2022,11,2022-07-10,Austrian Grand Prix,str,aston_martin,0,12,13.2,0.2,0.0,2.2,13.0
+2022,11,2022-07-10,Austrian Grand Prix,tsu,alphatauri,0,16,14.4,0.2,0.0,0.0,12.0
+2022,11,2022-07-10,Austrian Grand Prix,ver,red_bull_racing,1,1,2.6,19.2,0.0,9.8,1.0
+2022,11,2022-07-10,Austrian Grand Prix,vet,aston_martin,0,18,9.6,2.2,0.0,0.6,17.0
+2022,11,2022-07-10,Austrian Grand Prix,zho,alfa_romeo,0,13,16.0,0.8,0.0,2.0,12.0
+2022,12,2022-07-24,French Grand Prix,alb,williams,0,13,15.0,0.0,0.0,0.0,12.0
+2022,12,2022-07-24,French Grand Prix,alo,alpine,0,7,7.6,5.0,0.0,5.8,8.0
+2022,12,2022-07-24,French Grand Prix,bot,alfa_romeo,0,11,11.0,1.6,0.0,0.8,4.0
+2022,12,2022-07-24,French Grand Prix,gas,alphatauri,0,14,12.2,2.0,0.0,0.0,7.0
+2022,12,2022-07-24,French Grand Prix,ham,mercedes,1,4,4.2,12.4,0.0,11.0,2.0
+2022,12,2022-07-24,French Grand Prix,lat,williams,0,18,15.4,0.0,0.0,0.0,18.0
+2022,12,2022-07-24,French Grand Prix,lec,ferrari,0,1,6.6,11.8,0.0,16.2,16.0
+2022,12,2022-07-24,French Grand Prix,mag,haas_f1_team,0,20,14.4,1.0,0.0,3.4,12.0
+2022,12,2022-07-24,French Grand Prix,msc,haas_f1_team,0,17,13.2,2.4,0.0,3.4,19.0
+2022,12,2022-07-24,French Grand Prix,nor,mclaren,0,5,8.6,5.0,0.0,3.2,5.0
+2022,12,2022-07-24,French Grand Prix,oco,alpine,0,10,9.6,3.8,0.0,5.8,14.0
+2022,12,2022-07-24,French Grand Prix,per,red_bull_racing,0,3,9.0,12.4,0.0,13.6,3.0
+2022,12,2022-07-24,French Grand Prix,ric,mclaren,0,9,10.8,1.2,0.0,4.4,6.0
+2022,12,2022-07-24,French Grand Prix,rus,mercedes,1,6,6.8,9.8,0.0,12.2,12.0
+2022,12,2022-07-24,French Grand Prix,sai,ferrari,0,19,8.6,12.4,0.0,12.4,11.0
+2022,12,2022-07-24,French Grand Prix,str,aston_martin,0,15,12.8,0.2,0.0,0.4,10.0
+2022,12,2022-07-24,French Grand Prix,tsu,alphatauri,0,8,15.6,0.0,0.0,0.0,13.0
+2022,12,2022-07-24,French Grand Prix,ver,red_bull_racing,1,2,2.8,18.0,0.0,11.0,1.0
+2022,12,2022-07-24,French Grand Prix,vet,aston_martin,0,12,10.8,2.2,0.0,0.6,9.0
+2022,12,2022-07-24,French Grand Prix,zho,alfa_romeo,0,16,15.0,0.8,0.0,0.0,12.0
+2022,13,2022-07-31,Hungarian Grand Prix,alb,williams,0,17,14.0,0.0,0.0,0.0,12.0
+2022,13,2022-07-31,Hungarian Grand Prix,alo,alpine,0,6,7.4,5.4,0.0,4.6,4.0
+2022,13,2022-07-31,Hungarian Grand Prix,bot,alfa_romeo,0,8,12.0,1.2,0.0,0.0,16.0
+2022,13,2022-07-31,Hungarian Grand Prix,gas,alphatauri,0,0,12.4,2.0,0.0,0.0,5.0
+2022,13,2022-07-31,Hungarian Grand Prix,ham,mercedes,1,7,3.0,15.2,0.0,12.0,2.0
+2022,13,2022-07-31,Hungarian Grand Prix,lat,williams,0,19,15.8,0.0,0.0,0.0,7.0
+2022,13,2022-07-31,Hungarian Grand Prix,lec,ferrari,0,3,9.6,9.4,0.0,12.2,18.0
+2022,13,2022-07-31,Hungarian Grand Prix,mag,haas_f1_team,0,13,14.0,1.0,0.0,3.2,12.0
+2022,13,2022-07-31,Hungarian Grand Prix,msc,haas_f1_team,0,15,12.4,2.4,0.0,2.4,12.0
+2022,13,2022-07-31,Hungarian Grand Prix,nor,mclaren,0,4,8.8,4.4,0.0,3.2,15.0
+2022,13,2022-07-31,Hungarian Grand Prix,oco,alpine,0,5,8.8,4.6,0.0,5.4,1.0
+2022,13,2022-07-31,Hungarian Grand Prix,per,red_bull_racing,0,11,9.6,9.8,0.0,12.4,17.0
+2022,13,2022-07-31,Hungarian Grand Prix,ric,mclaren,0,9,10.0,1.6,0.0,4.4,11.0
+2022,13,2022-07-31,Hungarian Grand Prix,rus,mercedes,1,1,6.4,10.8,0.0,15.8,8.0
+2022,13,2022-07-31,Hungarian Grand Prix,sai,ferrari,0,2,9.2,11.0,0.0,8.8,3.0
+2022,13,2022-07-31,Hungarian Grand Prix,str,aston_martin,0,14,12.0,0.4,0.0,0.6,19.0
+2022,13,2022-07-31,Hungarian Grand Prix,tsu,alphatauri,0,16,16.2,0.0,0.0,0.0,6.0
+2022,13,2022-07-31,Hungarian Grand Prix,ver,red_bull_racing,1,10,2.4,20.0,0.0,13.2,9.0
+2022,13,2022-07-31,Hungarian Grand Prix,vet,aston_martin,0,18,11.0,2.0,0.0,0.2,20.0
+2022,13,2022-07-31,Hungarian Grand Prix,zho,alfa_romeo,0,12,15.0,0.8,0.0,0.0,12.0
+2022,14,2022-08-28,Belgian Grand Prix,alb,williams,0,6,15.0,0.0,0.0,0.0,12.0
+2022,14,2022-08-28,Belgian Grand Prix,alo,alpine,0,3,7.6,5.0,0.0,5.6,11.0
+2022,14,2022-08-28,Belgian Grand Prix,bot,alfa_romeo,0,13,13.8,1.2,0.0,0.0,12.0
+2022,14,2022-08-28,Belgian Grand Prix,gas,alphatauri,0,0,13.8,0.0,0.0,0.0,6.0
+2022,14,2022-08-28,Belgian Grand Prix,ham,mercedes,0,4,2.6,16.6,0.0,15.8,3.0
+2022,14,2022-08-28,Belgian Grand Prix,lat,williams,0,11,16.4,0.0,0.0,0.2,9.0
+2022,14,2022-08-28,Belgian Grand Prix,lec,ferrari,0,15,7.0,11.0,0.0,6.2,8.0
+2022,14,2022-08-28,Belgian Grand Prix,mag,haas_f1_team,0,12,13.8,1.0,0.0,1.6,12.0
+2022,14,2022-08-28,Belgian Grand Prix,msc,haas_f1_team,0,19,12.4,2.4,0.0,0.0,16.0
+2022,14,2022-08-28,Belgian Grand Prix,nor,mclaren,0,17,8.4,5.2,0.0,3.2,14.0
+2022,14,2022-08-28,Belgian Grand Prix,oco,alpine,0,16,8.6,4.8,0.0,5.6,7.0
+2022,14,2022-08-28,Belgian Grand Prix,per,red_bull_racing,1,2,10.2,8.0,0.0,18.2,19.0
+2022,14,2022-08-28,Belgian Grand Prix,ric,mclaren,0,7,11.4,0.8,0.0,2.8,4.0
+2022,14,2022-08-28,Belgian Grand Prix,rus,mercedes,0,5,6.4,10.8,0.0,13.4,2.0
+2022,14,2022-08-28,Belgian Grand Prix,sai,ferrari,1,1,6.0,13.4,0.0,7.8,10.0
+2022,14,2022-08-28,Belgian Grand Prix,str,aston_martin,0,9,11.0,0.4,0.0,0.4,20.0
+2022,14,2022-08-28,Belgian Grand Prix,tsu,alphatauri,0,0,17.4,0.0,0.0,0.4,15.0
+2022,14,2022-08-28,Belgian Grand Prix,ver,red_bull_racing,1,14,2.4,20.0,0.0,18.0,1.0
+2022,14,2022-08-28,Belgian Grand Prix,vet,aston_martin,0,10,11.8,0.6,0.0,0.4,5.0
+2022,14,2022-08-28,Belgian Grand Prix,zho,alfa_romeo,0,18,14.0,0.8,0.0,0.0,12.0
+2022,15,2022-09-04,Dutch Grand Prix,alb,williams,0,15,14.4,0.2,0.0,0.2,12.0
+2022,15,2022-09-04,Dutch Grand Prix,alo,alpine,0,13,6.8,6.6,0.0,5.2,6.0
+2022,15,2022-09-04,Dutch Grand Prix,bot,alfa_romeo,0,16,16.2,0.0,0.0,0.0,3.0
+2022,15,2022-09-04,Dutch Grand Prix,gas,alphatauri,0,11,12.8,0.4,0.0,0.4,4.0
+2022,15,2022-09-04,Dutch Grand Prix,ham,mercedes,0,4,6.0,13.6,0.0,12.2,2.0
+2022,15,2022-09-04,Dutch Grand Prix,lat,williams,0,20,16.8,0.0,0.0,0.2,16.0
+2022,15,2022-09-04,Dutch Grand Prix,lec,ferrari,1,2,7.2,10.6,0.0,10.8,5.0
+2022,15,2022-09-04,Dutch Grand Prix,mag,haas_f1_team,0,18,13.6,1.0,0.0,0.0,12.0
+2022,15,2022-09-04,Dutch Grand Prix,msc,haas_f1_team,0,8,12.0,2.4,0.0,0.0,18.0
+2022,15,2022-09-04,Dutch Grand Prix,nor,mclaren,0,7,7.8,5.2,0.0,1.6,10.0
+2022,15,2022-09-04,Dutch Grand Prix,oco,alpine,0,12,8.8,4.4,0.0,6.0,9.0
+2022,15,2022-09-04,Dutch Grand Prix,per,red_bull_racing,0,5,6.6,11.6,0.0,20.8,8.0
+2022,15,2022-09-04,Dutch Grand Prix,ric,mclaren,0,17,12.2,0.8,0.0,2.4,11.0
+2022,15,2022-09-04,Dutch Grand Prix,rus,mercedes,1,6,6.4,10.8,0.0,11.6,17.0
+2022,15,2022-09-04,Dutch Grand Prix,sai,ferrari,0,3,6.2,12.6,0.0,11.6,7.0
+2022,15,2022-09-04,Dutch Grand Prix,str,aston_martin,0,10,11.2,0.2,0.0,1.0,12.0
+2022,15,2022-09-04,Dutch Grand Prix,tsu,alphatauri,0,9,16.4,0.0,0.0,0.4,19.0
+2022,15,2022-09-04,Dutch Grand Prix,ver,red_bull_racing,1,1,2.4,20.2,0.0,17.8,1.0
+2022,15,2022-09-04,Dutch Grand Prix,vet,aston_martin,0,19,11.0,1.4,0.0,1.2,13.0
+2022,15,2022-09-04,Dutch Grand Prix,zho,alfa_romeo,0,14,15.2,0.0,0.0,0.0,12.0
+2022,16,2022-09-11,Italian Grand Prix,alo,alpine,0,6,7.0,6.2,0.0,5.6,8.0
+2022,16,2022-09-11,Italian Grand Prix,bot,alfa_romeo,0,15,16.6,0.0,0.0,0.0,3.0
+2022,16,2022-09-11,Italian Grand Prix,dev,williams,0,8,15.2,1.4,0.0,0.2,12.0
+2022,16,2022-09-11,Italian Grand Prix,gas,alphatauri,0,5,11.8,0.4,0.0,0.4,19.0
+2022,16,2022-09-11,Italian Grand Prix,ham,mercedes,0,19,6.2,12.8,0.0,11.4,17.0
+2022,16,2022-09-11,Italian Grand Prix,lat,williams,0,10,18.0,0.0,0.0,0.6,11.0
+2022,16,2022-09-11,Italian Grand Prix,lec,ferrari,1,1,7.0,11.2,0.0,10.8,4.0
+2022,16,2022-09-11,Italian Grand Prix,mag,haas_f1_team,0,16,14.6,0.8,0.0,0.0,12.0
+2022,16,2022-09-11,Italian Grand Prix,msc,haas_f1_team,0,17,13.0,1.6,0.0,0.0,15.0
+2022,16,2022-09-11,Italian Grand Prix,nor,mclaren,0,3,8.0,4.8,0.0,1.2,2.0
+2022,16,2022-09-11,Italian Grand Prix,oco,alpine,0,14,7.6,4.8,0.0,5.2,10.0
+2022,16,2022-09-11,Italian Grand Prix,per,red_bull_racing,0,13,7.2,10.0,0.0,21.0,5.0
+2022,16,2022-09-11,Italian Grand Prix,ric,mclaren,0,4,13.0,0.8,0.0,2.4,1.0
+2022,16,2022-09-11,Italian Grand Prix,rus,mercedes,1,2,3.2,14.4,0.0,10.4,9.0
+2022,16,2022-09-11,Italian Grand Prix,sai,ferrari,0,18,7.6,8.4,0.0,12.0,6.0
+2022,16,2022-09-11,Italian Grand Prix,str,aston_martin,0,12,11.0,0.4,0.0,1.2,7.0
+2022,16,2022-09-11,Italian Grand Prix,tsu,alphatauri,0,20,17.6,0.0,0.0,1.2,20.0
+2022,16,2022-09-11,Italian Grand Prix,ver,red_bull_racing,1,7,1.2,24.2,0.0,17.8,18.0
+2022,16,2022-09-11,Italian Grand Prix,vet,aston_martin,0,11,12.0,1.0,0.0,1.0,12.0
+2022,16,2022-09-11,Italian Grand Prix,zho,alfa_romeo,0,9,14.6,0.0,0.0,0.0,12.0
+2022,17,2022-10-02,Singapore Grand Prix,alb,williams,0,18,12.8,0.2,0.0,0.4,12.0
+2022,17,2022-10-02,Singapore Grand Prix,alo,alpine,0,5,8.8,6.0,0.0,3.2,12.0
+2022,17,2022-10-02,Singapore Grand Prix,bot,alfa_romeo,0,15,17.0,0.0,0.0,0.2,12.0
+2022,17,2022-10-02,Singapore Grand Prix,gas,alphatauri,0,7,10.4,1.2,0.0,0.8,12.0
+2022,17,2022-10-02,Singapore Grand Prix,ham,mercedes,0,3,6.6,11.8,0.0,13.4,12.0
+2022,17,2022-10-02,Singapore Grand Prix,lat,williams,0,19,17.2,0.0,0.0,0.4,12.0
+2022,17,2022-10-02,Singapore Grand Prix,lec,ferrari,1,1,7.2,9.8,0.0,12.8,12.0
+2022,17,2022-10-02,Singapore Grand Prix,mag,haas_f1_team,0,9,16.2,0.0,0.0,0.0,12.0
+2022,17,2022-10-02,Singapore Grand Prix,msc,haas_f1_team,0,12,14.2,0.0,0.0,0.0,12.0
+2022,17,2022-10-02,Singapore Grand Prix,nor,mclaren,0,6,8.0,4.8,0.0,2.4,12.0
+2022,17,2022-10-02,Singapore Grand Prix,oco,alpine,0,17,8.8,2.8,0.0,2.0,12.0
+2022,17,2022-10-02,Singapore Grand Prix,per,red_bull_racing,1,2,4.4,11.8,0.0,19.2,12.0
+2022,17,2022-10-02,Singapore Grand Prix,ric,mclaren,0,16,14.6,0.4,0.0,4.8,12.0
+2022,17,2022-10-02,Singapore Grand Prix,rus,mercedes,0,0,3.0,15.0,0.0,11.4,12.0
+2022,17,2022-10-02,Singapore Grand Prix,sai,ferrari,1,4,4.8,10.8,0.0,13.4,12.0
+2022,17,2022-10-02,Singapore Grand Prix,str,aston_martin,0,11,12.0,0.4,0.0,1.0,12.0
+2022,17,2022-10-02,Singapore Grand Prix,tsu,alphatauri,0,10,17.2,0.0,0.0,1.0,12.0
+2022,17,2022-10-02,Singapore Grand Prix,ver,red_bull_racing,0,8,1.0,25.4,0.0,19.0,12.0
+2022,17,2022-10-02,Singapore Grand Prix,vet,aston_martin,0,13,12.6,1.0,0.0,1.8,12.0
+2022,17,2022-10-02,Singapore Grand Prix,zho,alfa_romeo,0,14,13.8,0.2,0.0,0.2,12.0
+2022,18,2022-10-09,Japanese Grand Prix,alb,williams,0,16,13.8,0.2,0.0,0.4,12.0
+2022,18,2022-10-09,Japanese Grand Prix,alo,alpine,0,7,11.2,4.4,0.0,0.4,12.0
+2022,18,2022-10-09,Japanese Grand Prix,bot,alfa_romeo,0,12,16.4,0.0,0.0,0.2,12.0
+2022,18,2022-10-09,Japanese Grand Prix,gas,alphatauri,0,17,10.0,1.4,0.0,1.0,12.0
+2022,18,2022-10-09,Japanese Grand Prix,ham,mercedes,0,6,8.0,8.6,0.0,9.0,12.0
+2022,18,2022-10-09,Japanese Grand Prix,lat,williams,0,20,17.6,0.0,0.0,0.4,12.0
+2022,18,2022-10-09,Japanese Grand Prix,lec,ferrari,1,2,3.8,13.4,0.0,13.4,12.0
+2022,18,2022-10-09,Japanese Grand Prix,mag,haas_f1_team,0,18,15.0,0.0,0.0,0.0,12.0
+2022,18,2022-10-09,Japanese Grand Prix,msc,haas_f1_team,0,15,13.8,0.0,0.0,0.0,12.0
+2022,18,2022-10-09,Japanese Grand Prix,nor,mclaren,0,10,7.4,6.0,0.0,5.6,12.0
+2022,18,2022-10-09,Japanese Grand Prix,oco,alpine,0,5,10.4,2.0,0.0,1.2,12.0
+2022,18,2022-10-09,Japanese Grand Prix,per,red_bull_racing,1,4,3.8,14.4,0.0,18.2,12.0
+2022,18,2022-10-09,Japanese Grand Prix,ric,mclaren,0,11,13.8,2.0,0.0,5.8,12.0
+2022,18,2022-10-09,Japanese Grand Prix,rus,mercedes,0,8,5.2,12.0,0.0,7.4,12.0
+2022,18,2022-10-09,Japanese Grand Prix,sai,ferrari,0,3,4.4,11.6,0.0,15.6,12.0
+2022,18,2022-10-09,Japanese Grand Prix,str,aston_martin,0,19,11.2,1.8,0.0,2.4,12.0
+2022,18,2022-10-09,Japanese Grand Prix,tsu,alphatauri,0,13,16.2,0.0,0.0,1.0,12.0
+2022,18,2022-10-09,Japanese Grand Prix,ver,red_bull_racing,1,1,2.2,21.6,0.0,16.6,12.0
+2022,18,2022-10-09,Japanese Grand Prix,vet,aston_martin,0,9,12.0,1.8,0.0,2.4,12.0
+2022,18,2022-10-09,Japanese Grand Prix,zho,alfa_romeo,0,14,14.6,0.2,0.0,0.2,12.0
+2022,19,2022-10-23,United States Grand Prix,alb,williams,0,8,15.2,0.2,0.0,0.4,12.0
+2022,19,2022-10-23,United States Grand Prix,alo,alpine,0,14,11.0,4.8,0.0,3.6,18.0
+2022,19,2022-10-23,United States Grand Prix,bot,alfa_romeo,0,7,15.4,0.0,0.0,0.2,6.0
+2022,19,2022-10-23,United States Grand Prix,gas,alphatauri,0,11,11.2,1.4,0.0,0.2,20.0
+2022,19,2022-10-23,United States Grand Prix,ham,mercedes,1,3,8.6,6.8,0.0,6.2,2.0
+2022,19,2022-10-23,United States Grand Prix,lat,williams,0,17,15.8,0.4,0.0,0.4,15.0
+2022,19,2022-10-23,United States Grand Prix,lec,ferrari,1,12,3.2,14.8,0.0,12.0,4.0
+2022,19,2022-10-23,United States Grand Prix,mag,haas_f1_team,0,13,14.6,0.0,0.0,0.0,12.0
+2022,19,2022-10-23,United States Grand Prix,msc,haas_f1_team,0,16,14.4,0.0,0.0,0.4,16.0
+2022,19,2022-10-23,United States Grand Prix,nor,mclaren,0,6,8.0,5.0,0.0,4.6,8.0
+2022,19,2022-10-23,United States Grand Prix,oco,alpine,0,0,9.4,4.0,0.0,4.8,19.0
+2022,19,2022-10-23,United States Grand Prix,per,red_bull_racing,0,9,3.2,16.0,0.0,19.8,3.0
+2022,19,2022-10-23,United States Grand Prix,ric,mclaren,0,15,13.0,2.0,0.0,6.2,5.0
+2022,19,2022-10-23,United States Grand Prix,rus,mercedes,0,4,6.2,9.8,0.0,6.8,14.0
+2022,19,2022-10-23,United States Grand Prix,sai,ferrari,0,1,7.4,9.2,0.0,12.6,7.0
+2022,19,2022-10-23,United States Grand Prix,str,aston_martin,0,5,11.4,1.8,0.0,4.0,12.0
+2022,19,2022-10-23,United States Grand Prix,tsu,alphatauri,0,19,15.0,0.0,0.0,0.2,9.0
+2022,19,2022-10-23,United States Grand Prix,ver,red_bull_racing,1,2,2.2,21.6,0.0,17.2,1.0
+2022,19,2022-10-23,United States Grand Prix,vet,aston_martin,0,10,11.2,3.2,0.0,4.0,10.0
+2022,19,2022-10-23,United States Grand Prix,zho,alfa_romeo,0,18,15.2,0.2,0.0,0.0,12.0
+2022,20,2022-10-30,Mexico City Grand Prix,alb,williams,0,17,14.4,0.2,0.0,0.4,12.0
+2022,20,2022-10-30,Mexico City Grand Prix,alo,alpine,0,9,11.4,4.0,0.0,4.8,9.0
+2022,20,2022-10-30,Mexico City Grand Prix,bot,alfa_romeo,0,6,15.4,0.0,0.0,0.0,15.0
+2022,20,2022-10-30,Mexico City Grand Prix,gas,alphatauri,0,14,12.2,1.0,0.0,0.2,4.0
+2022,20,2022-10-30,Mexico City Grand Prix,ham,mercedes,1,3,5.0,10.4,0.0,8.6,2.0
+2022,20,2022-10-30,Mexico City Grand Prix,lat,williams,0,18,15.6,0.4,0.0,0.4,17.0
+2022,20,2022-10-30,Mexico City Grand Prix,lec,ferrari,0,7,2.6,16.2,0.0,9.0,5.0
+2022,20,2022-10-30,Mexico City Grand Prix,mag,haas_f1_team,0,19,13.2,0.4,0.0,0.4,12.0
+2022,20,2022-10-30,Mexico City Grand Prix,msc,haas_f1_team,0,15,14.0,0.0,0.0,0.4,19.0
+2022,20,2022-10-30,Mexico City Grand Prix,nor,mclaren,0,8,6.8,6.6,0.0,3.8,10.0
+2022,20,2022-10-30,Mexico City Grand Prix,oco,alpine,0,10,10.2,2.8,0.0,4.8,13.0
+2022,20,2022-10-30,Mexico City Grand Prix,per,red_bull_racing,1,4,3.6,14.8,0.0,17.2,3.0
+2022,20,2022-10-30,Mexico City Grand Prix,ric,mclaren,0,11,13.2,2.0,0.0,2.2,12.0
+2022,20,2022-10-30,Mexico City Grand Prix,rus,mercedes,0,2,6.4,9.6,0.0,12.2,16.0
+2022,20,2022-10-30,Mexico City Grand Prix,sai,ferrari,0,5,10.8,6.2,0.0,7.6,6.0
+2022,20,2022-10-30,Mexico City Grand Prix,str,aston_martin,0,20,12.8,1.8,0.0,3.2,14.0
+2022,20,2022-10-30,Mexico City Grand Prix,tsu,alphatauri,0,13,14.4,0.2,0.0,0.2,20.0
+2022,20,2022-10-30,Mexico City Grand Prix,ver,red_bull_racing,1,1,2.2,21.4,0.0,19.0,1.0
+2022,20,2022-10-30,Mexico City Grand Prix,vet,aston_martin,0,16,11.2,3.2,0.0,2.4,7.0
+2022,20,2022-10-30,Mexico City Grand Prix,zho,alfa_romeo,0,12,14.8,0.2,0.0,0.2,12.0
+2022,21,2022-11-13,São Paulo Grand Prix,alb,williams,0,19,14.8,0.0,0.0,0.4,12.0
+2022,21,2022-11-13,São Paulo Grand Prix,alo,alpine,0,17,14.0,2.4,0.0,4.4,9.0
+2022,21,2022-11-13,São Paulo Grand Prix,bot,alfa_romeo,0,14,13.6,0.2,0.0,0.2,3.0
+2022,21,2022-11-13,São Paulo Grand Prix,gas,alphatauri,0,10,12.2,1.0,0.0,0.2,7.0
+2022,21,2022-11-13,São Paulo Grand Prix,ham,mercedes,1,2,4.6,11.6,0.0,12.8,1.0
+2022,21,2022-11-13,São Paulo Grand Prix,lat,williams,0,18,15.6,0.4,0.0,0.0,16.0
+2022,21,2022-11-13,São Paulo Grand Prix,lec,ferrari,0,5,3.2,14.8,0.0,6.6,5.0
+2022,21,2022-11-13,São Paulo Grand Prix,mag,haas_f1_team,0,8,13.6,0.4,0.0,0.4,12.0
+2022,21,2022-11-13,São Paulo Grand Prix,msc,haas_f1_team,0,12,14.6,0.0,0.0,0.4,18.0
+2022,21,2022-11-13,São Paulo Grand Prix,nor,mclaren,0,6,7.2,5.8,0.0,3.2,10.0
+2022,21,2022-11-13,São Paulo Grand Prix,oco,alpine,0,16,10.0,3.2,0.0,4.0,8.0
+2022,21,2022-11-13,São Paulo Grand Prix,per,red_bull_racing,0,4,3.2,15.8,0.0,20.4,4.0
+2022,21,2022-11-13,São Paulo Grand Prix,ric,mclaren,0,11,11.2,3.2,0.0,3.2,19.0
+2022,21,2022-11-13,São Paulo Grand Prix,rus,mercedes,1,1,6.8,8.6,0.0,15.6,13.0
+2022,21,2022-11-13,São Paulo Grand Prix,sai,ferrari,1,7,10.2,7.4,0.0,9.0,6.0
+2022,21,2022-11-13,São Paulo Grand Prix,str,aston_martin,0,15,13.8,1.6,0.0,2.4,20.0
+2022,21,2022-11-13,São Paulo Grand Prix,tsu,alphatauri,0,0,14.4,0.2,0.0,0.2,15.0
+2022,21,2022-11-13,São Paulo Grand Prix,ver,red_bull_racing,0,3,2.2,21.2,0.0,16.6,2.0
+2022,21,2022-11-13,São Paulo Grand Prix,vet,aston_martin,0,9,11.2,3.2,0.0,1.0,11.0
+2022,21,2022-11-13,São Paulo Grand Prix,zho,alfa_romeo,0,13,14.2,0.2,0.0,0.6,12.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,alb,williams,0,19,15.4,0.0,0.0,0.0,12.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,alo,alpine,0,10,11.2,4.4,0.0,3.6,8.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,bot,alfa_romeo,0,18,12.8,0.6,0.0,0.6,6.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,gas,alphatauri,0,17,13.4,0.2,0.0,0.2,5.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,ham,mercedes,0,5,4.0,13.2,0.0,17.2,2.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,lat,williams,0,20,15.8,0.4,0.0,0.0,16.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,lec,ferrari,1,3,3.6,13.6,0.0,9.0,10.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,mag,haas_f1_team,0,16,14.2,0.4,0.0,0.0,12.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,msc,haas_f1_team,0,12,14.8,0.0,0.0,0.0,14.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,nor,mclaren,0,7,9.4,4.6,0.0,1.6,7.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,oco,alpine,0,8,9.4,4.0,0.0,3.6,9.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,per,red_bull_racing,1,2,3.4,15.2,0.0,15.8,15.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,ric,mclaren,0,13,11.8,3.2,0.0,3.4,12.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,rus,mercedes,0,6,6.4,10.8,0.0,15.0,18.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,sai,ferrari,0,4,10.0,8.0,0.0,12.6,3.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,str,aston_martin,0,14,12.2,1.8,0.0,1.0,13.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,tsu,alphatauri,0,11,15.0,0.2,0.0,0.0,4.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,ver,red_bull_racing,1,1,3.2,17.8,0.0,13.8,1.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,vet,aston_martin,0,9,9.4,3.2,0.0,1.0,11.0
+2022,22,2022-11-20,Abu Dhabi Grand Prix,zho,alfa_romeo,0,15,14.6,0.0,0.0,0.6,12.0
