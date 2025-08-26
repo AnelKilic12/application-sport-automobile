@@ -58,7 +58,7 @@ def engineer_features():
     df = df.sort_values(["driverId", "date"]).reset_index(drop=True)
 
     def roll_mean(series, win=5):
-        return series.shift(1).rolling(win, min_periods=1).mean()
+        return series.shift(1).rolling(win, min_periods=1).mean() # shift(1) pour éviter la fuite
 
     df["drv_avg_finish_5"] = df.groupby("driverId")["finish_pos"].transform(lambda s: roll_mean(s, 5))
     df["drv_avg_points_5"] = df.groupby("driverId")["points"].transform(lambda s: roll_mean(s, 5))

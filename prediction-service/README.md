@@ -132,7 +132,6 @@ Il inclut : pipelines d’ingestion (FastF1), features, entraînement/évaluatio
         ROC-AUC ≈ 0.90
 
     Le modèle est sauvegardé sous models/xgb_podium.pkl.
-    Un graphique d’importance par permutation est exporté dans figures/.
 
 ## 4. Évaluation (jeu de test)
 
@@ -150,7 +149,7 @@ Il inclut : pipelines d’ingestion (FastF1), features, entraînement/évaluatio
 
         Brier score ≈ 0.049
 
-    Un rapport classification_report par classe est affiché en console.
+    Un rapport par classe est affiché en console.
 
 ## 5. Importance des features
 
