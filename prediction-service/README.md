@@ -1,4 +1,4 @@
-# 🏎️ F1 Podium Prediction Service
+# F1 Podium Prediction Service
 
 Micro-service de prédiction des podiums en Formule 1, basé sur **FastF1**, **pandas**, **XGBoost** et **FastAPI**.  
 Ce projet a été développé dans le cadre d’un travail de Bachelor (HEG Genève, 2025).
@@ -49,7 +49,49 @@ Il inclut : pipelines d’ingestion (FastF1), features, entraînement/évaluatio
     joblib
     matplotlib
 
-# Arborescence (indicative)
+# Arborescence du projet
+
+    prediction-service/
+    ├── api/
+    │ ├── pycache/
+    │ └── app.py # API FastAPI exposant l'endpoint /predict
+    ├── data/
+    │ ├── fastf1_cache/ # Cache FastF1 par saison
+    │ │ ├── 2021/
+    │ │ ├── 2022/
+    │ │ ├── 2023/
+    │ │ ├── 2024/
+    │ │ └── 2025/
+    │ ├── fastf1_http_cache.sqlite 
+    │ ├── interim/ # Données temporaires
+    │ ├── processed/ # Données transformées pour l'entraînement
+    │ │ ├── features.txt
+    │ │ ├── test.csv
+    │ │ ├── train.csv
+    │ │ └── val.csv
+    │ └── raw/ # Données brutes (ingestion)
+    │ ├── qualifying.csv
+    │ ├── races.csv
+    │ └── results.csv
+    ├── models/
+    │ └── xgb_podium.pkl # Modèle XGBoost entraîné
+    ├── notebooks/ # Expérimentation (optionnel)
+    ├── reports/
+    │ ├── feature_importance_val.csv
+    │ └── feature_importance_val.png
+    ├── src/
+    │ ├── pycache/
+    │ ├── evaluate.py # (4) Évaluation du modèle sur le jeu de test
+    │ ├── features.py (2) Construction des features (grid, moyennes, DNF…)
+    │ ├── importance.py (5) Analyse de l’importance des features (permutation, SHAP…)
+    │ ├── ingest.py # (1) Ingestion des données avec FastF1
+    │ ├── predict_demo.py (6) Démo CLI : prédictions pour une course donnée
+    │ ├── predict.py (7) Fonctions de prédiction (utilisées par l’API)
+    │ └── train.py (3) Entraînement du modèle XGBoost
+    ├── predictions_2023_6.csv # Exemple de sortie prédiction (Monaco 2023)
+    ├── predictions_2025_1.csv # Exemple de sortie prédiction (Australie 2025)
+    ├── README.md
+    └── requirements.txt
 
 # Flux de bout en bout 
 ## 1. Ingestion (FastF1 -> CSV)
@@ -109,6 +151,15 @@ Il inclut : pipelines d’ingestion (FastF1), features, entraînement/évaluatio
         Brier score ≈ 0.049
 
     Un rapport classification_report par classe est affiché en console.
+
+## 5. Importance des features
+
+    python src/importance.py
+
+    Analyse l’importance des variables  
+    Export des résultats dans /reports :
+    - feature_importance_val.csv  
+    - feature_importance_val.png
 
 ## 5. Démo CLI (ex Monaco 2023 R6)
 
