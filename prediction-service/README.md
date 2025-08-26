@@ -57,23 +57,23 @@ Il inclut : pipelines d’ingestion (FastF1), features, entraînement/évaluatio
 
 ## Installation complète
 
-    git clone <URL_DU_DEPOT>
-    cd prediction-service
-    python -m venv .venv
-    source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
-    pip install -r requirements.txt
+git clone <URL_DU_DEPOT>
+cd prediction-service
+python -m venv .venv
+source .venv/bin/activate  # (Windows: .venv\Scripts\activate)
+pip install -r requirements.txt
 
 ### requirements.txt (indicatif) :
     
-    pandas
-    numpy
-    scikit-learn
-    xgboost
-    fastf1
-    fastapi
-    uvicorn
-    joblib
-    matplotlib
+pandas
+numpy
+scikit-learn
+xgboost
+fastf1
+fastapi
+uvicorn
+joblib
+matplotlib
 
 # Arborescence du projet
 
@@ -105,124 +105,124 @@ Il inclut : pipelines d’ingestion (FastF1), features, entraînement/évaluatio
     └── requirements.txt
 
 # Flux de bout en bout
- 
+
 ## 1. Ingestion (FastF1 -> CSV)
     
-    python src/ingest.py
-    
-    (Exporte dans data/raw/ des CSV du type : races.csv, results.csv, qualifying.csv.)
+python src/ingest.py
 
-    Note : l’API Ergast n’étant plus disponible, l’ingestion repose sur FastF1.
+(Exporte dans data/raw/ des CSV du type : races.csv, results.csv, qualifying.csv.)
+
+Note : l’API Ergast n’étant plus disponible, l’ingestion repose sur FastF1.
 
 ## 2. Features
     
-    python src/features.py
+python src/features.py
     
-    Construit les variables clés, par ex :
-    - grid (position de départ)
+Construit les variables clés, par ex :
+- grid (position de départ)
 
-    - drv_avg_points_5, drv_avg_finish_5 (forme récente pilote – rolling 5)
+- drv_avg_points_5, drv_avg_finish_5 (forme récente pilote – rolling 5)
 
-    - con_avg_points_5 (forme récente écurie – rolling 5)
+- con_avg_points_5 (forme récente écurie – rolling 5)
 
-    - drv_dnf_rate_5 (taux d’abandon récent – Did Not Finish)
+- drv_dnf_rate_5 (taux d’abandon récent – Did Not Finish)
 
-    - drv_circuit_avg_finish (historique pilote–circuit)
+- drv_circuit_avg_finish (historique pilote–circuit)
 
-    Sorties dans /data/processed
+Sorties dans /data/processed
 
 ## 3. Entraînement
     
-    python src/train.py
+python src/train.py
 
-    Sorties affichées (validation) :
+Sorties affichées (validation) :
 
-        Accuracy ≈ 0.88
+    Accuracy ≈ 0.88
 
-        F1 ≈ 0.58
+    F1 ≈ 0.58
 
-        ROC-AUC ≈ 0.90
+    ROC-AUC ≈ 0.90
 
-    Le modèle est sauvegardé sous models/xgb_podium.pkl.
+Le modèle est sauvegardé sous models/xgb_podium.pkl.
 
 ## 4. Évaluation (jeu de test)
 
-    python src/evaluate.py
+python src/evaluate.py
 
-    Exemple de résultats (test) :
+Exemple de résultats (test) :
 
-        Accuracy ≈ 0.94
+    Accuracy ≈ 0.94
 
-        F1 (classe podium) ≈ 0.53
+    F1 (classe podium) ≈ 0.53
 
-        ROC-AUC ≈ 0.90
+    ROC-AUC ≈ 0.90
 
-        LogLoss ≈ 0.17
+    LogLoss ≈ 0.17
 
-        Brier score ≈ 0.049
+    Brier score ≈ 0.049
 
-    Un rapport par classe est affiché en console.
+Un rapport par classe est affiché en console.
 
 ## 5. Importance des features
 
-    python src/importance.py
+python src/importance.py
 
-    Analyse l’importance des variables  
-    Export des résultats dans /reports :
-    - feature_importance_val.csv  
-    - feature_importance_val.png
+Analyse l’importance des variables  
+Export des résultats dans /reports :
+- feature_importance_val.csv  
+- feature_importance_val.png
 
 ## 6. Démo CLI (ex Monaco 2023 R6)
 
-    python src/predict_demo.py
+python src/predict_demo.py
 
-    Affiche dans le terminal les Top-N pilotes avec prob_podium, et exporte data/predictions/predictions_2023_6.csv.
+Affiche dans le terminal les Top-N pilotes avec prob_podium, et exporte data/predictions/predictions_2023_6.csv.
 
 # API - FastAPI
 
-    uvicorn src.api:app --reload
+uvicorn src.api:app --reload
 
-    Swagger UI : http://127.0.0.1:8000/docs
+Swagger UI : http://127.0.0.1:8000/docs
 
 ## Endpoint
     
-    POST /predict – retourne la probabilité de podium par pilote pour une course.
+POST /predict – retourne la probabilité de podium par pilote pour une course.
 
 # Métriques et interprétation
 
-    - ROC-AUC (~0.90) : bonne séparation podium vs non-podium.
+- ROC-AUC (~0.90) : bonne séparation podium vs non-podium.
 
-    - LogLoss (~0.17) & Brier (~0.049) : probabilités bien calibrées.
+- LogLoss (~0.17) & Brier (~0.049) : probabilités bien calibrées.
 
-    - F1 (podium) (~0.53) : la classe minoritaire reste difficile (déséquilibre).
+- F1 (podium) (~0.53) : la classe minoritaire reste difficile (déséquilibre).
 
-    L’importance par permutation montre grid comme variable la plus déterminante, suivie de la forme récente pilote/écurie et de l’historique pilote-circuit.
+L’importance par permutation montre grid comme variable la plus déterminante, suivie de la forme récente pilote/écurie et de l’historique pilote-circuit.
 
 # Déséquilibre de classes
 
-    Les podiums étant rares, le jeu est déséquilibré. Le code applique :
+Les podiums étant rares, le jeu est déséquilibré. Le code applique :
 
-        - pondération de classe / réglages XGBoost,
+- pondération de classe / réglages XGBoost,
 
-        - features ciblant la forme récente,
+- features ciblant la forme récente,
 
-        - évaluation multi-métriques (pas d’accuracy seule).
+- évaluation multi-métriques (pas d’accuracy seule).
 
 # Reproductibilité
 
-    - Fixer les graines aléatoires (numpy, sklearn, xgboost).
+- Fixer les graines aléatoires (numpy, sklearn, xgboost).
 
-    - Versionner : code, modèle, features, données utilisées pour l’entraînement.
+- Versionner : code, modèle, features, données utilisées pour l’entraînement.
 
 # Dépannage
 
-    - Pas de course trouvée : vérifier season/round (et disponibilité FastF1).
+- Pas de course trouvée : vérifier season/round (et disponibilité FastF1).
 
-    - Modèle introuvable : lancer python src/train.py pour générer models/xgb_podium.pkl.
+- Modèle introuvable : lancer python src/train.py pour générer models/xgb_podium.pkl.
 
-    - Données manquantes : relancer l’ingestion puis features.py.
+- Données manquantes : relancer l’ingestion puis features.py.
 
 # Licence
 
-    Projet développé dans le cadre d’un travail de Bachelor (HEG Genève, 2025).  
-    Usage académique et démonstratif uniquement.
+Projet développé dans le cadre d’un travail de Bachelor (HEG Genève, 2025).  
+Usage académique et démonstratif uniquement.
