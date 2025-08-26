@@ -240,3 +240,8 @@ Il inclut : pipelines d’ingestion (FastF1), features, entraînement/évaluatio
     - Modèle introuvable : lancer python src/train.py pour générer models/xgb_podium.pkl.
 
     - Données manquantes : relancer l’ingestion puis features.py.
+
+# Licence
+
+    Projet développé dans le cadre d’un travail de Bachelor (HEG Genève, 2025).  
+    Usage académique et démonstratif uniquement.
